@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <!-- v23789 -->
+
+
+  <title>Поширені питання по Пром-оплаті &ndash; Пiдтримка</title>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="">
+
+  <meta name="description" content="Скільки коштує доставка та хто за неї платить? Для деяких замовлень мобільного додатку для покупців діє безкоштовна доставка. Умови..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Пiдтримка" />
+<meta property="og:title" content="Поширені питання по Пром-оплаті" />
+<meta property="og:description" content="Скільки коштує доставка та хто за неї платить?
+Для деяких замовлень мобільного додатку для покупців діє безкоштовна доставка. Умови акції.
+В іншому випадку, за доставку платить покупець. Вартість д..." />
+<meta property="og:url" content="https://support.prom.ua/hc/uk/articles/360006781018" />
+<link rel="canonical" href="https://support.prom.ua/hc/uk/articles/360006781018-%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D0%BE-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96">
+<link rel="alternate" hreflang="uk" href="https://support.prom.ua/hc/uk/articles/360006781018-%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D0%BE-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96">
+<link rel="alternate" hreflang="x-default" href="https://support.prom.ua/hc/uk/articles/360006781018-%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D0%BE-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-5dedcabe00a896eb2c214ed2973f0975.css" media="all" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" href="//static.zdassets.com/hc/assets/theming_v1_support-e05586b61178dcde2a13a3d323525a18.css" media="all" />
+  <link rel="stylesheet" type="text/css" href="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/style.css?digest=14557196134685">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-09d07e20ce042ef10e301661ad1f316c.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-153977985-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <script type="text/javascript" src="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/script.js?digest=14557196134685"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header uaprom-header">
+  <div class="container">
+    <div class="logo">
+      <a title="Головна" href="/hc/uk">
+      		<img src="//theme.zdassets.com/theme_assets/9422419/3a4f554dc0e52a68af6dfb1933ec9e01bfdcd16c.svg" alt="prom.продавцям">
+      </a>
+      
+      
+    </div>
+    <div class="nav-wrapper">
+      <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Переключити навігаційне меню">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+          <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
+        </svg>
+      </button>
+      <nav class="user-nav" id="user-nav">
+        <a href="https://prom.ua/" target="_blank">Prom.ua</a>
+        <a class="submit-a-request" href="/hc/uk/requests/new">Надіслати запит</a>
+      </nav>
+        <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="Відкриває діалог" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360006781018-%25D0%259F%25D0%25BE%25D1%2588%25D0%25B8%25D1%2580%25D0%25B5%25D0%25BD%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%259F%25D1%2580%25D0%25BE%25D0%25BC-%25D0%25BE%25D0%25BF%25D0%25BB%25D0%25B0%25D1%2582%25D1%2596&amp;locale=uk">Увійти</a>
+
+    </div>
+  </div>
+</header>
+
+  <main role="main">
+    <section class="section hero">
+  <div class="hero-inner">
+    <div class="hero-info">
+      <h1 class="hero-title">Чим ми можемо допомогти?</h1>
+    </div>
+    <div class="hero-search-wrapper">
+      <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/uk/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Пошук" autocomplete="off" aria-label="Пошук" /></form>
+      <div class="line"></div>
+    </div>
+  </div>
+</section>
+
+<div class="container uaprom-article-container">
+  <div class="breadcrumbs-container">
+    <ol class="breadcrumbs">
+  
+    <li title="Пiдтримка">
+      
+        <a href="/hc/uk">Пiдтримка</a>
+      
+    </li>
+  
+    <li title="Оплата та доставка">
+      
+        <a href="/hc/uk/categories/6994330086813-%D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0-%D1%82%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0">Оплата та доставка</a>
+      
+    </li>
+  
+    <li title="Пром-оплата">
+      
+        <a href="/hc/uk/sections/360001511697-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B0">Пром-оплата</a>
+      
+    </li>
+  
+</ol>
+
+  </div>
+
+  <div class="article-container" id="article-container">
+    
+    <aside class="sidebar">
+   
+      <div class="navigation-sidebar mobile-expandable">
+        <div class="sidebar-header">
+          <h3>Категорії</h3>
+        </div>
+        <ul class="nav-list preview" data-locale="uk">
+          <li class="item category-item preview-item"><nav></nav><a>Початок бізнесу в інтернеті</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Як працює маркетплейс</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Правила роботи на Prom.ua</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Оплата та доставка</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Каталог ProSale </a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Робота з кабінетом компанії</a></li>
+        </ul>
+      </div>
+      
+      
+      	
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Пов'язані статті</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCLGfEtJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCFqIE9JTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICMwEvaGMvdWsvYXJ0aWNsZXMvMzYwMDA2NzIxNDU3LSVEMCU5RiVEMSU4MCVEMCVCRSVEMCVCQy0lRDAlQkUlRDAlQkYlRDAlQkIlRDAlQjAlRDElODIlRDAlQjAtJUQwJUI0JUQwJUJCJUQxJThGLSVEMCVCRiVEMCVCRSVEMCVCQSVEMSU4MyVEMCVCRiVEMSU4NiVEMSU4Ri0lRDElOEYlRDAlQkEtJUQwJUI3JUQwJUIwJUQwJUJDJUQwJUJFJUQwJUIyJUQwJUI4JUQxJTgyJUQwJUI4LSVEMSU4MiVEMCVCMC0lRDAlQkUlRDAlQkYlRDAlQkIlRDAlQjAlRDElODIlRDAlQjglRDElODIlRDAlQjgtJUQxJTgyJUQwJUJFJUQwJUIyJUQwJUIwJUQxJTgwBjsIVDoJcmFua2kG--842a7d295b524a0619d358446be8e82a3c3ee6f3" rel="nofollow">Пром-оплата для покупця: як замовити та оплатити товар</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBKKE9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCFqIE9JTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICKwEvaGMvdWsvYXJ0aWNsZXMvMzYwMDA2NzgxNDU4LSVEMCU5RiVEMSU4MCVEMCVCRSVEMCVCQy0lRDAlQkUlRDAlQkYlRDAlQkIlRDAlQjAlRDElODIlRDAlQjAtJUQxJTgxJUQwJUJBJUQwJUIwJUQxJTgxJUQxJTgzJUQwJUIyJUQwJUIwJUQwJUJEJUQwJUJEJUQxJThGLSVEMCVCRSVEMCVCRiVEMCVCQiVEMCVCMCVEMSU4MiVEMCVCOC0lRDElODIlRDAlQjAtJUQwJUJGJUQwJUJFJUQwJUIyJUQwJUI1JUQxJTgwJUQwJUJEJUQwJUI1JUQwJUJEJUQwJUJEJUQxJThGLSVEMSU4MiVEMCVCRSVEMCVCMiVEMCVCMCVEMSU4MCVEMSU4MwY7CFQ6CXJhbmtpBw%3D%3D--1e0b319aa2dc9324c1014c2c11726d69ad342b31" rel="nofollow">Пром-оплата: скасування оплати та повернення товару</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCNKIE9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCFqIE9JTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB7i9oYy91ay9hcnRpY2xlcy8zNjAwMDY3ODExMzgtJUQwJTk0JUQwJUJFJUQxJTgxJUQxJTgyJUQwJUIwJUQwJUIyJUQwJUJBJUQwJUIwLWMlRDAlQkYlRDAlQkIlRDAlQjAlRDElODclRDAlQjUlRDAlQkQlRDAlQjglRDElODUtJUQwJTlGJUQxJTgwJUQwJUJFJUQwJUJDLSVEMCVCRSVEMCVCRiVEMCVCQiVEMCVCMCVEMSU4MiVEMCVCRSVEMSU4RS0lRDElODIlRDAlQkUlRDAlQjIlRDAlQjAlRDElODAlRDElOTYlRDAlQjIGOwhUOglyYW5raQg%3D--18f1c4475641819e2f87c1e76e0f3ed019153e00" rel="nofollow">Доставка cплачених Пром-оплатою товарів</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCN4JvdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCFqIE9JTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICFwEvaGMvdWsvYXJ0aWNsZXMvMzYwMDE3ODg5NzU4LSVEMCVBMCVEMCVCNSVEMCVCQSVEMCVCRSVEMCVCQyVEMCVCNSVEMCVCRCVEMCVCNCVEMCVCMCVEMSU4NiVEMSU5NiVEMSU5Ny0lRDElODklRDAlQkUlRDAlQjQlRDAlQkUtJUQwJUJGJUQwJUJFJUQwJUJBJUQxJTgwJUQwJUIwJUQxJTg5JUQwJUI1JUQwJUJEJUQwJUJEJUQxJThGLSVEMSU4MCVEMCVCNSVEMCVCOSVEMSU4MiVEMCVCOCVEMCVCRCVEMCVCMyVEMSU4My0lRDElODIlRDAlQkUlRDAlQjIlRDAlQjAlRDElODAlRDElOTYlRDAlQjIGOwhUOglyYW5raQk%3D--2c4d0a6287b354bf787053effc81aa648dbbfde4" rel="nofollow">Рекомендації щодо покращення рейтингу товарів</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBlBWdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCFqIE9JTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICMgEvaGMvdWsvYXJ0aWNsZXMvMzYwMDExMzUwMjk3LSVEMCU5RiVEMCVCRSVEMSU4MSVEMCVCQiVEMSU4MyVEMCVCMyVEMCVCMC0lRDAlOUIlRDElOTYlRDAlQjQlRDAlQkUlRDAlQjMlRDAlQjUlRDAlQkQlRDAlQjUlRDElODAlRDAlQjAlRDElODYlRDElOTYlRDElOTctJUQwJUJBJUQwJUJFJUQwJUJDJUQxJTk2JUQxJTgxJUQxJTk2JUQxJThGLSVEMCVCNyVEMCVCMC0lRDAlQjclRDAlQjAlRDAlQkMlRDAlQkUlRDAlQjIlRDAlQkIlRDAlQjUlRDAlQkQlRDAlQkQlRDElOEYtJUQwJUI3LSVEMSU4MSVEMCVCMCVEMCVCOSVEMSU4MiVEMSU4My0GOwhUOglyYW5raQo%3D--2b60bde0829d7a31ee1a1aef98f91fd0d02d63b7" rel="nofollow">Послуга Лідогенерації (комісія за замовлення з сайту)</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      
+      
+      
+      	<div data-recent-articles></div>
+      
+      
+    </aside>
+
+    <article class="article">
+      <div class="article-wrapper uaprom-article-block">
+        <header class="article-header page-header">
+          <h1 title="Поширені питання по Пром-оплаті" class="article-title">
+            Поширені питання по Пром-оплаті
+            
+          </h1>
+        </header>
+
+        <section class="article-info">
+          <div class="article-content">
+            <div class="article-body"><h3 id="h_01HB8ANW6EWMR6S0TP9J88G56P">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Скільки коштує доставка та хто за неї платить?</h3>
+<p><span>Для деяких замовлень мобільного додатку для покупців діє безкоштовна доставка. </span><a href="https://support.prom.ua/hc/uk/articles/7675044228893"><span>Умови акції.</span></a></p>
+<p><span>В іншому випадку, з</span><span>а доставку платить покупець.</span>&nbsp;Вартість доставки Залежить від тарифів оператора доставки.</p>
+<h3 id="h_01HB8ANW6F424JPYJ1TY3C5RYB">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Які способи доставки доступні з Пром-оплатою?&nbsp;</h3>
+<p><span>Доставка товарів, оплачених Пром-оплатою можлива операторами Нова пошта, Укрпошта, Meest та Rozetka. Місто і номер відділення покупець вибирає під час оформлення замовлення. </span><a href="https://support.prom.ua/hc/ru/articles/360006721457-%D0%9A%D0%B0%D0%BA-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C-%D1%82%D0%BE%D0%B2%D0%B0%D1%80-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%BE%D0%B9"><span>Детальніше</span></a></p>
+<h3 id="h_01HB8ANW6FE2E4765RNCAKCBAR">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Яка комісія при оплаті за допомогою Пром-оплати?</h3>
+<p>Вартість послуг (розмір комісії фінансового партнера), які надаватимуться фінансовим партнером за здійснення переказу, становить 1% від суми переказу (вартості замовленого товару) +5 грн. при замовленні на сайті компанії.</p>
+<h3 id="h_01HB8ANW6F5SJXH8VFK7WAVYH9">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Яка комісія на зарахування грошей продавцю?&nbsp;</h3>
+<p>Банк-емітент платіжної картки може стягувати комісію, розмір якої залежить від умов обслуговування карти. Продавець самостійно сплачує банку/фінансовій компанії комісію за послуги інтернет-еквайрингу (відсоток від суми переказу згідно з умовами банку/фінансової компанії). У період з 01.06.2022 року до 30.09.2023 року (включно) для суб’єктів господарювання, з якими укладено Договори про надання фінансових послуг з переказу коштів суб’єктам господарювання-отримувачам переказу (з ФК "ЕВО"), діє акція, згідно умов якої розмір комісії становить у розмірі 0,00001% від суми переказу. <a class="waffle-rich-text-link" href="https://prom.ua/cloud-cgi/static/support/prom/Umovy-Aktsii-Ekvairynh-bez-pereplat-Dod1-do-Nakazu-143-vid-27.12.2022.pdf" target="_blank" rel="noopener noreferrer">Деталі</a>.</p>
+<h3 id="h_01HB8ANW6F0B1K8ZMMWB92SM80">
+<strong><img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> </strong>А Пром-оплата це безпечно?</h3>
+<p>Безпека всіх угод гарантується відповідно до стандартів безпеки Payment Card Industry Data Security Standard, і щорічно підтверджується сертифікатом PCI DSS.</p>
+<h3 id="h_01HB8ANW6FWFR42S5QN96Z0B9M">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Чим Пром-оплата краще Liqpay або звичайної оплати з карти на карту?</h3>
+<p>У разі оплати Пром-оплатою покупець не переживає за те, що він відправить гроші невідомому продавцеві, який в свою чергу може не відправити йому товар.</p>
+<p>Prom супроводжує покупку та оплату. Пром-оплата допоможе як продавцям, так і покупцям захиститися від шахраїв.</p>
+<h3 id="h_01HB8ANW6FFWZC2X80MZYHRKXW">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Пром-оплата - це переказ грошей на карту або онлайн-оплата?</h3>
+<p>Пром-оплата - це спосіб оплати замовлення (переказ з карти на карту або з карти на розрахунковий рахунок) на prom.ua при якому гроші за товар резервуються на транзитному рахунку в банку, поки покупець не забере посилку з відділення пошти.</p>
+<h3 id="h_01HB8ANW6F02HQ5VTM83F0BJ24">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Чому під час прив'язки карти продавцеві необхідно вводити свій CVV?</h3>
+<p>Для того, щоб зараховувати гроші за замовлення, необхідно упевнитися, що ваша карта активна і доступна для зарахувань. У процесі перевірки відбувається операція списання 1 грн, яка тут же повертається. Провести її без CVV-коду неможливо.</p>
+<p>Ці дані, номер картки, термін дії як Prom, так і його фінансовий партнер на своїй стороні не зберігає.</p>
+<h3 id="h_01HB8ANW6FNBVGXB3FNY20BYJJ">
+<strong><img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> </strong>Які замовлення покупці можуть оплачувати Пром-оплатою?</h3>
+<p>Пром-оплатою покупець може оплатити всі товари зі статусом «в наявності», якщо у продавця підключений спосіб оплати «Пром-оплата». Максимальна сума одного замовлення - <strong>29 999 грн</strong>.</p>
+<h3 id="h_01HB8ANW6FXCCPDDHAAXTPBRYC">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Як покупцю оплатити замовлення, якщо він не зробив цього відразу?</h3>
+<p>Також продавець може ініціювати оплату зі сторінки замовлення. Клієнт отримує повідомлення в Viber або push-повідомлення з номером замовлення і посиланням на оплату. За посиланням — перехід на сторінку замовлення з Пром-оплатою у додатку Prom.</p>
+<p><img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"><span> В які строки продавець повинен відправити оплачене замовлення?</span></p>
+<p>Обмежених термінів на відправку замовлення немає. Ми рекомендуємо продавцям відправляти замовлення якомога швидше. Але продавець з покупцем самостійно можуть узгодити дату відправки товару.</p>
+<p><strong><img src="/hc/article_attachments/360016761857" alt="1.png" width="20" height="20"> Важливо!</strong> Якщо продавець приймає оплати на розрахунковий рахунок, йому необхідно відправити замовлення і отримати виплату за нього протягом 30 днів з моменту оплати покупцем замовлення. Якщо гроші за замовлення не зараховуються продавцю на р/р протягом 30 днів з моменту оплати замовлення - вони будуть повернуті покупцеві на карту автоматично.</p>
+<h3 id="h_01HB8ANW6F89Q94C3BEM0CD3VN">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Як продавцеві зрозуміти, що замовлення оплачене?</h3>
+<p>Замовлення, оплачене Пром-оплатою, надходить в кабінет продавця до розділу «Оплачені замовлення» з поміткою «Оплачено». Також продавець отримує повідомлення про оплату замовлення на e-mail та sms. <a href="https://support.prom.ua/hc/ru/articles/360006781478" target="_blank" rel="noopener noreferrer">Детальніше</a></p>
+<h3 id="h_01HB8ANW6GWG4QVAV9ADHG77XE">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Коли продавець отримує свої гроші за замовлення?</h3>
+<p>Продавець оформляє замовлення, генерує ЕН і відправляє посилку обраної службою доставки. Покупець оглядає і забирає замовлення. Через 24 години, після того, як покупець забрав посилку з відділення логіста, гроші надійдуть на рахунок продавця.</p>
+<p>Виплата відразу після отримання посилки покупцям доступна для компаній, які:</p>
+<ul>
+<li>отримали і опрацювали понад 10 замовлень з Пром-оплатою;</li>
+<li>якісно обслуговують покупців: не тягнуть з відправкою, адекватно і вчасно реагують на звернення і, в разі конфліктних ситуацій, намагаються вирішити їх самостійно, не доводячи до відкриття спору;</li>
+<li>з мінімальною кількістю спірних ситуацій, ініційованих покупцями.</li>
+</ul>
+<p>Продавцю необхідно переконатися, що пройшло 24 години з моменту отримання посилки, номер ЕН (експрес-накладної) прив'язаний до замовлення і розрахунковий рахунок/карта активні. Якщо все так, зарахування грошей буде проходити автоматично, вчасно і без клопоту.</p>
+<p><strong><img src="/hc/article_attachments/360016761857" alt="1.png" width="20" height="20"> Зверніть увагу!&nbsp;</strong><span>Якщо продавець приймає оплати на банківську карту,</span><strong>платіжні системи Visa і Mastercard накладають обмеження на кількість P2P переказів:</strong></p>
+<ul>
+<li><span>Visa — 400 операцій на місяць. Денний ліміт – 50 транзакцій та не більше 100 000 грн.</span></li>
+<li><span>Mastercard — 100 операцій на місяць.</span></li>
+</ul>
+<p><span>Якщо кількість виплат буде перевищувати цей ліміт, виплата грошей буде відбуватися з затримкою. Коли спрацює ліміт, продавцю необхідно буде замінити банківську карту </span><a href="https://my.prom.ua/market/application/evopay"><span>в веб-додатку «Пром-оплата»</span></a><span>. А на майбутнє рекомендуємо підключити розрахунковий рахунок, тут обмежень немає.&nbsp;</span></p>
+<h3 id="h_01HB8ANW6GXN9J1C54HH34QPNE">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Як отримати виплату грошей за замовлення з Пром-оплатою, якщо покупець забрав товар самовивозом?</h3>
+<p>Якщо покупець оплатив замовлення Пром-оплатою і забирає його самовивозом, гроші за замовлення продавцю автоматично не зарахуються. Щоб отримати виплату за замовлення, продавцю необхідно звернутися на <a href="mailto:prompay@prom.ua">prompay@prom.ua</a> і надати підтвердження того, що покупець забрав свій товар. В якості підтвердження може бути переписка з покупцем, що підтверджує самовивіз (у чаті, месенджері, пошті тощо) або чек/квитанція про продаж.</p>
+<h3 id="h_01HB8ANW6G8C6SQGW02NG9KQSH">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Як продавцеві зрозуміти, за яке замовлення було зараховано гроші?</h3>
+<p>Якщо оплата замовлення в статусі «Виплачено» в кабінеті компанії, це означає, що гроші за замовлення були відправлені.</p>
+<p>Стежити за статусами оплати можна в кабінеті компанії у <a href="https://my.prom.ua/cms/order?payment_option_id=6520423&amp;filterSetId=temporary_filter_set_id&amp;search_term=&amp;page=1" target="_self">списку замовлень</a>. Також у момент переказу грошей продавець отримує повідомлення на e-mail та viber/sms про переведення. <a href="https://support.prom.ua/hc/uk/articles/360006781438" target="_blank" rel="noopener noreferrer">Детальніше</a></p>
+<h3 id="h_01HB8ANW6GGR0SE07X7GPY01E3">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Як можна скасувати замовлення і повернути гроші покупцеві?</h3>
+<p><span>Покупець може скасувати замовлення самостійно в кабінеті покупця, </span><span>якщо в замовленні не додана ЕН.</span></p>
+<p><span>Якщо продавець вже почав обробляти замовлення </span><span>— додав електронну накладну</span><span>, то для скасування замовлення, погодження повернення/обміну товару або повернення грошей покупцеві необхідно звернутися до продавця</span>.</p>
+<p>Скасувати оплату замовлення може продавець. Щоб скасувати оплату, йому потрібно перевести замовлення в статус «Скасовано» або вчинити дію «Повернути гроші покупцеві» на сторінці замовлення. Після цього оплата в повному обсязі повернеться покупцеві протягом 3-х банківських днів.</p>
+<p>Якщо виникли питання, Prom-підтримка охоче відповість на них, пишіть: <a href="prompay@prom.ua" target="_self">prompay@prom.ua</a></p>
+<p>Якщо при оплаті замовлення з покупця була списана комісія - вона повернеться покупцеві, тільки якщо повернення грошей буде проведено в день оплати замовлення. Якщо повернення здійснюється на наступний день або пізніше, комісію банк не повертає.</p>
+<h3 id="h_01HB8ANW6GJJATFAK0WW15K15V">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Чи потрібне PPO для Пром-оплати?</h3>
+<p><span>РРО та Пром-оплата ніяк не пов'язані. Prom не зобов'язує продавців видавати фіскальні чеки і не може цього робити.</span></p>
+<p><strong>Отримання коштів по Пром-оплаті на ваш р/р працює так само, як з післяплатою Нової Пошти</strong>: з рахунку ФК«ЕВО» чи NovaPay на ваш розрахунковий рахунок. У такому випадку Пром-оплата працює як еквайрингова оплата карткою покупця з виплатою на р/р продавця. При цьому покупці отримують чек за фінансову операцію. Це не те саме, що товарний чек.</p>
+<p><span>Ми формуємо такий чек автоматично в момент оплати замовлення та надаємо можливість його завантажити на сторінці замовлення в кабінеті покупця.</span></p>
+<p><span>Для прикладу, такий самий чек покупці отримують і при доставці замовлення з післяплатою на Новій Пошті.</span></p>
+<p><span><strong>Рішення про фіскалізацію</strong> (видачу товарних чеків)&nbsp; </span><span>—</span><span> це відповідальність підприємця і ніяк не пов'язана з Prom чи Пром-оплатою. Всі роз'яснення щодо фіскалізації вам може надати лише податковий консультант.</span></p>
+<h3 id="h_01HB8ANW6GKTT5NS1R1YSC8DKW">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Якщо я підключу р/р до Пром-оплати, я повинен буду сплачувати комісію за еквайринг?</h3>
+<p><span>Ні. При підключенні р/р через ФК «ЕВО» — діє акція 0% комісії за еквайринг до 30 вересня 2023 року. </span><a href="https://support.prom.ua/hc/uk/articles/6768581301021"><span>Як підключити р/р до Пром-оплати</span></a></p>
+<p><span>Також Пром-оплата може працювати як грошовий переказ з карти покупця на карту продавця (Р2Р транзакція). В цьому випадку банк буде списувати комісію як за будь-який інший грошовий переказ з карти на карту. Це рішення підійде, якщо у вас поки не великий обсяг оплат.</span></p>
+<h3 id="h_01HB8ANW6GCXYXZXB1W51K50H7">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Підписувати договір з ФК «ЕВО» для підключення Пром-оплати на р/р довго</h3>
+<p><span>Зараз підключення займає в середньому 3-4 дні. Окрім цього, ви можете отримувати гроші на р/р в Пром-оплаті ще </span><strong>до того, як буде підписано договір</strong><span>. Достатньо оформити заявку.&nbsp;</span></p>
+<h3 id="h_01HB8ANW6GK1B37YA4KTNJFKFF">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Покупці не можуть оплатити з Пром-оплатою з першого разу, створюються дублі замовлень та псують мій рейтинг на Prom.</h3>
+<p><span>Ні. Неоплачені замовлення з Пром-оплатою </span><strong>не впливають</strong><span> на ваш рейтинг успішних замовлень.&nbsp;</span></p>
+<h3 id="h_01HB8ANW6G2MWNRX6DA586ACTS">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Мені зручно працювати по передоплаті, оскільки я продаю товари під замовлення. В Пром-оплаті я не отримую свої кошти одразу.</h3>
+<p><span>Так, кошти вам надходять не одразу, але ви можете бути впевнені, що замовлення вже оплачено в </span><strong>повному обсязі</strong><span>. Кошти холдуються на </span><strong>30</strong><span> днів. Зазвичай, цього часу достатньо, щоб виготовити чи доставити товар під замовлення.</span></p>
+<h3 id="h_01HB8ANW6HH9XQKXXRR0PVCDCB">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Пром-оплата не популярна серед покупців.</h3>
+<p><span>Кожне третє замовлення на Prom оплачується Пром-оплатою, а в мобільному додатку для покупця — 40% замовлень виконуються з Пром-оплатою. З кожним днем ця цифра збільшується. Prom популяризує Пром-оплату серед покупців.&nbsp;</span></p>
+<h3 id="h_01HB8ANW6HVP458WBF378EZ9SK">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;В мене специфічні товари, я не встигаю вчасно змінювати ціни. Пром-оплата мені не підходить?</h3>
+<p><span>Ви можете підключити Пром-оплату тільки на ті товари, у яких ви впевнені.</span></p>
+<h3 id="h_01HB8ANW6H5KGGDWTVH8P043Y3">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Гроші за замовлення з Пром-оплатою зараховуються не одразу. Це не зручно.</h3>
+<p><span>Ви можете бути впевнені, що вони зберігаються до цього моменту на транзитному рахунку та надійдуть вам протягом 24 годин після того, як покупець забере своє замовлення.</span></p>
+<h3 id="h_01HB8ANW6H8HDMZGQ6CAZ3F4EF">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Не зручно контролювати надходження коштів за замовлення.</h3>
+<p><span>Якщо ви підключили Пром-оплату до р/р, ви можете контролювати надходження коштів з усіма деталями по замовленню в кабінеті evopay.</span></p>
+<p><span>Також на сторінці замовлень в кабінеті продавця можна вивантажувати детальний звіт по замовленнях з Пром-оплатою.</span></p>
+<h3 id="h_01HB8ANW6HZCQAD3TRQW0NZACG">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;В мене багато замовлень, я не буду встигати слідкувати за замовленнями з Пром-оплатою.</h3>
+<p><span>На замовлення з Пром-оплатою не потрібно витрачати більше часу, ніж на замовлення з іншим способом оплати. Навпаки, це може значно скоротити процес обробки замовлення для продавця, адже покупець вже зробив повну оплату, йому не потрібно надавати реквізити, нагадувати про оплату та контролювати її надходження. Prom відправляє покупцю всі необхідні дані (номер ЕН, статус замовлення) за вас.</span></p>
+<h3 id="h_01HB8ANW6HGV52Y5HFDP4D6GEP">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Чи можна два різних замовлення відправити в одній посилці?</h3>
+<p>Кожне замовлення необхідно відправляти окремо, з індивідуальною ЕН (експрес-накладної). Це важливо для того, щоб ми змогли зарахувати продавцеві гроші за замовлення.</p>
+<h3 id="h_01HB8ANW6H1A5FFT6VSRGFSJQQ">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Що робити покупцеві, якщо в посилці прийшло не те, що очікував?</h3>
+<p>Рекомендуємо покупцеві оглянути товар у відділенні пошти та якщо він не підійшов - відмовитися від отримання.</p>
+<p><strong><img src="/hc/article_attachments/360016761857" alt="1.png" width="20" height="20"> Важливо!</strong> Покупці, не підписуйте накладну, якщо не забираєте замовлення.</p>
+<p><span>Якщо ви відмовляєтесь від отримання посилки, кошти автоматично повернуться вам на карту протягом 3-х робочих днів.</span>&nbsp;</p>
+<h3 id="h_01HB8ANW6HK5DM9HQ158NAYS0T">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Яка комісія на зарахування грошей продавцю?</h3>
+<p>Пром-оплата працює без комісії, але її може брати ваш банк. Розмір комісії залежить від умов обслуговування картки одержувача.</p>
+<p>При зарахуванні грошей на розрахунковий рахунок, з продавця списується комісія за інтернет-еквайринг в розмірі - 2,2% від суми чека при оплаті картами VISA і Mastercard будь-якого банку України та світу. Комісію стягує банк.</p>
+<h3 id="h_01HB8ANW6H81EVH074B09K4VFE">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Чому продавець не може прив'язати ЕН (експрес-накладну) в замовлення?</h3>
+<p>Якщо замовлення вже Виконано, прив'язати ЕН можливості немає. Щоб прикріпити накладну та отримати виплату, необхідно перевести замовлення в будь-який інший статус (Прийнятий, Сплачений, Новий тощо), прикріпити ЕН та знову перевести замовлення в статус Виконано.</p>
+<p><span>Також в замовлення не додаються ЕН, якщо контакти отримувача не збігаються з контактами, вказаними в замовленні. В такому випадку варто звернутись на </span><a href="mailto:prompay@prom.ua"><span>prompay@prom.ua</span></a><span> для зарахування коштів за замовлення.</span></p>
+<h3 id="h_01HB8ANW6HXKTFTG65KH4K1BXE">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Чому гроші зараховуються продавцю аж через 24 години?</h3>
+<p>Цей запас часу існує для врегулювання можливих конфліктів між продавцем і покупцем.<br>Для продавців, які <a href="https://support.prom.ua/hc/uk/articles/360006781438-%D0%97%D0%B0%D1%80%D0%B0%D1%85%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D1%86%D0%B5%D0%B2%D1%96-%D0%B3%D1%80%D0%BE%D1%88%D0%B5%D0%B9-%D0%B7%D0%B0-%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B7-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%BE%D1%8E" target="_blank" rel="noopener noreferrer">якісно працюють із замовленнями по Пром-оплаті</a>, виплата можлива відразу після отримання посилки покупцем.</p>
+<h3 id="h_01HB8ANW6HNZ962DYG13X71FWH">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Замовлення забрали, пройшло 24 години, а гроші продавцю не зараховані. Що робити?</h3>
+<p>Перевіряємо, прив'язана чи до замовлення ЕН (експрес-накладна) «Нова пошта». Це обов'язкова умова зарахування грошей.</p>
+<p><span>Якщо ЕН прив'язана до замовлення - перевіряємо, коли була забрана посилка. Тільки через 24+2 години гроші будуть перераховані на рахунок продавця. Перевірити дату забору посилки можна на сайті логістів: </span><a href="https://novaposhta.ua/tracking"><span>Нова пошта</span></a><span>, <a href="https://my.prom.ua/market/application/ukrposhta" target="_blank" rel="noopener noreferrer">Укрпошта, </a><a class="waffle-rich-text-link" href="https://my.prom.ua/market/application/meest_express">Meest</a></span><span>.</span></p>
+<p>Виплата відразу після отримання посилки покупцям доступна для компаній, які:</p>
+<ul>
+<li>отримали і опрацювали понад 10 замовлень з Пром-оплатою;</li>
+<li>якісно обслуговують покупців: не тягнуть з відправкою, адекватно і вчасно реагують на звернення і, в разі конфліктних ситуацій, намагаються вирішити їх самостійно, не доводячи до відкриття спору;</li>
+<li>з мінімальною кількістю спірних ситуацій, ініційованих покупцями.</li>
+</ul>
+<p><strong><span><img src="/hc/article_attachments/360016761857" alt="1.png" width="20" height="20"> </span>Зверніть увагу!</strong> Статус якості компанії змінюється раз на добу. <span>Якщо не пройшло ще 24+2 години з моменту забору посилки - очікуємо відправки грошей.</span></p>
+<p><span><strong><img src="/hc/article_attachments/360016761857" alt="1.png" width="20" height="20"> Важливо!</strong> На банківську карту гроші надходять через 24 + 2 години після того, як покупець забере посилку на пошті. На розрахунковий рахунок гроші будуть зараховані на 2й день після забору.&nbsp;</span></p>
+<h3 id="h_01HB8ANW6JV80QHTVFKSE886DS">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Що робити продавцеві, якщо покупець оплатив товар, а його немає в наявності?</h3>
+<p>Покупець бачить, що товар в наявності та готовий за нього заплатити 100% вартості, він не повинен думати та переживати щодо актуальності ціни та наявності. Це світова практика. Тому ми просимо продавців стежити за актуальністю цін та наявності товарів.</p>
+<p>Якщо ж таке трапиться, продавець може скасувати замовлення і повернути покупцеві гроші.</p>
+<h3 id="01HBF9BNZ2M9M4S2D4PHSCB2X0">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22">&nbsp;Мені не зарахувались кошти на розрахунковий рахунок, бо їх не змогли зняти з картки покупця. Що робити?</h3>
+<p>В такому випадку зверніться на <a href="mailto:prompay@prom.ua">prompay@prom.ua</a>. Ми допоможемо вирішити питання із зарахуванням коштів за замовлення.</p>
+<h3 id="h_01HB8ANW6J2DDDYK44KM0DTHV4">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Чи можна вибрати кур'єрську доставку з Пром-оплатою?</h3>
+<p>При доставці товару Новою поштою або Meest, покупець при оформленні замовлення може вибрати спосіб доставки: у відділення, у почтомат або кур'єром. Доставка логістом Укрпошта <span>та Rozetka</span> можлива тільки у відділення.</p>
+<h3 id="h_01HB8ANW6J4P4RG9Q4G3MMGSW7">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Що робити, якщо покупець вказав неправильний номер телефону при оформленні замовлення?</h3>
+<p>Номер телефону покупця та отримувача посилки повинні збігатися, щоб гроші за замовлення були автоматично зараховані продавцю. Якщо ж склалася ситуація, що покупець допустив помилку, продавець може переоформити замовлення або відправити товар за накладною НЕ з кабінету компанії.</p>
+<p>Якщо продавець відправляє посилку з іншої накладної, необхідно звернутися до Prom-підтримки для зарахування грошей в ручному режимі. Щоб отримати виплату необхідно надати номер замовлення і номер накладної, по якій клієнт забрав посилку.</p>
+<h3 id="h_01HB8ANW6J62HFRVR4TQBFBE6V">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Як відправити посилку та отримати гроші, якщо покупець замовляє товар не собі?</h3>
+<p>Номер телефону покупця та отримувача посилки повинні збігатися, щоб гроші за замовлення були автоматично зараховані продавцю. Але якщо є необхідність відправити посилку іншому одержувачу, продавець може це зробити.</p>
+<p><span>Для замовлень з доставкою Новою Поштою, покупець може змінити отримувача самостійно. Для цього у мобільному додатку Нової Пошти потрібно скористатись функцією</span><span> "Інший отримувач" </span><span>— вказати номер телефону людини, якій потрібно надати право отримати посилку, та натиснути "Доручити". Ця функція діє тільки для замовлень з оголошеною вартістю до 30 000 грн.</span></p>
+<p><span>Для замовлень з доставкою іншими логістами, продавець може</span> відправити замовлення по накладній НЕ з кабінету компанії, а після - звернутися до Prom-підтримки для зарахування грошей в ручному режимі. Щоб отримати виплату необхідно надати номер замовлення і номер накладної, по якій клієнт забрав посилку.</p>
+<h3 id="h_01HB8ANW6J858QTZ3XMT85GMPN">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Чи може покупець замовити переадресацію посилки на інше відділення пошти?</h3>
+<p>Так. Переадресувати посилку на інше відділення може і відправник, і одержувач.</p>
+<div class="J0lOec">
+<span class="VIiyi"><span class="JLqJ4b ChMk0b">У </span><span class="JLqJ4b ChMk0b">разі </span><span class="JLqJ4b ChMk0b">переадресації </span><span class="JLqJ4b ChMk0b">виплата </span><span class="JLqJ4b ChMk0b">грошей </span><span class="JLqJ4b ChMk0b">за </span><span class="JLqJ4b ChMk0b">замовлення </span><span class="JLqJ4b ChMk0b">відбувається </span><span class="JLqJ4b ChMk0b">автоматично</span></span>.</div>
+<h3 id="h_01HB8ANW6J5KX6TH5TM7KGZGYW">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Як бути продавцям з незабраними посилками та відмовами, якщо вони будуть?</h3>
+<p>В цілому по маркетплейсу незабирання, повернення становить близько 2-3%. Тобто якщо покупець оплачує товар онлайн, він дуже рідко за ним не приходить. Так, він може відмовитися під час огляду товару, якщо щось не підійшло. Це його законне право. Але по цифрам, таких випадків небагато.</p>
+<p>При незабиранні сплачених Пром-оплатою замовлень, продавець отримує бонус в рамках <span><a href="https://support.prom.ua/hc/ru/articles/360007241237">програми лояльност</a>і.</span>&nbsp;</p>
+<h3 id="h_01HB8ANW6J28FWJ8A9RPNRFZ12">
+<img src="/hc/article_attachments/360016761937" alt="question_mark.png" width="22" height="22"> Куди звертатися, якщо є питання з приводу Пром-оплати?</h3>
+<p>Якщо у вас з'явилися питання, Prom-підтримка охоче відповість на них, пишіть: <a href="mailto:prompay@prom.ua">prompay@prom.ua</a></p></div>
+
+            <div class="article-attachments">
+              <ul class="attachments">
+                
+              </ul>
+            </div>
+          </div>
+        </section>
+        <footer class="article-footer">
+          
+            <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F+%D0%BF%D0%BE+%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96&u=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360006781018-%25D0%259F%25D0%25BE%25D1%2588%25D0%25B8%25D1%2580%25D0%25B5%25D0%25BD%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%259F%25D1%2580%25D0%25BE%25D0%25BC-%25D0%25BE%25D0%25BF%25D0%25BB%25D0%25B0%25D1%2582%25D1%2596" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=uk&text=%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F+%D0%BF%D0%BE+%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360006781018-%25D0%259F%25D0%25BE%25D1%2588%25D0%25B8%25D1%2580%25D0%25B5%25D0%25BD%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%259F%25D1%2580%25D0%25BE%25D0%25BC-%25D0%25BE%25D0%25BF%25D0%25BB%25D0%25B0%25D1%2582%25D1%2596" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=prom.ua&title=%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F+%D0%BF%D0%BE+%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360006781018-%25D0%259F%25D0%25BE%25D1%2588%25D0%25B8%25D1%2580%25D0%25B5%25D0%25BD%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%259F%25D1%2580%25D0%25BE%25D0%25BC-%25D0%25BE%25D0%25BF%25D0%25BB%25D0%25B0%25D1%2582%25D1%2596" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+          
+        </footer>
+      </div>
+
+      <div class="article-bottom uaprom-article-block">
+        
+          <div class="article-subscribe-container">
+            <p>Бажаєте підписатися на оновлення цієї статті?</p>
+            <a class="article-subscribe" title="Відкриває вікно для входу" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/uk/articles/360006781018-%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D0%BE-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96/subscription.html">Підписатися</a>
+          </div>
+        
+        
+          <div class="article-votes">
+            <div class="article-votes-question-wrapper">
+              <span class="article-votes-question">Чи була ця стаття корисною?</span>
+              <div class="article-votes-count">
+                <span class="article-vote-label">1 з 2 вважають статтю корисною</span>
+              </div>
+            </div>
+            
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Так" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360006781018-%25D0%259F%25D0%25BE%25D1%2588%25D0%25B8%25D1%2580%25D0%25B5%25D0%25BD%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%259F%25D1%2580%25D0%25BE%25D0%25BC-%25D0%25BE%25D0%25BF%25D0%25BB%25D0%25B0%25D1%2582%25D1%2596"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Ні" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360006781018-%25D0%259F%25D0%25BE%25D1%2588%25D0%25B8%25D1%2580%25D0%25B5%25D0%25BD%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%259F%25D1%2580%25D0%25BE%25D0%25BC-%25D0%25BE%25D0%25BF%25D0%25BB%25D0%25B0%25D1%2582%25D1%2596"></a>
+            </div>
+          </div>
+        
+      </div>
+
+      
+    </article>
+    
+  </div>
+</div>
+  </main>
+
+  <footer class="footer uaprom-footer">
+  
+  <div class="footer-inner container uk-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупцям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/uk">Довідка для покупців</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Як купувати з Пром-оплата</a></li>
+          <li><a href="https://my.prom.ua/ua/company_domain_check/check_is_site_on_portal">Перевірка на приналежність сайту до Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцям</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/uk">Довідка для продавців</a></li>
+          <li><a href="https://prom.ua/ua/join-now?source_id=new.footer">Створити сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/ua/how_to_order">Тарифи</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ і Просування в Каталозі ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/ua/terms-of-use">Угода користувача</a></li>
+          <li><a href="https://prom.ua/ua/privacy-policy">Політика конфіденційності</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/sections/360001419538">Правила маркетплейсу</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Інструкція Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусна програма електронний маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Про нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">Про Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Робота в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Адміністрація</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнери</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Офіційні дилери Prom.ua</a></li>-->
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <div class="footer-buttons">
+        <div class="socials">
+          <a class="social youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2217" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="5" width="20" height="15">
+<path d="M22 5H2V19.0007H22V5Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2217)">
+<path class="colorize" d="M21.5835 7.18611C21.4692 6.76243 21.2458 6.37615 20.9355 6.06586C20.6252 5.75558 20.239 5.53216 19.8153 5.41792C18.2545 4.99316 12 4.99316 12 4.99316C12 4.99316 5.74383 4.99316 4.18637 5.41133C3.76175 5.52584 3.37477 5.75015 3.06437 6.0617C2.75397 6.37326 2.5311 6.76107 2.41817 7.18611C2 8.74522 2 12.0001 2 12.0001C2 12.0001 2 15.2549 2.41817 16.8141C2.53211 17.2379 2.75543 17.6243 3.06576 17.9347C3.37609 18.245 3.76254 18.4683 4.18637 18.5822C5.74547 19.0004 12 19.0004 12 19.0004C12 19.0004 18.2562 19.0004 19.8153 18.5822C20.239 18.468 20.6252 18.2446 20.9355 17.9343C21.2458 17.624 21.4692 17.2377 21.5835 16.8141C22 15.2549 22 12.0001 22 12.0001C22 12.0001 21.9951 8.74522 21.5835 7.18611Z" fill="#01011B"/>
+<path d="M10 14.9998L15.1975 12.0001L10 9.00049V14.9998Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2224" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20">
+<path d="M22 2H2V22H22V2Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2224)">
+<path class="colorize" d="M22 12C22 6.47715 17.5229 2 12 2C6.47715 2 2 6.47715 2 12C2 16.9912 5.65684 21.1283 10.4375 21.8785V14.8906H7.89844V12H10.4375V9.79688C10.4375 7.29063 11.9305 5.90625 14.2146 5.90625C15.3084 5.90625 16.4531 6.10156 16.4531 6.10156V8.5625H15.1922C13.95 8.5625 13.5625 9.3334 13.5625 10.125V12H16.3359L15.8926 14.8906H13.5625V21.8785C18.3432 21.1283 22 16.9912 22 12Z" fill="#01011B"/>
+<path d="M15.8926 14.8906L16.3359 12H13.5625V10.125C13.5625 9.33418 13.95 8.5625 15.1922 8.5625H16.4531V6.10156C16.4531 6.10156 15.3088 5.90625 14.2146 5.90625C11.9305 5.90625 10.4375 7.29063 10.4375 9.79688V12H7.89844V14.8906H10.4375V21.8785C11.4729 22.0405 12.5271 22.0405 13.5625 21.8785V14.8906H15.8926Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social instagram" href="https://www.instagram.com/prom.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" fill-rule="evenodd" clip-rule="evenodd" d="M3.67886 3.67886C4.23577 3.12195 4.79268 2.78049 5.45122 2.52439C6.08537 2.27642 6.81301 2.10569 7.88211 2.06098C8.94715 2.0122 9.28862 2 12.0041 2C14.7195 2 15.061 2.0122 16.126 2.06098C17.1911 2.10976 17.9187 2.27642 18.5528 2.52439C19.2114 2.78049 19.7683 3.12195 20.3252 3.67886C20.878 4.23171 21.2195 4.79268 21.4756 5.44715C21.7195 6.0813 21.8902 6.80894 21.939 7.87398C21.9878 8.93902 22 9.28049 22 11.9959C22 14.7114 21.9878 15.0528 21.939 16.1179C21.8902 17.1829 21.7236 17.9106 21.4756 18.5447C21.2195 19.2033 20.878 19.7602 20.3211 20.3171C19.7642 20.874 19.2073 21.2154 18.5488 21.4715C17.9146 21.7154 17.187 21.8862 16.122 21.935C15.0569 21.9837 14.7154 21.9959 12 21.9959C9.28455 21.9959 8.94309 21.9837 7.87805 21.935C6.81301 21.8862 6.08537 21.7195 5.45122 21.4715C4.79268 21.2154 4.23577 20.874 3.67886 20.3171C3.12195 19.7602 2.78049 19.2033 2.52439 18.5447C2.28049 17.9106 2.10976 17.1829 2.06098 16.1179C2.0122 15.0528 2 14.7114 2 11.9959C2 9.28049 2.0122 8.93902 2.06098 7.87398C2.10976 6.80894 2.27642 6.0813 2.52439 5.44715C2.78049 4.79268 3.12195 4.23171 3.67886 3.67886ZM11.8862 17.0854C14.7599 17.0854 17.0894 14.7558 17.0894 11.8821C17.0894 9.00844 14.7599 6.67886 11.8862 6.67886C9.0125 6.67886 6.68293 9.00844 6.68293 11.8821C6.68293 14.7558 9.0125 17.0854 11.8862 17.0854ZM11.8862 15.0041C13.6104 15.0041 15.0081 13.6063 15.0081 11.8821C15.0081 10.1579 13.6104 8.76016 11.8862 8.76016C10.162 8.76016 8.76423 10.1579 8.76423 11.8821C8.76423 13.6063 10.162 15.0041 11.8862 15.0041ZM17.0894 7.71951C17.6642 7.71951 18.1301 7.2536 18.1301 6.67886C18.1301 6.10413 17.6642 5.63821 17.0894 5.63821C16.5147 5.63821 16.0488 6.10413 16.0488 6.67886C16.0488 7.2536 16.5147 7.71951 17.0894 7.71951Z" fill="#01011b"/>
+</svg>
+          </a>
+          <a class="social evobusiness" href="https://evo.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" d="M11.031 11.5268L15.1849 4.95602C12.0355 3.65978 8.39418 4.79454 6.54698 7.7162C4.46876 11.0054 5.45265 15.3723 8.74093 17.451C12.0297 19.5287 16.3963 18.5446 18.4748 15.257C18.8269 14.7014 19.6162 14.524 20.1707 14.8749C20.4479 15.05 20.6406 15.3231 20.7126 15.6433C20.7847 15.9632 20.7279 16.2927 20.5523 16.5703C19.1972 18.7144 17.0841 20.2038 14.602 20.7631C12.1202 21.3223 9.57213 20.8839 7.42784 19.5285C2.99349 16.7254 1.66653 10.8377 4.46945 6.40287C5.82598 4.25858 7.93908 2.76922 10.4207 2.20993C12.9025 1.65018 15.4501 2.08888 17.5942 3.44494C17.8718 3.62051 18.0645 3.89357 18.1366 4.2133C18.2087 4.53372 18.1518 4.86292 17.9763 5.1406L13.109 12.8401C12.7588 13.395 11.9685 13.5731 11.4131 13.2222C10.8411 12.8605 10.6697 12.0995 11.031 11.5268Z" fill="#01011B"/>
+</svg>
+          </a>
+          <!--<a class="social telegram" href="https://t.me/PromBuyerBot?start=WEB" target="_blank"></a>-->
+        </div>
+        <div class="news">
+          <a class="news-btn youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/1d5182860f14ed01108250520472f4920bede6b7.png" alt="youtube">
+            <span>Новини Прому</span>
+          </a>
+          <a class="news-btn facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/e3f308d3542871bdaad40b93fd8c400ccc6be41e.png" alt="facebook">
+            <span>Спільнота продавців</span>
+          </a>
+        </div>
+      </div>
+      <a class="footer-logo" href="https://prom.ua/">
+        <img src="//theme.zdassets.com/theme_assets/9422419/c5f16a937df5454d0c46267e61e1751b7526e144.png" alt="prom.ua">
+      </a>
+    </div>
+    
+  </div>
+  
+  <div class="footer-inner container ru-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупателям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/ru">Справка для покупателей</a></li>
+          <li><a href="https://prom.ua/landing/certification_by_prom">О надежных продавцах</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Как покупать с Prom оплата</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004971837?utm_source=link2support_safe_shopping&amp;utm_medium=Portal&amp;utm_campaign=footer">Рекомендации по безопасным покупкам</a></li>
+          <li><a href="https://my.prom.ua/company_domain_check/check_is_site_on_portal">Проверка на принадлежность сайта к платформе Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцам</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/ru">Справка для продавцов</a></li>
+          <li><a href="https://prom.ua/join-now?source_id=new.footer">Создать сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/how_to_order">Тарифы</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ и Продвижение в Каталоге ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/terms-of-use">Пользовательское соглашение</a></li>
+          <li><a href="https://prom.ua/privacy-policy">Политика конфиденциальности</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/categories/360000787417">Правила пользования порталом</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Руководство Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусная программа электронный маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">О нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">О Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Работа в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/easy_to_sell">Объявления на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Администрация</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнеры</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Официальные дилеры Prom.ua</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column footer-logo">
+        <a href="https://prom.ua/">
+          <img src="//theme.zdassets.com/theme_assets/9422419/23b2936718abda06644b9d4bac2b3b84fee5af02.png" alt="">
+        </a>
+      </div>
+    </div>
+    
+  </div>
+  
+</footer>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/uk.4e5ec0c35b3b52e67901.js"></script>
+  <script src="https://evoservice.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="360000361438" data-return-to="https://support.prom.ua/hc/uk/articles/360006781018-%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D0%BE-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96" data-theme="hc" data-locale="uk" data-auth-origin="360000361438,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"evoservice","environment":"production","name":"Prom.ua"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"uk","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHdWsGOgZFVDoPYXJ0aWNsZV9pZGwrCFqIE9JTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDU8aPOhNoZWxwX2NlbnRlcl9pZGwrCBU4rdFTADoNYnJhbmRfaWRsKwjek7HRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiB3VrBjsGVA==--d062a3aeba1c1235e10284779645ee45f69aa56e","url":"https://support.prom.ua/hc/activity"},"current_record_id":"360006781018","current_record_url":"/hc/uk/articles/360006781018-%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D0%BE-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96","current_record_title":"Поширені питання по Пром-оплаті","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":360000361438,"account_id":9422419,"name":"prom.ua","active":true,"deleted_at":null,"created_at":"2019-08-22T12:04:01Z","updated_at":"2023-09-19T12:42:48Z","route_id":2940186,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://promua.zendesk.com","current_host_mapping":"support.prom.ua","current_path":"/hc/uk/articles/360006781018-%D0%9F%D0%BE%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BF%D0%BE-%D0%9F%D1%80%D0%BE%D0%BC-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%96","authentication_domain":"https://evoservice.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.prom.ua/hc/uk","arrange_content_url":"https://support.prom.ua/hc/admin/arrange_contents?locale=uk","general_settings_url":"https://support.prom.ua/hc/admin/general_settings?locale=uk","user_segments_url":"https://evoservice.zendesk.com/knowledge/user_segments?brand_id=360000361438","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":true,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fevoservice.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://evoservice.zendesk.com/knowledge/arrange?brand_id=360000361438","article_verification_url":"https://evoservice.zendesk.com/knowledge/verification?brand_id=360000361438","has_article_verification":true,"guide_language_settings_url":"https://support.prom.ua/hc/admin/language_settings?locale=uk","docs_importer_url":"https://evoservice.zendesk.com/knowledge/import_articles?brand_id=360000361438","content_tags_url":"https://evoservice.zendesk.com/knowledge/content_tags?brand_id=360000361438","community_badges_url":"https://evoservice.zendesk.com/knowledge/community_badges?brand_id=360000361438","community_settings_url":"https://evoservice.zendesk.com/knowledge/community_settings?brand_id=360000361438","gather_plan_state":"subscribed","search_settings_url":"https://evoservice.zendesk.com/knowledge/search_settings?brand_id=360000361438","has_multibrand_search_in_plan":true,"has_search_settings_in_plan":true,"theming_api_version":1,"theming_settings":{"brand_color":"rgba(81, 73, 157, 1)","brand_text_color":"#FFFFFF","text_color":"rgba(3, 3, 3, 1)","link_color":"rgba(6, 112, 235, 1)","background_color":"rgba(255, 255, 255, 1)","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"//theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg","favicon":"//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png","homepage_background_image":"//theme.zdassets.com/theme_assets/9422419/4d82ff3e0c399da29f490bad665d20d5783bc614.svg","community_background_image":"//theme.zdassets.com/theme_assets/9422419/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/9422419/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":false,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true},"has_pci_credit_card_custom_field":true,"current_brand_id":360000361438,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":true,"has_docs_importer":false,"user_preferred_locale":"ru","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_google_analytics_4":true,"has_end_user_2fa":false,"version":"v23789"};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-4ef0d82f9fc65c8a28f659aa3430955f.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-cd240096d8f4c02aeb9762ce9a7a1c1c.js"></script>
+  
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'82804155eb0c34b6',t:'MTcwMDMxMDk0Ni40OTEwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

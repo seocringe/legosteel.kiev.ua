@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <!-- v23802 -->
+
+
+  <title>Винесення на окремий домен неактивних компаній (пакет &quot;Безкоштовна реєстрація&quot;) &ndash; Пiдтримка</title>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="">
+
+  <meta name="description" content="Компанії, що знаходяться на пакеті &quot;Безкоштовна реєстрація&quot;, автоматично виключаються з каталогу Prom.ua у наступних випадках: ..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Пiдтримка" />
+<meta property="og:title" content="Винесення на окремий домен неактивних компаній (пакет &quot;Безкоштовна реєстрація&quot;)" />
+<meta property="og:description" content="Компанії, що знаходяться на пакеті &quot;Безкоштовна реєстрація&quot;, автоматично виключаються з каталогу Prom.ua у наступних випадках:
+
+компанія не заходила в ЛК більше 60 днів
+компанія не редагувала товар..." />
+<meta property="og:url" content="https://support.prom.ua/hc/uk/articles/360004989378" />
+<link rel="canonical" href="https://support.prom.ua/hc/uk/articles/360004989378-%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82-%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0-%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F-">
+<link rel="alternate" hreflang="uk" href="https://support.prom.ua/hc/uk/articles/360004989378-%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82-%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0-%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F-">
+<link rel="alternate" hreflang="x-default" href="https://support.prom.ua/hc/uk/articles/360004989378-%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82-%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0-%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F-">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-5dedcabe00a896eb2c214ed2973f0975.css" media="all" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" href="//static.zdassets.com/hc/assets/theming_v1_support-e05586b61178dcde2a13a3d323525a18.css" media="all" />
+  <link rel="stylesheet" type="text/css" href="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/style.css?digest=14557196134685">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-09d07e20ce042ef10e301661ad1f316c.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-153977985-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <script type="text/javascript" src="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/script.js?digest=14557196134685"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header uaprom-header">
+  <div class="container">
+    <div class="logo">
+      <a title="Головна" href="/hc/uk">
+      		<img src="//theme.zdassets.com/theme_assets/9422419/3a4f554dc0e52a68af6dfb1933ec9e01bfdcd16c.svg" alt="prom.продавцям">
+      </a>
+      
+      
+    </div>
+    <div class="nav-wrapper">
+      <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Переключити навігаційне меню">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+          <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
+        </svg>
+      </button>
+      <nav class="user-nav" id="user-nav">
+        <a href="https://prom.ua/" target="_blank">Prom.ua</a>
+        <a class="submit-a-request" href="/hc/uk/requests/new">Надіслати запит</a>
+      </nav>
+        <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="Відкриває діалог" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004989378-%25D0%2592%25D0%25B8%25D0%25BD%25D0%25B5%25D1%2581%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BD%25D0%25B0-%25D0%25BE%25D0%25BA%25D1%2580%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25B9-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BD-%25D0%25BD%25D0%25B5%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BD%25D0%25B8%25D1%2585-%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B9-%25D0%25BF%25D0%25B0%25D0%25BA%25D0%25B5%25D1%2582-%25D0%2591%25D0%25B5%25D0%25B7%25D0%25BA%25D0%25BE%25D1%2588%25D1%2582%25D0%25BE%25D0%25B2%25D0%25BD%25D0%25B0-%25D1%2580%25D0%25B5%25D1%2594%25D1%2581%25D1%2582%25D1%2580%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-&amp;locale=uk">Увійти</a>
+
+    </div>
+  </div>
+</header>
+
+  <main role="main">
+    <section class="section hero">
+  <div class="hero-inner">
+    <div class="hero-info">
+      <h1 class="hero-title">Чим ми можемо допомогти?</h1>
+    </div>
+    <div class="hero-search-wrapper">
+      <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/uk/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Пошук" autocomplete="off" aria-label="Пошук" /></form>
+      <div class="line"></div>
+    </div>
+  </div>
+</section>
+
+<div class="container uaprom-article-container">
+  <div class="breadcrumbs-container">
+    <ol class="breadcrumbs">
+  
+    <li title="Пiдтримка">
+      
+        <a href="/hc/uk">Пiдтримка</a>
+      
+    </li>
+  
+    <li title="Робота з кабінетом компанії">
+      
+        <a href="/hc/uk/categories/360000787357-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-%D0%B7-%D0%BA%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97">Робота з кабінетом компанії</a>
+      
+    </li>
+  
+    <li title="Каталог товарів та пошук">
+      
+        <a href="/hc/uk/sections/360001407857-%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%96%D0%B2-%D1%82%D0%B0-%D0%BF%D0%BE%D1%88%D1%83%D0%BA">Каталог товарів та пошук</a>
+      
+    </li>
+  
+</ol>
+
+  </div>
+
+  <div class="article-container" id="article-container">
+    
+    <aside class="sidebar">
+   
+      <div class="navigation-sidebar mobile-expandable">
+        <div class="sidebar-header">
+          <h3>Категорії</h3>
+        </div>
+        <ul class="nav-list preview" data-locale="uk">
+          <li class="item category-item preview-item"><nav></nav><a>Початок бізнесу в інтернеті</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Як працює маркетплейс</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Правила роботи на Prom.ua</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Оплата та доставка</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Каталог ProSale </a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Робота з кабінетом компанії</a></li>
+        </ul>
+      </div>
+      
+      
+      	
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Пов'язані статті</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCB3%2FXQeYBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCMIx%2BNFTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB6i9oYy91ay9hcnRpY2xlcy81MDUxMDA1MTQwNzY1LSVEMCVBMCVEMCVCNSVEMCVCNiVEMCVCOCVEMCVCQyVEMCVCOC0lRDAlQTIlRDElODMlRDElODAlRDAlQjElRDAlQkUtJUQwJTkxJUQxJTk2JUQwJUJCJUQxJThDJUQxJTg4JUQwJUI1LSVEMCVCRiVEMSU4MCVEMCVCRSVEMCVCNCVEMCVCMCVEMCVCNiVEMSU5NiVEMCVCMi0lRDElODIlRDAlQjAtJUQwJTk1JUQwJUJBJUQwJUJFJUQwJUJEJUQwJUJFJUQwJUJDLQY7CFQ6CXJhbmtpBg%3D%3D--e5d73a4574ce3870b8219fb1e085f66b0aa32ea6" rel="nofollow">Режими «Турбо», «Більше продажів» та «Економ»</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCLV6C9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCMIx%2BNFTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICHQEvaGMvdWsvYXJ0aWNsZXMvMzYwMDA2MjUzMjM3LSVEMCU5MCVEMCVCMiVEMSU4MiVEMCVCRSVEMCVCQyVEMCVCMCVEMSU4MiVEMCVCOCVEMSU4NyVEMCVCRCVEMCVCOCVEMCVCOS0lRDAlQkYlRDAlQjUlRDElODAlRDAlQjUlRDElODAlRDAlQjAlRDElODUlRDElODMlRDAlQkQlRDAlQkUlRDAlQkEtJUQwJUJBJUQwJUJFJUQwJUJDJUQxJTk2JUQxJTgxJUQxJTk2JUQxJTk3LSVEMCVCNyVEMCVCMC0lRDAlQjclRDAlQjAlRDAlQkMlRDAlQkUlRDAlQjIlRDAlQkIlRDAlQjUlRDAlQkQlRDAlQkQlRDElOEYGOwhUOglyYW5raQc%3D--b26070c36d49499a14dc9af2cc3fe31f8440d07c" rel="nofollow">Автоматичний перерахунок комісії за замовлення</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCOFE%2FNFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCMIx%2BNFTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIBnC9oYy91ay9hcnRpY2xlcy8zNjAwMDUyNTY0MTctJUQwJTlEJUQwJUIwJUQwJUJCJUQwJUIwJUQxJTg4JUQxJTgyJUQxJTgzJUQwJUIyJUQwJUIwJUQwJUJEJUQwJUJEJUQxJThGLSVEMCVCQyVEMCVCNSVEMSU4MiVEMCVCMCVEMSU4MiVEMCVCNSVEMCVCMyVEMSU5NiVEMCVCMgY7CFQ6CXJhbmtpCA%3D%3D--6929e5b31232d617c3a23d72e1eeb5f39f024d55" rel="nofollow">Налаштування метатегів</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJ1RzHK8BjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCMIx%2BNFTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICJgEvaGMvdWsvYXJ0aWNsZXMvNzQwNjQ0OTYxMTE2NS0lRDAlOTQlRDAlQkUlRDElODElRDElODIlRDAlQjAlRDAlQjIlRDAlQkElRDAlQjAtJUQwJUI0JUQwJUJFLSVEMSU4MiVEMCVCRSVEMSU4NyVEMCVCRSVEMCVCQS0lRDAlQjIlRDAlQjglRDAlQjQlRDAlQjAlRDElODclRDElOTYtJUQwJUEwJUQwJUJFJUQwJUI3JUQwJUI1JUQxJTgyJUQwJUJBJUQwJUIwLSVEMCVCRiVEMCVCRSVEMSU4OCVEMCVCOCVEMSU4MCVEMCVCNSVEMCVCRCVEMSU5Ni0lRDAlQkYlRDAlQjglRDElODIlRDAlQjAlRDAlQkQlRDAlQkQlRDElOEYGOwhUOglyYW5raQk%3D--7f07aa477fb9644545f40d19048c42e38152a3ee" rel="nofollow">Доставка до точок видачі Розетка: поширені питання</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCB1lOGFEBjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCMIx%2BNFTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIBpy9oYy91ay9hcnRpY2xlcy82ODkwNzU4NjI4NjM3LSVEMCU5NCVEMCVCRSVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMiVEMCVCQSVEMCVCMC0lRDAlQjQlRDAlQkUtJUQxJTgyJUQwJUJFJUQxJTg3JUQwJUJFJUQwJUJBLSVEMCVCMiVEMCVCOCVEMCVCNCVEMCVCMCVEMSU4NyVEMSU5Ni1Sb3pldGthBjsIVDoJcmFua2kK--c14e22d3009179fb5cdf12c8fffbab6fc57e4fb1" rel="nofollow">Доставка до точок видачі Rozetka</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      
+      
+      
+      	<div data-recent-articles></div>
+      
+      
+    </aside>
+
+    <article class="article">
+      <div class="article-wrapper uaprom-article-block">
+        <header class="article-header page-header">
+          <h1 title="Винесення на окремий домен неактивних компаній (пакет &quot;Безкоштовна реєстрація&quot;)" class="article-title">
+            Винесення на окремий домен неактивних компаній (пакет &quot;Безкоштовна реєстрація&quot;)
+            
+          </h1>
+        </header>
+
+        <section class="article-info">
+          <div class="article-content">
+            <div class="article-body"><p>Компанії, що знаходяться на пакеті "Безкоштовна реєстрація", автоматично виключаються з каталогу Prom.ua у наступних випадках:</p>
+<ul>
+<li>компанія не заходила в ЛК більше 60 днів</li>
+<li>компанія не редагувала товари більше 60 днів</li>
+<li>компанія не створювала товари більше 60 днів</li>
+<li>компанія не редагувала статті більше 60 днів</li>
+<li>компанія не створювала статті більше 60 днів</li>
+<li>компанія не редагувала новини більше 60 днів</li>
+<li>компанія не створювала новини більше 60 днів</li>
+<li>компанія не редагувала інформаційні сторінки більше 60 днів</li>
+<li>компанія не створювала інформаційні сторінки більше 60 днів</li>
+<li>у компанії немає оброблених замовлень протягом 60 днів</li>
+<li>у компанії немає прочитаних повідомлень протягом 60 днів</li>
+</ul>
+<p>Під виключенням з каталогу мається на увазі приховування на Prom.ua всіх товарів/послуг та будь-яких інших інформаційних сторінок, розміщених компанією. При цьому сайт компанії як та раніше залишається доступний за адресою http: //адрес_компаніі.prom.ua.</p>
+<p>За день до виключення компанії відправляється інформаційний лист. У разі, якщо компанія виконає вхід в особистий кабінет протягом доби, товари продовжать публікуватися у каталозі.</p></div>
+
+            <div class="article-attachments">
+              <ul class="attachments">
+                
+              </ul>
+            </div>
+          </div>
+        </section>
+        <footer class="article-footer">
+          
+            <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F+%D0%BD%D0%B0+%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9+%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD+%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85+%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9+%28%D0%BF%D0%B0%D0%BA%D0%B5%D1%82+%22%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0+%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F%22%29&u=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004989378-%25D0%2592%25D0%25B8%25D0%25BD%25D0%25B5%25D1%2581%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BD%25D0%25B0-%25D0%25BE%25D0%25BA%25D1%2580%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25B9-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BD-%25D0%25BD%25D0%25B5%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BD%25D0%25B8%25D1%2585-%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B9-%25D0%25BF%25D0%25B0%25D0%25BA%25D0%25B5%25D1%2582-%25D0%2591%25D0%25B5%25D0%25B7%25D0%25BA%25D0%25BE%25D1%2588%25D1%2582%25D0%25BE%25D0%25B2%25D0%25BD%25D0%25B0-%25D1%2580%25D0%25B5%25D1%2594%25D1%2581%25D1%2582%25D1%2580%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=uk&text=%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F+%D0%BD%D0%B0+%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9+%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD+%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85+%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9+%28%D0%BF%D0%B0%D0%BA%D0%B5%D1%82+%26quot%3B%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0+%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F%26quot%3B%29&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004989378-%25D0%2592%25D0%25B8%25D0%25BD%25D0%25B5%25D1%2581%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BD%25D0%25B0-%25D0%25BE%25D0%25BA%25D1%2580%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25B9-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BD-%25D0%25BD%25D0%25B5%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BD%25D0%25B8%25D1%2585-%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B9-%25D0%25BF%25D0%25B0%25D0%25BA%25D0%25B5%25D1%2582-%25D0%2591%25D0%25B5%25D0%25B7%25D0%25BA%25D0%25BE%25D1%2588%25D1%2582%25D0%25BE%25D0%25B2%25D0%25BD%25D0%25B0-%25D1%2580%25D0%25B5%25D1%2594%25D1%2581%25D1%2582%25D1%2580%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=prom.ua&title=%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F+%D0%BD%D0%B0+%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9+%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD+%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85+%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9+%28%D0%BF%D0%B0%D0%BA%D0%B5%D1%82+%22%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0+%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F%22%29&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004989378-%25D0%2592%25D0%25B8%25D0%25BD%25D0%25B5%25D1%2581%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BD%25D0%25B0-%25D0%25BE%25D0%25BA%25D1%2580%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25B9-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BD-%25D0%25BD%25D0%25B5%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BD%25D0%25B8%25D1%2585-%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B9-%25D0%25BF%25D0%25B0%25D0%25BA%25D0%25B5%25D1%2582-%25D0%2591%25D0%25B5%25D0%25B7%25D0%25BA%25D0%25BE%25D1%2588%25D1%2582%25D0%25BE%25D0%25B2%25D0%25BD%25D0%25B0-%25D1%2580%25D0%25B5%25D1%2594%25D1%2581%25D1%2582%25D1%2580%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+          
+        </footer>
+      </div>
+
+      <div class="article-bottom uaprom-article-block">
+        
+          <div class="article-subscribe-container">
+            <p>Бажаєте підписатися на оновлення цієї статті?</p>
+            <a class="article-subscribe" title="Відкриває вікно для входу" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/uk/articles/360004989378-%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82-%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0-%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F-/subscription.html">Підписатися</a>
+          </div>
+        
+        
+          <div class="article-votes">
+            <div class="article-votes-question-wrapper">
+              <span class="article-votes-question">Чи була ця стаття корисною?</span>
+              <div class="article-votes-count">
+                <span class="article-vote-label">1 з 1 вважають статтю корисною</span>
+              </div>
+            </div>
+            
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Так" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004989378-%25D0%2592%25D0%25B8%25D0%25BD%25D0%25B5%25D1%2581%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BD%25D0%25B0-%25D0%25BE%25D0%25BA%25D1%2580%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25B9-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BD-%25D0%25BD%25D0%25B5%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BD%25D0%25B8%25D1%2585-%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B9-%25D0%25BF%25D0%25B0%25D0%25BA%25D0%25B5%25D1%2582-%25D0%2591%25D0%25B5%25D0%25B7%25D0%25BA%25D0%25BE%25D1%2588%25D1%2582%25D0%25BE%25D0%25B2%25D0%25BD%25D0%25B0-%25D1%2580%25D0%25B5%25D1%2594%25D1%2581%25D1%2582%25D1%2580%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Ні" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004989378-%25D0%2592%25D0%25B8%25D0%25BD%25D0%25B5%25D1%2581%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F-%25D0%25BD%25D0%25B0-%25D0%25BE%25D0%25BA%25D1%2580%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25B9-%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BD-%25D0%25BD%25D0%25B5%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25B2%25D0%25BD%25D0%25B8%25D1%2585-%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B9-%25D0%25BF%25D0%25B0%25D0%25BA%25D0%25B5%25D1%2582-%25D0%2591%25D0%25B5%25D0%25B7%25D0%25BA%25D0%25BE%25D1%2588%25D1%2582%25D0%25BE%25D0%25B2%25D0%25BD%25D0%25B0-%25D1%2580%25D0%25B5%25D1%2594%25D1%2581%25D1%2582%25D1%2580%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-"></a>
+            </div>
+          </div>
+        
+      </div>
+
+      
+    </article>
+    
+  </div>
+</div>
+  </main>
+
+  <footer class="footer uaprom-footer">
+  
+  <div class="footer-inner container uk-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупцям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/uk">Довідка для покупців</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Як купувати з Пром-оплата</a></li>
+          <li><a href="https://my.prom.ua/ua/company_domain_check/check_is_site_on_portal">Перевірка на приналежність сайту до Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцям</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/uk">Довідка для продавців</a></li>
+          <li><a href="https://prom.ua/ua/join-now?source_id=new.footer">Створити сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/ua/how_to_order">Тарифи</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ і Просування в Каталозі ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/ua/terms-of-use">Угода користувача</a></li>
+          <li><a href="https://prom.ua/ua/privacy-policy">Політика конфіденційності</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/sections/360001419538">Правила маркетплейсу</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Інструкція Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусна програма електронний маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Про нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">Про Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Робота в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Адміністрація</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнери</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Офіційні дилери Prom.ua</a></li>-->
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <div class="footer-buttons">
+        <div class="socials">
+          <a class="social youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2217" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="5" width="20" height="15">
+<path d="M22 5H2V19.0007H22V5Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2217)">
+<path class="colorize" d="M21.5835 7.18611C21.4692 6.76243 21.2458 6.37615 20.9355 6.06586C20.6252 5.75558 20.239 5.53216 19.8153 5.41792C18.2545 4.99316 12 4.99316 12 4.99316C12 4.99316 5.74383 4.99316 4.18637 5.41133C3.76175 5.52584 3.37477 5.75015 3.06437 6.0617C2.75397 6.37326 2.5311 6.76107 2.41817 7.18611C2 8.74522 2 12.0001 2 12.0001C2 12.0001 2 15.2549 2.41817 16.8141C2.53211 17.2379 2.75543 17.6243 3.06576 17.9347C3.37609 18.245 3.76254 18.4683 4.18637 18.5822C5.74547 19.0004 12 19.0004 12 19.0004C12 19.0004 18.2562 19.0004 19.8153 18.5822C20.239 18.468 20.6252 18.2446 20.9355 17.9343C21.2458 17.624 21.4692 17.2377 21.5835 16.8141C22 15.2549 22 12.0001 22 12.0001C22 12.0001 21.9951 8.74522 21.5835 7.18611Z" fill="#01011B"/>
+<path d="M10 14.9998L15.1975 12.0001L10 9.00049V14.9998Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2224" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20">
+<path d="M22 2H2V22H22V2Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2224)">
+<path class="colorize" d="M22 12C22 6.47715 17.5229 2 12 2C6.47715 2 2 6.47715 2 12C2 16.9912 5.65684 21.1283 10.4375 21.8785V14.8906H7.89844V12H10.4375V9.79688C10.4375 7.29063 11.9305 5.90625 14.2146 5.90625C15.3084 5.90625 16.4531 6.10156 16.4531 6.10156V8.5625H15.1922C13.95 8.5625 13.5625 9.3334 13.5625 10.125V12H16.3359L15.8926 14.8906H13.5625V21.8785C18.3432 21.1283 22 16.9912 22 12Z" fill="#01011B"/>
+<path d="M15.8926 14.8906L16.3359 12H13.5625V10.125C13.5625 9.33418 13.95 8.5625 15.1922 8.5625H16.4531V6.10156C16.4531 6.10156 15.3088 5.90625 14.2146 5.90625C11.9305 5.90625 10.4375 7.29063 10.4375 9.79688V12H7.89844V14.8906H10.4375V21.8785C11.4729 22.0405 12.5271 22.0405 13.5625 21.8785V14.8906H15.8926Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social instagram" href="https://www.instagram.com/prom.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" fill-rule="evenodd" clip-rule="evenodd" d="M3.67886 3.67886C4.23577 3.12195 4.79268 2.78049 5.45122 2.52439C6.08537 2.27642 6.81301 2.10569 7.88211 2.06098C8.94715 2.0122 9.28862 2 12.0041 2C14.7195 2 15.061 2.0122 16.126 2.06098C17.1911 2.10976 17.9187 2.27642 18.5528 2.52439C19.2114 2.78049 19.7683 3.12195 20.3252 3.67886C20.878 4.23171 21.2195 4.79268 21.4756 5.44715C21.7195 6.0813 21.8902 6.80894 21.939 7.87398C21.9878 8.93902 22 9.28049 22 11.9959C22 14.7114 21.9878 15.0528 21.939 16.1179C21.8902 17.1829 21.7236 17.9106 21.4756 18.5447C21.2195 19.2033 20.878 19.7602 20.3211 20.3171C19.7642 20.874 19.2073 21.2154 18.5488 21.4715C17.9146 21.7154 17.187 21.8862 16.122 21.935C15.0569 21.9837 14.7154 21.9959 12 21.9959C9.28455 21.9959 8.94309 21.9837 7.87805 21.935C6.81301 21.8862 6.08537 21.7195 5.45122 21.4715C4.79268 21.2154 4.23577 20.874 3.67886 20.3171C3.12195 19.7602 2.78049 19.2033 2.52439 18.5447C2.28049 17.9106 2.10976 17.1829 2.06098 16.1179C2.0122 15.0528 2 14.7114 2 11.9959C2 9.28049 2.0122 8.93902 2.06098 7.87398C2.10976 6.80894 2.27642 6.0813 2.52439 5.44715C2.78049 4.79268 3.12195 4.23171 3.67886 3.67886ZM11.8862 17.0854C14.7599 17.0854 17.0894 14.7558 17.0894 11.8821C17.0894 9.00844 14.7599 6.67886 11.8862 6.67886C9.0125 6.67886 6.68293 9.00844 6.68293 11.8821C6.68293 14.7558 9.0125 17.0854 11.8862 17.0854ZM11.8862 15.0041C13.6104 15.0041 15.0081 13.6063 15.0081 11.8821C15.0081 10.1579 13.6104 8.76016 11.8862 8.76016C10.162 8.76016 8.76423 10.1579 8.76423 11.8821C8.76423 13.6063 10.162 15.0041 11.8862 15.0041ZM17.0894 7.71951C17.6642 7.71951 18.1301 7.2536 18.1301 6.67886C18.1301 6.10413 17.6642 5.63821 17.0894 5.63821C16.5147 5.63821 16.0488 6.10413 16.0488 6.67886C16.0488 7.2536 16.5147 7.71951 17.0894 7.71951Z" fill="#01011b"/>
+</svg>
+          </a>
+          <a class="social evobusiness" href="https://evo.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" d="M11.031 11.5268L15.1849 4.95602C12.0355 3.65978 8.39418 4.79454 6.54698 7.7162C4.46876 11.0054 5.45265 15.3723 8.74093 17.451C12.0297 19.5287 16.3963 18.5446 18.4748 15.257C18.8269 14.7014 19.6162 14.524 20.1707 14.8749C20.4479 15.05 20.6406 15.3231 20.7126 15.6433C20.7847 15.9632 20.7279 16.2927 20.5523 16.5703C19.1972 18.7144 17.0841 20.2038 14.602 20.7631C12.1202 21.3223 9.57213 20.8839 7.42784 19.5285C2.99349 16.7254 1.66653 10.8377 4.46945 6.40287C5.82598 4.25858 7.93908 2.76922 10.4207 2.20993C12.9025 1.65018 15.4501 2.08888 17.5942 3.44494C17.8718 3.62051 18.0645 3.89357 18.1366 4.2133C18.2087 4.53372 18.1518 4.86292 17.9763 5.1406L13.109 12.8401C12.7588 13.395 11.9685 13.5731 11.4131 13.2222C10.8411 12.8605 10.6697 12.0995 11.031 11.5268Z" fill="#01011B"/>
+</svg>
+          </a>
+          <!--<a class="social telegram" href="https://t.me/PromBuyerBot?start=WEB" target="_blank"></a>-->
+        </div>
+        <div class="news">
+          <a class="news-btn youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/1d5182860f14ed01108250520472f4920bede6b7.png" alt="youtube">
+            <span>Новини Прому</span>
+          </a>
+          <a class="news-btn facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/e3f308d3542871bdaad40b93fd8c400ccc6be41e.png" alt="facebook">
+            <span>Спільнота продавців</span>
+          </a>
+        </div>
+      </div>
+      <a class="footer-logo" href="https://prom.ua/">
+        <img src="//theme.zdassets.com/theme_assets/9422419/c5f16a937df5454d0c46267e61e1751b7526e144.png" alt="prom.ua">
+      </a>
+    </div>
+    
+  </div>
+  
+  <div class="footer-inner container ru-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупателям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/ru">Справка для покупателей</a></li>
+          <li><a href="https://prom.ua/landing/certification_by_prom">О надежных продавцах</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Как покупать с Prom оплата</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004971837?utm_source=link2support_safe_shopping&amp;utm_medium=Portal&amp;utm_campaign=footer">Рекомендации по безопасным покупкам</a></li>
+          <li><a href="https://my.prom.ua/company_domain_check/check_is_site_on_portal">Проверка на принадлежность сайта к платформе Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцам</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/ru">Справка для продавцов</a></li>
+          <li><a href="https://prom.ua/join-now?source_id=new.footer">Создать сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/how_to_order">Тарифы</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ и Продвижение в Каталоге ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/terms-of-use">Пользовательское соглашение</a></li>
+          <li><a href="https://prom.ua/privacy-policy">Политика конфиденциальности</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/categories/360000787417">Правила пользования порталом</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Руководство Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусная программа электронный маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">О нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">О Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Работа в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/easy_to_sell">Объявления на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Администрация</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнеры</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Официальные дилеры Prom.ua</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column footer-logo">
+        <a href="https://prom.ua/">
+          <img src="//theme.zdassets.com/theme_assets/9422419/23b2936718abda06644b9d4bac2b3b84fee5af02.png" alt="">
+        </a>
+      </div>
+    </div>
+    
+  </div>
+  
+</footer>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/uk.4e5ec0c35b3b52e67901.js"></script>
+  <script src="https://evoservice.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="360000361438" data-return-to="https://support.prom.ua/hc/uk/articles/360004989378-%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82-%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0-%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F-" data-theme="hc" data-locale="uk" data-auth-origin="360000361438,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"evoservice","environment":"production","name":"Prom.ua"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"uk","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHdWsGOgZFVDoPYXJ0aWNsZV9pZGwrCMIx+NFTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDU8aPOhNoZWxwX2NlbnRlcl9pZGwrCBU4rdFTADoNYnJhbmRfaWRsKwjek7HRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiB3VrBjsGVA==--63e7c73f09d720437be5edc242ea4662a8e63ee9","url":"https://support.prom.ua/hc/activity"},"current_record_id":"360004989378","current_record_url":"/hc/uk/articles/360004989378-%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82-%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0-%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F-","current_record_title":"Винесення на окремий домен неактивних компаній (пакет \"Безкоштовна реєстрація\")","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":360000361438,"account_id":9422419,"name":"prom.ua","active":true,"deleted_at":null,"created_at":"2019-08-22T12:04:01Z","updated_at":"2023-09-19T12:42:48Z","route_id":2940186,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://promua.zendesk.com","current_host_mapping":"support.prom.ua","current_path":"/hc/uk/articles/360004989378-%D0%92%D0%B8%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%B0-%D0%BE%D0%BA%D1%80%D0%B5%D0%BC%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BD%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82-%D0%91%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B0-%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F-","authentication_domain":"https://evoservice.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.prom.ua/hc/uk","arrange_content_url":"https://support.prom.ua/hc/admin/arrange_contents?locale=uk","general_settings_url":"https://support.prom.ua/hc/admin/general_settings?locale=uk","user_segments_url":"https://evoservice.zendesk.com/knowledge/user_segments?brand_id=360000361438","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":true,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fevoservice.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://evoservice.zendesk.com/knowledge/arrange?brand_id=360000361438","article_verification_url":"https://evoservice.zendesk.com/knowledge/verification?brand_id=360000361438","has_article_verification":true,"guide_language_settings_url":"https://support.prom.ua/hc/admin/language_settings?locale=uk","docs_importer_url":"https://evoservice.zendesk.com/knowledge/import_articles?brand_id=360000361438","content_tags_url":"https://evoservice.zendesk.com/knowledge/content_tags?brand_id=360000361438","community_badges_url":"https://evoservice.zendesk.com/knowledge/community_badges?brand_id=360000361438","community_settings_url":"https://evoservice.zendesk.com/knowledge/community_settings?brand_id=360000361438","gather_plan_state":"subscribed","search_settings_url":"https://evoservice.zendesk.com/knowledge/search_settings?brand_id=360000361438","has_multibrand_search_in_plan":true,"has_search_settings_in_plan":true,"theming_api_version":1,"theming_settings":{"brand_color":"rgba(81, 73, 157, 1)","brand_text_color":"#FFFFFF","text_color":"rgba(3, 3, 3, 1)","link_color":"rgba(6, 112, 235, 1)","background_color":"rgba(255, 255, 255, 1)","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"//theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg","favicon":"//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png","homepage_background_image":"//theme.zdassets.com/theme_assets/9422419/4d82ff3e0c399da29f490bad665d20d5783bc614.svg","community_background_image":"//theme.zdassets.com/theme_assets/9422419/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/9422419/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":false,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true},"has_pci_credit_card_custom_field":true,"current_brand_id":360000361438,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":true,"has_docs_importer":false,"user_preferred_locale":"ru","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_google_analytics_4":true,"has_end_user_2fa":false,"version":"v23802"};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-4ef0d82f9fc65c8a28f659aa3430955f.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-cd240096d8f4c02aeb9762ce9a7a1c1c.js"></script>
+  
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'828040c89b1334b6',t:'MTcwMDMxMDkyMy44NDIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

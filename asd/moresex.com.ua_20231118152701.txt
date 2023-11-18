@@ -1,0 +1,129 @@
+WhatWeb report for [1m[34mhttp://moresex.com.ua[0m
+Status    : 404 Not Found
+Title     : [1m[33m404 Not Found[0m
+IP        : 51.68.107.5
+Country   : [1m[31mUNITED KINGDOM, GB[0m
+
+Summary   : 
+
+Detected Plugins:
+HTTP Headers:
+	HTTP/1.1 404 Not Found
+	Date: Sat, 18 Nov 2023 13:27:05 GMT
+	Content-Type: text/html
+	Transfer-Encoding: chunked
+	Connection: close
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-18 15:28 EET
+NSE: Loaded 150 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 15:28
+Stats: 0:00:00 elapsed; 0 hosts completed (0 up), 0 undergoing Script Pre-Scan
+NSE: Active NSE Script Threads: 1 (0 waiting)
+NSE Timing: About 0.00% done
+NSE Timing: About 50.00% done; ETC: 15:29 (0:00:30 remaining)
+Completed NSE at 15:28, 34.06s elapsed
+Initiating NSE at 15:28
+Completed NSE at 15:28, 0.01s elapsed
+Pre-scan script results:
+| broadcast-avahi-dos: 
+|   Discovered hosts:
+|     224.0.0.251
+|   After NULL UDP avahi packet DoS (CVE-2011-1002).
+|_  Hosts are all up (not vulnerable).
+Initiating Ping Scan at 15:28
+Scanning moresex.com.ua (51.68.107.5) [4 ports]
+Completed Ping Scan at 15:28, 0.05s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 15:28
+Completed Parallel DNS resolution of 1 host. at 15:28, 0.00s elapsed
+Initiating SYN Stealth Scan at 15:28
+Scanning moresex.com.ua (51.68.107.5) [65535 ports]
+Discovered open port 139/tcp on 51.68.107.5
+Discovered open port 1025/tcp on 51.68.107.5
+Discovered open port 111/tcp on 51.68.107.5
+Discovered open port 256/tcp on 51.68.107.5
+Discovered open port 80/tcp on 51.68.107.5
+Discovered open port 445/tcp on 51.68.107.5
+Discovered open port 1723/tcp on 51.68.107.5
+Discovered open port 113/tcp on 51.68.107.5
+Discovered open port 135/tcp on 51.68.107.5
+Discovered open port 44040/tcp on 51.68.107.5
+Discovered open port 143/tcp on 51.68.107.5
+Increasing send delay for 51.68.107.5 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 53/tcp on 51.68.107.5
+Discovered open port 29984/tcp on 51.68.107.5
+Discovered open port 57214/tcp on 51.68.107.5
+Increasing send delay for 51.68.107.5 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 51953/tcp on 51.68.107.5
+Discovered open port 57199/tcp on 51.68.107.5
+Discovered open port 443/tcp on 51.68.107.5
+Discovered open port 63372/tcp on 51.68.107.5
+Discovered open port 29938/tcp on 51.68.107.5
+Increasing send delay for 51.68.107.5 from 10 to 20 due to max_successful_tryno increase to 6
+Discovered open port 23/tcp on 51.68.107.5
+Discovered open port 22/tcp on 51.68.107.5
+Discovered open port 554/tcp on 51.68.107.5
+Increasing send delay for 51.68.107.5 from 20 to 40 due to max_successful_tryno increase to 7
+Discovered open port 3306/tcp on 51.68.107.5
+Discovered open port 995/tcp on 51.68.107.5
+Discovered open port 110/tcp on 51.68.107.5
+Discovered open port 32279/tcp on 51.68.107.5
+Discovered open port 36648/tcp on 51.68.107.5
+Discovered open port 8888/tcp on 51.68.107.5
+Discovered open port 53143/tcp on 51.68.107.5
+Discovered open port 18255/tcp on 51.68.107.5
+Discovered open port 3389/tcp on 51.68.107.5
+Discovered open port 36976/tcp on 51.68.107.5
+Increasing send delay for 51.68.107.5 from 40 to 80 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 51.68.107.5 from 80 to 160 due to max_successful_tryno increase to 8
+Discovered open port 587/tcp on 51.68.107.5
+Increasing send delay for 51.68.107.5 from 160 to 320 due to max_successful_tryno increase to 9
+Discovered open port 5900/tcp on 51.68.107.5
+Discovered open port 993/tcp on 51.68.107.5
+Discovered open port 8080/tcp on 51.68.107.5
+Discovered open port 1720/tcp on 51.68.107.5
+Increasing send delay for 51.68.107.5 from 320 to 640 due to max_successful_tryno increase to 10
+Discovered open port 26101/tcp on 51.68.107.5
+Warning: 51.68.107.5 giving up on port because retransmission cap hit (10).
+Discovered open port 21/tcp on 51.68.107.5
+Discovered open port 39213/tcp on 51.68.107.5
+Discovered open port 63071/tcp on 51.68.107.5
+Discovered open port 48866/tcp on 51.68.107.5
+Discovered open port 1161/tcp on 51.68.107.5
+Discovered open port 51572/tcp on 51.68.107.5
+Discovered open port 20456/tcp on 51.68.107.5
+Discovered open port 29933/tcp on 51.68.107.5
+Discovered open port 18600/tcp on 51.68.107.5
+Discovered open port 9788/tcp on 51.68.107.5
+Discovered open port 58711/tcp on 51.68.107.5
+Discovered open port 50225/tcp on 51.68.107.5
+Discovered open port 23735/tcp on 51.68.107.5
+Discovered open port 2721/tcp on 51.68.107.5
+Discovered open port 9311/tcp on 51.68.107.5
+Discovered open port 59982/tcp on 51.68.107.5
+Discovered open port 14273/tcp on 51.68.107.5
+Increasing send delay for 51.68.107.5 from 640 to 1000 due to 11 out of 23 dropped probes since last increase.
+Discovered open port 19105/tcp on 51.68.107.5
+Discovered open port 44024/tcp on 51.68.107.5
+Discovered open port 23821/tcp on 51.68.107.5
+Discovered open port 4829/tcp on 51.68.107.5
+Discovered open port 28621/tcp on 51.68.107.5
+Discovered open port 38317/tcp on 51.68.107.5
+Discovered open port 42711/tcp on 51.68.107.5
+Discovered open port 55987/tcp on 51.68.107.5
+Discovered open port 58062/tcp on 51.68.107.5
+Discovered open port 18091/tcp on 51.68.107.5
+Discovered open port 51365/tcp on 51.68.107.5
+Discovered open port 5209/tcp on 51.68.107.5
+Discovered open port 46103/tcp on 51.68.107.5
+Discovered open port 28400/tcp on 51.68.107.5
+Discovered open port 38400/tcp on 51.68.107.5
+Discovered open port 11935/tcp on 51.68.107.5
+Discovered open port 24853/tcp on 51.68.107.5
+Discovered open port 62302/tcp on 51.68.107.5
+Discovered open port 26340/tcp on 51.68.107.5
+Discovered open port 59677/tcp on 51.68.107.5
+Discovered open port 23650/tcp on 51.68.107.5
+Discovered open port 34182/tcp on 51.68.107.5

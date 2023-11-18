@@ -1,0 +1,3 @@
+website="moresex.com.ua" && date=$(date +%Y%m%d%H%M%S) && (whatweb -v -a 3 $website || true && whois -H $website || true && nmap -v -A -p- --script vuln $website || true && dig +trace $website || true && curl -I -v -L -k http://$website || true && nslookup $website || true && host $website || true && ping -c 4 $website || true && traceroute $website || true) > "${website}_${date}.txt"
+Timeout.
+

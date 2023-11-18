@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <!-- v23802 -->
+
+
+  <title>1С - Інструкція по обміну товарами та замовленнями &ndash; Пiдтримка</title>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="">
+
+  <meta name="description" content="Файли драйверів-обробок 1С, необхідні для налаштування обміну Для налаштування обміну 1С та вашого сайту компанії необхідно скачати і..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Пiдтримка" />
+<meta property="og:title" content="1С - Інструкція по обміну товарами та замовленнями" />
+<meta property="og:description" content="Файли драйверів-обробок 1С, необхідні для налаштування обміну
+Для налаштування обміну 1С та вашого сайту компанії необхідно скачати і встановити для 1С спеціальні драйвера-обробки, які повинні знах..." />
+<meta property="og:url" content="https://support.prom.ua/hc/uk/articles/360004963698" />
+<link rel="canonical" href="https://support.prom.ua/hc/uk/articles/360004963698-1%D0%A1-%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F-%D0%BF%D0%BE-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8">
+<link rel="alternate" hreflang="uk" href="https://support.prom.ua/hc/uk/articles/360004963698-1%D0%A1-%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F-%D0%BF%D0%BE-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8">
+<link rel="alternate" hreflang="x-default" href="https://support.prom.ua/hc/uk/articles/360004963698-1%D0%A1-%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F-%D0%BF%D0%BE-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-5dedcabe00a896eb2c214ed2973f0975.css" media="all" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" href="//static.zdassets.com/hc/assets/theming_v1_support-e05586b61178dcde2a13a3d323525a18.css" media="all" />
+  <link rel="stylesheet" type="text/css" href="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/style.css?digest=14557196134685">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-09d07e20ce042ef10e301661ad1f316c.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-153977985-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <script type="text/javascript" src="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/script.js?digest=14557196134685"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header uaprom-header">
+  <div class="container">
+    <div class="logo">
+      <a title="Головна" href="/hc/uk">
+      		<img src="//theme.zdassets.com/theme_assets/9422419/3a4f554dc0e52a68af6dfb1933ec9e01bfdcd16c.svg" alt="prom.продавцям">
+      </a>
+      
+      
+    </div>
+    <div class="nav-wrapper">
+      <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Переключити навігаційне меню">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+          <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
+        </svg>
+      </button>
+      <nav class="user-nav" id="user-nav">
+        <a href="https://prom.ua/" target="_blank">Prom.ua</a>
+        <a class="submit-a-request" href="/hc/uk/requests/new">Надіслати запит</a>
+      </nav>
+        <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="Відкриває діалог" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004963698&amp;locale=uk">Увійти</a>
+
+    </div>
+  </div>
+</header>
+
+  <main role="main">
+    <section class="section hero">
+  <div class="hero-inner">
+    <div class="hero-info">
+      <h1 class="hero-title">Чим ми можемо допомогти?</h1>
+    </div>
+    <div class="hero-search-wrapper">
+      <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/uk/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Пошук" autocomplete="off" aria-label="Пошук" /></form>
+      <div class="line"></div>
+    </div>
+  </div>
+</section>
+
+<div class="container uaprom-article-container">
+  <div class="breadcrumbs-container">
+    <ol class="breadcrumbs">
+  
+    <li title="Пiдтримка">
+      
+        <a href="/hc/uk">Пiдтримка</a>
+      
+    </li>
+  
+    <li title="Робота з кабінетом компанії">
+      
+        <a href="/hc/uk/categories/360000787357-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-%D0%B7-%D0%BA%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97">Робота з кабінетом компанії</a>
+      
+    </li>
+  
+    <li title="Імпорт та експорт">
+      
+        <a href="/hc/uk/sections/360001406958-%D0%86%D0%BC%D0%BF%D0%BE%D1%80%D1%82-%D1%82%D0%B0-%D0%B5%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82">Імпорт та експорт</a>
+      
+    </li>
+  
+</ol>
+
+  </div>
+
+  <div class="article-container" id="article-container">
+    
+    <aside class="sidebar">
+   
+      <div class="navigation-sidebar mobile-expandable">
+        <div class="sidebar-header">
+          <h3>Категорії</h3>
+        </div>
+        <ul class="nav-list preview" data-locale="uk">
+          <li class="item category-item preview-item"><nav></nav><a>Початок бізнесу в інтернеті</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Як працює маркетплейс</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Правила роботи на Prom.ua</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Оплата та доставка</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Каталог ProSale </a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Робота з кабінетом компанії</a></li>
+        </ul>
+      </div>
+      
+      
+      	
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Пов'язані статті</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCN4JvdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHLN99FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICFwEvaGMvdWsvYXJ0aWNsZXMvMzYwMDE3ODg5NzU4LSVEMCVBMCVEMCVCNSVEMCVCQSVEMCVCRSVEMCVCQyVEMCVCNSVEMCVCRCVEMCVCNCVEMCVCMCVEMSU4NiVEMSU5NiVEMSU5Ny0lRDElODklRDAlQkUlRDAlQjQlRDAlQkUtJUQwJUJGJUQwJUJFJUQwJUJBJUQxJTgwJUQwJUIwJUQxJTg5JUQwJUI1JUQwJUJEJUQwJUJEJUQxJThGLSVEMSU4MCVEMCVCNSVEMCVCOSVEMSU4MiVEMCVCOCVEMCVCRCVEMCVCMyVEMSU4My0lRDElODIlRDAlQkUlRDAlQjIlRDAlQjAlRDElODAlRDElOTYlRDAlQjIGOwhUOglyYW5raQY%3D--a1687d1938f87f7c17a97cade1c0356907816c1d" rel="nofollow">Рекомендації щодо покращення рейтингу товарів</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCAbeidJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHLN99FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB%2Fy9oYy91ay9hcnRpY2xlcy8zNjAwMTQ1MzYxOTgtJUQwJUEzJUQwJUJBJUQxJTgwJUQwJUIwJUQxJTk3JUQwJUJEJUQxJTk2JUQwJUI3JUQwJUIwJUQxJTg2JUQxJTk2JUQxJThGLSVEMSU4MCVEMCVCRSVEMCVCMSVEMCVCRSVEMSU4MiVEMCVCMC0lRDAlQjctJUQwJUI0JUQwJUIyJUQwJUJFJUQwJUJDJUQwJUJFJUQwJUIyJUQwJUJEJUQwJUI4JUQwJUJDLSVEMCVCQSVEMCVCRSVEMCVCRCVEMSU4MiVEMCVCNSVEMCVCRCVEMSU4MiVEMCVCRSVEMCVCQwY7CFQ6CXJhbmtpBw%3D%3D--b70ed355f118f5fe93749dda2a8c1be3cccd77d6" rel="nofollow">Українізація: робота з двомовним контентом</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBHsv0sBBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHLN99FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB7C9oYy91ay9hcnRpY2xlcy80NDAzNjEyMzQ3NDA5LSVEMCU5MCVEMCVCMiVEMSU4MiVEMCVCRSVEMCVCQyVEMCVCMCVEMSU4MiVEMCVCOCVEMSU4NyVEMCVCRCVEMCVCNS0lRDAlQjclRDAlQjAlRDAlQkYlRDAlQkUlRDAlQjIlRDAlQkQlRDAlQjUlRDAlQkQlRDAlQkQlRDElOEYtJUQxJTg1JUQwJUIwJUQxJTgwJUQwJUIwJUQwJUJBJUQxJTgyJUQwJUI1JUQxJTgwJUQwJUI4JUQxJTgxJUQxJTgyJUQwJUI4JUQwJUJBBjsIVDoJcmFua2kI--fc132f1cd7b40e95b9f918522e4db1b57c7ad19d" rel="nofollow">Автоматичне заповнення характеристик</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJFWb5ADBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHLN99FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICMwEvaGMvdWsvYXJ0aWNsZXMvNDQxMzM1NDYyODc1My0lRDAlOTIlRDAlQjglRDAlQjQlRDAlQjAlRDElODclRDAlQjAtJUQwJUI1JUQwJUJCJUQwJUI1JUQwJUJBJUQxJTgyJUQxJTgwJUQwJUJFJUQwJUJEJUQwJUJEJUQwJUI4JUQxJTg1LSVEMSU4NyVEMCVCNSVEMCVCQSVEMSU5NiVEMCVCMi0lRDAlQjctJUQwJTlGJUQwJUEwJUQwJUEwJUQwJTlFLSVEMSU4My0lRDElOTYlRDAlQkQlRDElODIlRDAlQjUlRDElODAlRDAlQkQlRDAlQjUlRDElODItJUQwJUJDJUQwJUIwJUQwJUIzJUQwJUIwJUQwJUI3JUQwJUI4JUQwJUJEJUQwJUIwJUQxJTg1BjsIVDoJcmFua2kJ--d49e1e96f2814d046a6ad434f8e58a2d1d5f0c94" rel="nofollow">Видача електронних чеків з ПРРО у інтернет-магазинах</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCOm9G9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCHLN99FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICRQEvaGMvdWsvYXJ0aWNsZXMvMzYwMDA3MzE5MDE3LSVEMCU5MiVEMSU5NiVEMCVCNCVEMCVCNSVEMCVCRS0lRDAlOTAlRDAlQjQlRDAlQjAlRDAlQkYlRDElODIlRDAlQjAlRDElODYlRDElOTYlRDElOEYtJUQwJUJGJUQxJTgwJUQwJUIwJUQwJUI5JUQxJTgxJUQxJTgzLSVEMCVCRiVEMCVCRSVEMSU4MSVEMSU4MiVEMCVCMCVEMSU4NyVEMCVCMCVEMCVCQiVEMSU4QyVEMCVCRCVEMCVCOCVEMCVCQSVEMCVCMC0lRDAlQkYlRDElOTYlRDAlQjQtJUQxJTg0JUQwJUIwJUQwJUI5JUQwJUJCLSVEMSU5NiVEMCVCQyVEMCVCRiVEMCVCRSVEMSU4MCVEMSU4MiVEMSU4My1Qcm9tLXVhBjsIVDoJcmFua2kK--ed94bf4d3de3788ea572dec5a2d1d5851e67c85d" rel="nofollow">Відео: Адаптація прайсу постачальника під файл імпорту Prom.ua</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      
+      
+      
+      	<div data-recent-articles></div>
+      
+      
+    </aside>
+
+    <article class="article">
+      <div class="article-wrapper uaprom-article-block">
+        <header class="article-header page-header">
+          <h1 title="1С - Інструкція по обміну товарами та замовленнями" class="article-title">
+            1С - Інструкція по обміну товарами та замовленнями
+            
+          </h1>
+        </header>
+
+        <section class="article-info">
+          <div class="article-content">
+            <div class="article-body"> 
+<div class="article-content">
+<div class="article-body">
+<h2>Файли драйверів-обробок 1С, необхідні для налаштування обміну</h2>
+<p>Для налаштування обміну 1С та вашого сайту компанії необхідно скачати і встановити для 1С спеціальні драйвера-обробки, які повинні знаходитися в одному і тому ж каталозі:</p>
+<ul>
+<li>ОбмінЗСайтом_УТ.epf - підбір та обробка даних в стандартній конфігурації «Управління Торгівлею».&nbsp;</li>
+<li>ОбмінЗСайтомКабінет.epf -- обмін з сайтом.&nbsp;</li>
+</ul>
+<p>Завантажити архів з драйверами-обробками можна в Кабінеті компанії в розділі «<a href="https://my.prom.ua/cms/import/sync_1c" target="_blank" rel="noopener noreferrer">Товари та послуги&gt; Синхронізація з системою 1С</a>»:</p>
+<p><a href="http://img.support.uaprom.net/img/889c07fcc7e8484c862ab269747f412eimp1s05.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/889c07fcc7e8484c862ab269747f412eimp1s05.png?PIMAGE_ID=undefined" alt=""></a></p>
+<h2>Можливості обміну</h2>
+<p>Після налаштування обміну товарами та замовленнями з 1С ви зможете:</p>
+<ul>
+<li>Вивантажувати дані про товари та послуги з 1С в Кабінет (на сайт) вашої компанії.</li>
+<li>Завантажувати дані про замовлення, товарах, що були замовлені, та клієнтів, які зробили замовлення з Кабінету компанії в 1С.</li>
+<li>Синхронізувати структуру груп товарів між 1С та сайтом компанії.</li>
+</ul>
+<p><strong>Примітка</strong>: Зворотний обмін товарами (з сайту компанії в 1С) працює тільки в режимі завантаження замовлень: замовлені покупцями товари автоматично додаються в базу даних 1С.</p>
+<p>Ви можете налаштувати обмін товарами та послугами для наступних версій 1С: «Управління Торгівлею», «Управління Торговим Підприємством» та «Управління невеликою фірмою» версій 8.1 (тільки старий драйвер, не розвивається), 8.2 та 8.3.</p>
+<p><strong>Увага!</strong> Уважно прочитайте цю інструкцію та виконайте потрібні вам налаштування для успішного обміну 1С з сайтом вашої компанії.</p>
+<h2>Підготовка товарів до обміну</h2>
+<p>Попередню підготовку товарів до обміну з 1С необхідно виконати, якщо перед налаштуванням обміну у вас на сайті компанії є такі ж товари, як і в 1С. Це необхідно зробити для того, щоб при обміні товарами з 1С кожному товару надавався унікальний ID, який згодом не змінюється і буде використовуватися для ідентифікації товару під час обміну. Щоб обмін товарами між 1С та сайтом вашої компанії проходив правильно, вам необхідно одноразово задати унікальні ID для ваших товарів - ID товару на сайті компанії повинен збігатися з ID товару в 1С.</p>
+<p>Якщо не виконати попередню підготовку товарів, то в Кабінеті компанії під час обміну будуть створені нові товари (ваші позиції продублюються).</p>
+<p>Що необхідно зробити:</p>
+<ol>
+<li>Експортуйте ваші товари з сайту компанії в Excel-файл в розділі «<a href="https://my.prom.ua/cms/product" target="_blank" rel="noopener noreferrer">Управління товарами</a>» (кнопка <strong>Експорт</strong>).</li>
+<li>В отриманому файлі експорту зробіть зміни:</li>
+</ol>
+<p>• На вкладці * Export Products Sheet *, в стовпці "Ідентіфікатор_товара" вкажіть ID ваших товарів."<br>• На вкладці * Export Groups Sheet *, в стовпці "Ідентіфікатор_групи" вкажіть ID груп ваших товарів (для товарів, що входять до груп)."<br>ID товарів і груп візьміть з 1С. Приклад ID товару в 1С: «cfacda7b-d7e9-11d9-bfbc-00112f3000a2». Це можна зробити і за допомогою драйвера, на вкладці "Інше", натиснувши на псевдопосилання "Внутрішні коди товарів".</p>
+<ol start="3">
+<li>Після внесення всіх ID збережіть файл експорту та знову імпортуйте його в кабінет компанії в розділі «<a href="https://my.prom.ua/cms/import" target="_blank" rel="noopener noreferrer">Імпорт позицій</a>». &nbsp;</li>
+</ol>
+<h2>Налаштування зв'язку 1С з вашим сайтом та основних параметрів обміну</h2>
+<p>Для початку роботи в 1С потрібно відкрити файл-обробку «ОбмінЗСайтом_УТ.epf» (через Файл-&gt; Відкрити).</p>
+<p><a href="http://img.support.uaprom.net/img/92180769b06a47338b0287ff8888f56d793061156.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/92180769b06a47338b0287ff8888f56d793061156.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>На першій вкладці «Налаштування» вкажіть ключ користувача, який потрібно скопіювати з Кабінету компанії (розділ <a href="https://my.prom.ua/cms/import/sync_1c" target="_blank" rel="noopener noreferrer">Товари і послуги&gt; Імпорт позицій&gt; Синхронізація з 1С</a>, поле «Ключ користувача»):</p>
+<p><a href="http://img.support.uaprom.net/img/4e96794038b440cf9c74ba4d024ecc86930611622.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/4e96794038b440cf9c74ba4d024ecc86930611622.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Тут параметр «Адреса сайту» - це фактично адреса <span>Маркетплейса</span>, на якому зареєстрована ваша компанія; в останніх версіях обробки він встановлюється автоматично (ви можете самостійно змінити адресу сайту, якщо хочете вивантажити свої товари на інший <span>маркетплейс</span>).</p>
+<p>Для роботи в режимі обміну встановіть наступні налаштування:</p>
+<p><a href="http://img.support.uaprom.net/img/6673741b8eb94930bd1f0db2d6f715b8930611633.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/6673741b8eb94930bd1f0db2d6f715b8930611633.png?PIMAGE_ID=undefined" alt=""></a></p>
+<ol>
+<li><strong>Тип обміну даними</strong><br>За замовчуванням обмін завжди працює в режимі «Робота з сайтом» - виберіть цей режим. Режим «Робота з локальними файлами» може використовуватися для збереження даних обміну в файл і в цьому посібнику не описується.</li>
+<li><strong>Режим обміну</strong></li>
+</ol>
+<ul>
+<li>Повне вивантаження - в цьому режимі з 1С на сайт компанії будуть завантажені всі вибрані позиції повністю (навіть якщо з моменту минулого вивантаження нічого не змінилося в їх описі).</li>
+<li>Тільки зміни - в цьому режимі необхідно вказати план обміну, за яким будуть реєструватися зміни довідника «Номенклатура» (план обміну може бути будь-який, після вдалого вивантаження реєстрація зміни в плані обміну очищується).&nbsp;</li>
+</ul>
+<ol start="3">
+<li><strong>Параметри створення нових елементів</strong> (параметри створення нової номенклатури та контрагентів при завантаженні замовлень в 1С)</li>
+</ol>
+<ul>
+<li>Група для створення нових контрагентів - при завантаженні в 1С замовлень, в довіднику контрагентів 1С автоматично створюються записи про нових клієнтів. Тут можна вказати групу контрагентів для таких нових клієнтів. Якщо група не вказана, то записи будуть створюватися в корені ієрархії контрагентів.</li>
+<li>Група для створення нової номенклатури - при завантаженні в 1С замовлень, в довіднику номенклатури 1С автоматично створюються записи про нові замовлених товарах (товари, які є на сайті компанії, але немає в 1С). Тут можна вказати групу номенклатури, в якій буде зберігатися така нова номенклатура. Якщо група не вказана, то номенклатура буде створюватися в корені ієрархії.</li>
+<li>Проводити замовлення після завантаження - якщо цей прапорець встановлений, то всі завантажені замовлення будуть автоматично проводитися в 1С (враховуватися в статистику про товарообіг).</li>
+<li>Якщо прапорець не виставлений, то замовлення, що завантажуються, будуть просто зберігатися. Встановлювати статус замовлення - не виконує функцій, буде видалений у наступних версіях обробки.</li>
+</ul>
+<p>Функція «Періодичний обмін даними» працює тільки після виконання процедури вбудовування обробки в вашу систему 1С. Про те, як це зробити, дивіться нижче інструкцію з використання вбудованої підсистеми для періодичного обміну товарами з Кабінетом компанії.</p>
+<h2>Критерії відбору товарів/послуг для вивантаження з 1С на сайт компанії</h2>
+<p>Для зазначення відповідностей між даними в 1С та даними на сайті компанії на другій вкладці «Вивантаження товарів» в блоці «Відбір» потрібно встановити наступні налаштування:</p>
+<p><a href="http://img.support.uaprom.net/img/8688596cde0745a99ad64aacf558f670930611615.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/8688596cde0745a99ad64aacf558f670930611615.png?PIMAGE_ID=undefined" alt=""></a></p>
+<ul>
+<li><strong>Категорія ціни</strong> - для роздрібних цін. Вибір для вивантаження товарів з роздрібною ціною.&nbsp;</li>
+<li><strong>Категорія ціни опт</strong> - для оптових цін. Вибір для вивантаження товарів з оптовою ціною.&nbsp;</li>
+<li><strong>Використовувати характеристики</strong> - вивантаження характеристик товарів під час обміну. Відповідність значень в 1С характеристикам на сайті компанії задається на вкладці «Вивантаження властивостей» (опис див. нижче). Якщо для товару ведеться облік за характеристиками, то вивантаження товарів на сайт компанії з різними характеристиками, буде створювати, відповідно, різні картки товарів, але з однаковою назвою.</li>
+<li><strong>Тільки вільні залишки</strong> - прапор дозволяє вивантажувати на сайт компанії тільки вільні (не зарезервовані) залишки товарів з вашої бази даних 1С.</li>
+<li><strong>Вивантажувати картинки</strong> - на сайт будуть завантажені зображення товарів. Рекомендується завжди включати.&nbsp;</li>
+<li><strong>Свій пошук зображень</strong> - механізм вивантаження картинок по зовнішньому алгоритму, призначений для клієнтів, які не зберігають зображення товару в базі даних 1С, а зберігають їх у папці на жорсткому диску свого комп'ютера. Якщо ця опція включена, то автоматично виконується пошук обробки з ім'ям «ПереопределяємийФункціонал.epf» у тій же папці, де знаходиться основна обробка «ОбмінЗСайтом_УТ.epf» (або ж вона повинна бути вбудована в конфігурацію, гілка «Обробки»). Для вивантаження зображень товарів необхідно натиснути на кнопку «Налаштування» і вказати папку з зображеннями на жорсткому диску:</li>
+</ul>
+<p><a href="http://img.support.uaprom.net/img/9e54bc68e9cf463a91fbc5624bcf5939930611606.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/9e54bc68e9cf463a91fbc5624bcf5939930611606.png?PIMAGE_ID=undefined" alt=""></a>​</p>
+<p>При цьому повинні дотримуватися правила назви зображень: назва файлу повинна починатися з коду номенклатури, який відповідає зображення. Після коду номенклатури може стояти тире «-», після якого йдуть цифри, що позначають номер зображення товару.</p>
+<p><img src="http://img.support.uaprom.net/img/8d5ecf44b6b1411e912c38e41585a1bb930611616.png?PIMAGE_ID=undefined" alt=""></p>
+<p>Наприклад, якщо вивантажується товар з кодом «59644», то в цьому прикладі до товару будуть прикріплено три зображення «59644-1.JPG», «59644-2.JPG» та «59644-3.JPG». Основним буде зображення «59644-1.JPG». Якщо на один товар в папці тільки одна картинка, то вона буде основною.&nbsp;</p>
+<p><strong>Увага!</strong> Функціонал «Свій пошук зображень» працює тільки в версії 1C 8.2 (тільки звичайні форми).</p>
+<h2>Налаштування параметрів відбору</h2>
+<p>Приклад налаштування параметрів відбору товарів до вивантаження з класифікації 1С на сайт компанії наведено на малюнку нижче. Параметри відбору задаються в таблиці «Подання»:</p>
+<p><a href="http://img.support.uaprom.net/img/5db10c2ebc1c4ad5bea1bc1f3b4faa709306116111113.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/5db10c2ebc1c4ad5bea1bc1f3b4faa709306116111113.png?PIMAGE_ID=undefined" alt=""></a></p>
+<ol>
+<li><strong>Наявність</strong> - статус наявності товарів, що вивантажуються. Щоб вивантажити товари в статусі «У наявності», вкажіть вид порівняння «Так само» і значення «Так».</li>
+<li><strong>Ціна</strong> - відбір товарів для вивантаження за їх ціною. Вкажіть вид порівняння «Заповнено» для вивантаження на сайт тільки товарів з ціною.</li>
+<li><strong>Номенклатура</strong> - відбір груп товарів з класифікації для вивантаження на сайт компанії. Виберіть групу з класифікації 1С, яка містить товари та послуги (в даному прикладі - це «Номенклатура»). Ви можете вибрати кілька груп з класифікації 1С (наприклад, «Номенклатура» та «Склад»). У стовпці «Вид порівняння» вкажіть «У групі зі списку», щоб вказати конкретний список груп товарів для вивантаження, а в стовпці «Значення» вкажіть перелік потрібних вам груп.</li>
+</ol>
+<p><strong>Важливо</strong>: Щоб вивантажити характеристики товару при синхронізації з 1С необхідно, щоб ці характеристики були додані як властивості в базі 1С в картці номенклатури; значення повинні бути додані та збігатися з тими, які в нашій базі; властивості повинні бути співставлені з характеристиками в самому драйвері.</p>
+<p>Ви можете уточнити параметри відбору для вивантаження на ваш розсуд. Для цього додайте в таблицю «Подання» додаткові рядки та вкажіть в них ваші параметри відбору.</p>
+<p>Поле «Найменування товарів з» необхідно для того, щоб можна було вибрати, з якого поля товару потрібно брати його найменування (тільки при використанні драйвера версії 1.17 і вище):</p>
+<p><a href="http://img.support.uaprom.net/img/528b8f24bf24422dbe0d316cc5adfcc65s.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/528b8f24bf24422dbe0d316cc5adfcc65s.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>За замовчуванням це поле заповнюється значенням «Найменування». Під час вивантаження товарів для кожного товару, що вивантажується, назву буде взято з поля, зазначеного в ньому (значення поля «Найменування товару з»). Ви можете переключити це налаштування, наприклад, на значення «Найменування повне» або вибрати своє значення. У списку варіантів тут є безліч реквізитів, взяті з картки «Номенклатура».</p>
+<p>При виборі товарів, які потрібно вигружати на сайт, ви можете скористатися кнопками на панелі інструментів над таблицею для того, щоб додати або видалити рядки з таблиці, відредагувати вже додані рядки, сортувати таблицю за алфавітом, а також масово встановити або зняти статус наявності для відібраних товарів (при використанні драйвера версії 1.17):</p>
+<p><a href="http://img.support.uaprom.net/img/c605b475952d48bb8d9da6b3550da24f4s.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/c605b475952d48bb8d9da6b3550da24f4s.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Зняття і установка прапора наявності виконується вручну при кожному обміні і не буде збережено у налаштуваннях.</p>
+<h2>Додаткові налаштування на вкладці «Вивантаження товарів»</h2>
+<h3>Примусове виставляння наявності при обміні</h3>
+<p>При використанні драйвера версії 1.17 ви можете примусово встановити статус наявності товарів під час проведення обміну:</p>
+<p><a href="http://img.support.uaprom.net/img/8ee223f5f2644aa9a2d4a778d804db221s.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/8ee223f5f2644aa9a2d4a778d804db221s.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>На вкладці «Вивантаження товарів» є прапорець «Встановити в наявності для всіх товарів». Він необхідний для того, щоб вивантаження всіх товарів виконувалося в статусі «У наявності». Якщо цей прапорець увімкнено, то при натисканні на кнопку «Заповнити», усі товари, які підпадають під встановлені фільтри, будуть занесені в таблицю товарів зі значенням прапора «Наявність» як «Так» незалежно від того, чи є цей товар на залишках чи ні.</p>
+<p>Якщо цей прапор не встановлений, то прапор «Наявність» заповнюється виходячи з товарних залишків.</p>
+<h3>Перетворення опису товару в HTML</h3>
+<p>При використанні драйвера версії 1.17 ви можете встановити параметр, що дозволяє вивантажувати опис товарів у форматі HTML:</p>
+<p><a href="http://img.support.uaprom.net/img/f36b59cf4f7947a1973aa9f971b1f57e2s.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/f36b59cf4f7947a1973aa9f971b1f57e2s.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Цей прапор відповідає за конвертацію текстового опису товару в HTML при вивантаженні. Якщо даний прапор включити, то на сайті опис товару буде відображатися в такому ж вигляді, як і в 1С (будуть збережені всі абзаци та відступи).</p>
+<h2>Відповідність властивостей товарів в 1С та характеристик на сайті компанії</h2>
+<p>Для того, щоб під час вивантаження задати однозначну відповідність властивостей товарів в 1С властивостями товарів на сайті компанії, перейдіть на вкладку «Вивантаження властивостей» та задайте потрібні відповідності в таблиці:</p>
+<p><a href="http://img.support.uaprom.net/img/1e23544d66074e689d8aec05e12eb436930611604.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/1e23544d66074e689d8aec05e12eb436930611604.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Всі властивості товарів в 1С автоматично виводяться на цій сторінці. Кнопка «Заповнити» аналогічна функції «Очистити все» тобто перезаповнити таблицю властивостей товарів в 1С з нуля. При цьому встановлені відповідності будуть скинуті.</p>
+<p>Всі вибрані прапорцями властивості товарів будуть вивантажені під час обміну.</p>
+<p>Щоб встановити відповідність для конкретної властивості, клікніть на осередок у стовпці «Властивість сайт» (перший раз можлива затримка з відкриттям дерева категорій, що пов'язано з кешуванням даних). При цьому відривається дерево категорій, аналогічне за своєю структурою дереву категорій в кабінеті, з якого потрібно вибрати необхідну характеристику товару на сайті компанії:</p>
+<p><a href="http://img.support.uaprom.net/img/8c0c6f04315549119054d9a37471ee8a930611605.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/8c0c6f04315549119054d9a37471ee8a930611605.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Щоб швидко знайти потрібну характеристику, можна скористатися пошуком. Пошук завжди виконується по всьому дереву категорій. Пошук виконується без урахування регістру, входженням шуканого слова у назві категорії. Всі знайдені в дереві категорій пошукові фрази виводяться в списку «- = РЕЗУЛЬТАТ ПОШУКУ = -» у вигляді категорій другого рівня. При кліці на категорію вона розкривається і в ній відображаються категорії нижнього рівня, які відповідають пошуку. Вибрати характеристику можна у вікні «Властивість (Атрибут)»:</p>
+<p><a href="http://img.support.uaprom.net/img/9142e77c9cf44a34810dc5936a452bf9ryivavyi.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/9142e77c9cf44a34810dc5936a452bf9ryivavyi.png?PIMAGE_ID=undefined" alt=""></a></p>
+<h2>Список товарів для вивантаження та завантаження товарів на сайт</h2>
+<p>Після установки всіх параметрів відбору, а також відповідності властивостей характеристикам товарів натисніть кнопку «Заповнити» на вкладці «Вивантаження товарів», щоб переглянути список товарів/послуг, що вивантажуються за вказаними вами критеріями:</p>
+<p><strong><a href="http://img.support.uaprom.net/img/ef3ac27155a34bcfb8790eed2b3bc33121121212.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/ef3ac27155a34bcfb8790eed2b3bc33121121212.png?PIMAGE_ID=undefined" alt=""></a></strong></p>
+<p>Вивантажувані товари/послуги будуть показані в таблиці. В даному прикладі вивантажуються всі товари групи «ПРОДУКТИ» з номенклатури компанії з ціною і в наявності.</p>
+<p>Для початку вивантаження товарів на сайт компанії натисніть кнопку «Відправити на сайт»:</p>
+<p><a href="http://img.support.uaprom.net/img/e9739b22f9c84ba0bdd57646393734e0123jjj.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/e9739b22f9c84ba0bdd57646393734e0123jjj.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Після успішної вивантаження товарів на сайт відображається повідомлення про можливість моніторингу стану імпорту товарів на сайті:</p>
+<p><a href="http://img.support.uaprom.net/img/8bfa10e2af664ba09847ab46b056a2bc930611608.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/8bfa10e2af664ba09847ab46b056a2bc930611608.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>При натисканні на кнопку «Стан імпорту» у разі переходу на сторінку «<a href="https://my.prom.ua/cms/import" target="_blank" rel="noopener noreferrer">Товари та послуги&gt; Імпорт позицій</a>» в Кабінеті компанії, де можна побачити хід завантаження товарів. Імпорт вважається завершеним, коли в звіті по імпорту завершені всі етапи імпорту (Збереження файлу, Перевірка файлу, імпорт файлу, Завантаження зображень - якщо вони були в товарах та активована відповідна опція). У разі, коли відбувається вивантаження зображень, слід дочекатися в звіті повідомлення про кількість вивантажених зображень, так як вивантаження картинок здійснюється асинхронно по відношенню до файлу імпорту .cml. У повідомленні про хід завантаження деталізована інформація про вивантаження зображень товарів в кабінет. Тут ви зможете знайти ID товару, картинку якого була вивантажено, а так само її розмір. Це допомагає в ході завантаження відстежувати аномально великі розміри зображень, і таким чином зрозуміти причину того, чому зображення не загрузилось на сайт:</p>
+<p><a href="http://img.support.uaprom.net/img/13df4ddb2417461e86fcc21e1ad2c3a96s.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/13df4ddb2417461e86fcc21e1ad2c3a96s.png?PIMAGE_ID=undefined" alt=""></a></p>
+<h2>Валюти</h2>
+<p>У таблиці «Допустимі валюти» на закладці «Інше» виведений список доступних для роботи з сайтом валют. <span>Маркетплейс</span> та сайт компанії підтримує роботу тільки з цим переліком валют. Зеленим кольором позначені валюти, вже наявні в довіднику 1С, з якими в 1С вже є товари. Якщо потрібно активувати одну валюту із зазначених в цьому списку, то необхідно клікнути на неї та у картці створення валюти, що відкрилася, натиснути кнопки «Записати» та «ОК». Після цього валюта відобразиться у довіднику 1С «Валюти».</p>
+<p><strong>Увага!</strong></p>
+<ul>
+<li>Якщо в процесі аналізу даних не буде знайдена валюта, яка прийшла з сайту, то буде видане повідомлення і в документ підставлена ​​валюта «Національна одиниця країни».</li>
+<li>Якщо в процесі завантаження було повідомлення про незнайдену валюту - обов'язково потрібно створити її та провести повторне завантаження! Бажано виконати налаштування валют в системі до завантаження замовлень.</li>
+<li>При спробі вивантажити на сайт номенклатуру з валютою, яка не входить в список допустимих на сайті валют, буде видано повідомлення про помилку - такий товар не буде завантажений на сайт.</li>
+</ul>
+<h2>Класифікатор одиниць вимірювання</h2>
+<p><strong>Увага!</strong> На сайті вашої компанії використовується фіксований класифікатор одиниць виміру. Якщо під час вивантаження з 1С базова одиниця номенклатури не відповідає цьому класифікатору, то буде виведено повідомлення про помилку і така номенклатура НЕ буде вивантажена. Перевірку класифікатора одиниць вимірювання можна виконати перейшовши на вкладку «Інше» та натиснувши посилання «Перевірка класифікатора одиниць вимірювання» (проблемна одиниця виміру буде підсвічена червоним):</p>
+<p><a href="http://img.support.uaprom.net/img/2231ffe213f64f44a950e1310f6ba2a0930611612.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/2231ffe213f64f44a950e1310f6ba2a0930611612.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Виділення кольором в таблиці одиниць виміру:</p>
+<ul>
+<li>Зеленим виділяються одиниці виміру, що збігаються.</li>
+<li>Червоним - одиниці виміру, які використовуються в 1С, але не використовуються в особистому кабінеті.</li>
+<li>Сірим - одиниці виміру, які заведені в 1С, але не використовуються ані в довіднику номенклатури, ані в особистому кабінеті.&nbsp;</li>
+</ul>
+<p>Вивантаження з 1С підтримує такі одиниці виміру: шт., т, кг, г, куб.м, м, км, дав, мішок, пара, чол., упаковка, сотка, пог.м, ящик, мм, мл, 100 г , рулон, гр/кв.м, кг/кв.м, комплект, моток, послуга, см, секція, бухта, об'єкт, сторінка, т/км, добу, ват, лист, од., годину, день, тиждень, місяць.</p>
+<h2>Синхронізація структури груп 1С зі структурою груп на сайті компанії</h2>
+<p>Синхронізація груп необхідна, щоб після завантаження товарів з 1С на сайті компанії вони відображалися у відповідних структурі 1С групах.</p>
+<p>Щоб синхронізувати структуру груп товарів між 1С і кабінетом (сайтом) компанії, необхідно:</p>
+<ol>
+<li>Зробити експорт товарів з Кабінету Компанії в XLS-файл в розділі «<a href="https://my.prom.ua/cms/product" target="_self">Управління товарами</a>» (кнопка Експорт).<br>Разом з товарами в файлі експорту буде експортована поточна структура груп (на вкладці "Export Groups Sheet").</li>
+<li>Додати структуру груп 1С в файл експорту.</li>
+</ol>
+<ul>
+<li>Відкрийте файл експорту в Excel.</li>
+<li>Перейдіть на вкладку "Export Groups Sheet".</li>
+<li>Введіть назви всіх груп 1С через підрядник в стовпець "Назва_групи".</li>
+<li>Вкажіть ідентифікатори 1С в стовпці "Ідентіфікатор_групи" для всіх груп товарів.</li>
+<li>Для підгруп вкажіть ідентифікатори батьківських груп у стовпці "Ідентіфікатор_батька" (підтримуються всі рівні вкладеності).</li>
+<li>Збережіть файл експорту.</li>
+</ul>
+<p><a href="http://img.support.uaprom.net/img/a27b9ef4ffc64243ae0adae0b1eca877group.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img title="Пример задания структуры групп через файл экспорта/импорта" src="http://img.support.uaprom.net/img/a27b9ef4ffc64243ae0adae0b1eca877group.png?PIMAGE_ID=undefined" alt=""></a></p>
+<ol start="4">
+<li>Імпорт даний файл в Кабінет Компанії через "<a href="https://my.prom.ua/cms/import" target="_blank" rel="noopener noreferrer">Імпорт з файлу</a>".</li>
+</ol>
+<p><strong>Примітка</strong>: Дані в стовпцях "Номер_групи" та "Номер_батька" заповнюються автоматично при експорті. Пріоритет у зазначенні батьківської групи належить полю "Ідентіфікатор_батька". Тобто після імпорту батьківської буде вважатися група, зазначена у стовпці "Ідентіфікатор_батька", а не у стовпці "Номер_батька".</p>
+<p><strong>Важливо!</strong> Після успішного імпорту нова структура груп, яку ви задали в файлі, відразу ж буде відображатися на сайті компанії. Надалі при виконанні обміну з 1С, всі товари з 1С будуть завантажуватися в потрібні групи на сайті компанії. У базі 1С повинна бути задана структура груп так, як би ви хотіли, щоб вона відображалася на сайті і у кабінеті компанії.</p>
+<h2>Завантаження замовлень з Кабінету компанії в 1С</h2>
+<p>На вкладці «Завантаження замовлень» виберіть свою організацію для підстановки в документи та натисніть «Завантажити замовлення», щоб завантажити замовлення з сайту в 1С:</p>
+<p><a href="http://img.support.uaprom.net/img/bd70f024a8634342bdd1d501eec16cb2930611609.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/bd70f024a8634342bdd1d501eec16cb2930611609.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Після завантаження в списку замовлень в 1С будуть вказані завантажені замовлення з їх сумами і в тій валюті, в якій було здійснено замовлення, ознакою проведення та контрагентами. Якщо в замовленні в Кабінеті компанії було декілька товарів в різних валютах, після їх завантаження в 1С для кожної валюти буде створено окреме замовлення, що містить товари тільки в цій валюті (в номері документа в 1С додається суфікс з валютою).</p>
+<p>При використанні драйвера версії 1.17 ви можете вибрати період, з якого потрібно завантажувати замовлення в поле «Період завантаження»:</p>
+<p><a href="http://img.support.uaprom.net/img/904542c1e473402a92d7ba0e866126323s.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/904542c1e473402a92d7ba0e866126323s.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>При відкритті драйвера за замовчуванням завантаження замовлень налаштована так, щоб завантажувалися тільки замовлення за минулі 30 діб (в поле «Період вивантаження» виставлена ​​дата на 30 днів раніше поточної). Ви можете змінити дату, з якої починається вивантаження замовлень Після натискання на кнопку «Завантажити замовлення» з кабінету будуть імпортовані всі замовлення, які змінювалися або були створені починаючи з зазначеної тут дати. Якщо це поле залишити порожнім, то автоматично будуть завантажуватися замовлення за останні 30 днів.</p>
+<p><strong>Увага!&nbsp;</strong></p>
+<ul>
+<li>Якщо замовлення проведено в базі, то воно також не буде перезаписано.</li>
+<li>Якщо при завантаженні замовлення, для номенклатури вказана одиниця виміру, яка не знайдена в довіднику «Класифікатор одиниць вимірювання», то буде відображено повідомлення про помилку, а одиниця виміру в картці номенклатури не буде заповнена!</li>
+<li>Якщо завантажене замовлення вже існувало в 1С - він перезаповнюється.</li>
+<li>У разі, якщо завантажене замовлення раніше вже існувало в 1С і було заповнене товарами, а з сайту прийшло вже без товарів, то список товарів в замовленні очищається, а документ позначається на видалення.</li>
+<li>Якщо замовлення з сайту прийшло без товарів, то в 1С воно зберігається, але не проводиться.</li>
+<li>Всі завантажені з сайту замовлення мають встановлену категорію «Замовлення з WEB-сайту».</li>
+<li>Замовлення з сайту розбиваються на частини по валютах товарів, а в номері документа відповідно до цього додається суфікс з валютою.&nbsp;</li>
+</ul>
+<p>Переглянути списки завантажених замовлень можна через меню 1С «Документи - Продажі - Замовлення покупців».</p>
+<h2>Збереження налаштувань обміну</h2>
+<p>Налаштування обміну, в тому числі зазначені на вкладці «Вивантаження товарів» (включаючи відбір номенклатури), а також інформацію про зв'язок властивостей, яка виробляється на вкладці «вивантажити властивості», можна зберегти у зовнішній файл XML, щоб надалі завжди використовувати налаштовані параметри. Для цього натисніть кнопку «Зберегти налаштування в файл» із зображенням дискети:</p>
+<p><a href="http://img.support.uaprom.net/img/202a924406f044c0b78d3a696a5c5212930611111632.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/202a924406f044c0b78d3a696a5c5212930611111632.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Файл налаштувань XML потрібно зберегти в тій же папці, що і файли ОбмінЗСайтом_УТ.epf та ОбмінЗСайтомКабінет.epf. Після цього налаштування завжди будуть завантажуватися автоматично при роботі з вивантаженням.</p>
+<p>Можна також завантажити раніше збережені налаштування за допомогою кнопки «Завантажити налаштування з файлу» там же.&nbsp;</p>
+<p><a name="pereodical_obmen"></a></p>
+<h2>Інструкція по використанню вбудованої підсистеми для періодичного обміну товарами з Кабінетом компанії</h2>
+<p>Налаштування періодичного обміну дозволить вам вивантажувати товари на сайт компанії автоматично за заданим розкладом. Для використання автоматичного періодичного обміну з 1С з Кабінетом Компанії на <span>маркетплейсі</span>, необхідно вбудувати підсистему обміну в конфігурацію «БД 1С». Нижче наведена докладна інструкція, як це зробити.</p>
+<h3>Попередні зауваження</h3>
+<p><strong>Увага!</strong> Перед початком настройки обов'язково зробіть резервну копію ваших даних.</p>
+<p>У прикладі нижче робота виконується на типовій конфігурації 1С 8.2 «Управління торгівлею», редакція 2.3. Усе зазначене нижче відноситься також і до версії 1С 8.2 «Управління Торговим Підприємством», «Управління невеликою фірмою». Для налаштування автоматичного періодичного обміну в версіях 1С 8.1 фахівець з 1С повинен виконати додаткове налаштування системи.</p>
+<p>У вкладеному в архів <a href="https://my.prom.ua/cms/import/sync_1c" target="_blank" rel="noopener noreferrer">Драйвері для обміну даними для 1С УТ 8.1 і 8.2</a> файлі конфігурації «ОбмінЗСайтом.cf» додано підсистему «ОбмінЗСайтомКабінет», що включає в себе:</p>
+<ul>
+<li>Загальний модуль «ПроцедуриОбмінаЗСайтомКабінет».</li>
+<li>Роль «ОбмінЗСайтомКабінет».</li>
+<li>Регламентне завдання «ЗавданняОбмінЗСайтомКабінет».</li>
+<li>Інтерфейс «ОбмінЗСайтомКабінет».</li>
+<li>Зображення «ВиконатиОбмінКабінет».</li>
+<li>Довідник «НалаштуванняОбмінуЗСайтомКабінет».</li>
+<li>Регєстр відомостей «ІсторіяОбмінаЗСайтомКабінет».</li>
+<li>Обробки «ОбмінЗСайтомКабінет» та «ОбмінЗСайтом_УТ».&nbsp;</li>
+</ul>
+<p><img src="http://img.support.uaprom.net/img/077e465ab2ed4a3483d62c33c64f97a9123222.png?PIMAGE_ID=undefined" alt=""></p>
+<p>Зазначені обробки використовуються при обміні без вбудовування підсистеми всередину конфігурації.</p>
+<p>Ця підсистема працює тільки в типових конфігураціях 1С 8.2 УТ і УТП! Для використання її в інших конфігураціях вона потребує доопрацювання.</p>
+<h3>Об'єднання конфігурації (вбудовування підсистеми обміну в конфігурацію «БД 1С»)</h3>
+<p>Для внесення змін в конфігурацію увійдіть в 1С в режимі конфігуратора та відкрийте конфігурацію 1С (пункт меню Конфігурація - Відкрити конфігурацію).</p>
+<p>Якщо конфігурація знаходиться на підтримці в режимі заборони внесення змін (позначена значком «замочок» см. Скріншот), то необхідно перейти в режим підтримки з можливістю змін.</p>
+<p><img src="http://img.support.uaprom.net/img/334e4244cb79407d81750339fff7cb32yayaya1111.png?PIMAGE_ID=undefined" alt=""></p>
+<p>Для переходу в режим підтримки змін потрібно вибрати пункт мену «Конфігурація - Підтримка - Налаштування підтримки» та у вікні, вибрати пункт «Включити можливість зміни»:</p>
+<p><a href="http://img.support.uaprom.net/img/4049a0032a704e1da4b8d2968725909913yivvyiv_3.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/4049a0032a704e1da4b8d2968725909913yivvyiv_3.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p><img src="http://img.support.uaprom.net/img/ec04d09c5d954d6bb1f385dc2c188bda123vv23444.png?PIMAGE_ID=undefined" alt=""></p>
+<p>Після цього потрібно зберегти конфігурацію.</p>
+<p>Далі для виконання об'єднання конфігурації відкрийте пункт меню «Конфігурація - Порівняти, об'єднати з конфігурацією з файлу ...»:</p>
+<p><a href="http://img.support.uaprom.net/img/3f5775c338804e90802d7da4fa76602d930611625.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/3f5775c338804e90802d7da4fa76602d930611625.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>У провіднику на диску комп'ютера відкрийте файл «ОбмінЗСайтом.cf»:</p>
+<p><a href="http://img.support.uaprom.net/img/122a6a17463748b585ede582f7bd6c7b930611626.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/122a6a17463748b585ede582f7bd6c7b930611626.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>В вікні об'єднання конфігурації, що відобразиться, потрібно об'єднувати тільки зазначену підсистему! Для цього у вікні Порівняння/Об'єднання конфігурацій спочатку потрібно зняти всі мітки, прибравши прапор з кореневого вузла:</p>
+<p><img src="http://img.support.uaprom.net/img/4687b335f2d04b69b30a0513e1bba3d6yivyi33232323v.png?PIMAGE_ID=undefined" alt=""></p>
+<p>Після цього в меню «Дії» виберіть пункт «Відзначити по підсистемах файлу» та вибрати відбір по підсистемах, як зазначено на скріншоті нижче (тільки конфігурацію «ОбмінЗСайтомКабінет»):</p>
+<p><a href="http://img.support.uaprom.net/img/3408be6ebd994193aadf9b3bb21898bc930611628.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/3408be6ebd994193aadf9b3bb21898bc930611628.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p><img src="http://img.support.uaprom.net/img/fddeaa56892143f98b32e6134964f19e222312321312.png?PIMAGE_ID=undefined" alt=""></p>
+<p>Далі натисніть кнопку «Встановити», а потім у вікні об'єднання конфігурації - кнопку «Виконати». Результат:</p>
+<p><a href="http://img.support.uaprom.net/img/4467b52101d1430da39b0402964ad1e1930611629.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/4467b52101d1430da39b0402964ad1e1930611629.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Далі необхідно натиснути клавішу F7 або вибрати пункт меню "Оновити конфігурацію бази даних". Після об'єднання конфігурації в 1С відобразиться пункт меню «Обмін з особистим кабінетом»:</p>
+<p><a href="http://img.support.uaprom.net/img/c3de36909cee4767b4f76d32a647b744930611631.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/c3de36909cee4767b4f76d32a647b744930611631.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>А при відкритті самої конфігурації обміну (пункт меню «Обмін з особистим кабінетом - Ручний обмін з сайтом») можна буде налаштувати параметри періодичного обміну:</p>
+<p><a href="http://img.support.uaprom.net/img/94082a9ab6f74e6f8b6644b863d16f95930611632.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/94082a9ab6f74e6f8b6644b863d16f95930611632.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>За замовчуванням, для файлового варіанту роботи БД, користувач, під яким виконуються регламентні завдання, вказується у налаштуваннях параметрів обліку (Сервіс - Налаштування обліку - Налаштування параметрів обліку):</p>
+<p><a href="http://img.support.uaprom.net/img/51a165e9f37f4309bef270b8200fdc675ffff.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/51a165e9f37f4309bef270b8200fdc675ffff.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p><strong>Увага!</strong> При виконанні обміну в серверному варіанті роботи, всі дії виконуються безпосередньо на сервері. На сервері повинні бути вказані налаштування для доступу в інтернет для користувача, під яким виконується процес 1C Application. Якщо в налаштуваннях обміну вказана робота не з сайтом, а з файлами, то шляхи до файлів також повинні бути прописані коректно для сервера.</p>
+<h2>Опис складових підсистеми обміну</h2>
+<h3>Загальний модуль «ПроцедуриОбмінаЗСайтомКабінет»</h3>
+<p>Містить необхідні загальні процедури для запуску автоматичного обміну та реєстрації історії обмінів з Особистим Кабінетом.&nbsp;</p>
+<h3>Роль «ОбмінЗСайтомКабінет»</h3>
+<p>У цій ролі надано права на об'єкти, що входять до підсистеми обміну. Якщо обмін виконується під користувачем без повних прав - то йому необхідно поставити цю роль.</p>
+<h3>Регламентне завдання «ЗавданняОбмінЗСайтомКабінет»</h3>
+<p>Регламентне завдання для виконання автоматичного обміну з Особистим Кабінетом. Параметри встановлюються у підприємстві через довідник Налаштувань обміну. За замовчуванням не активовано (виконується без збережених в довіднику налаштувань не може, використовується тільки для непомічених на видалення налаштувань).</p>
+<h3>Інтерфейс «ОбмінЗСайтомКабінет»</h3>
+<p>Неперемикаємий інтерфейс, який додає в пункт загального меню «Сервис» гілку з обміну з Кабінетом компанії.</p>
+<p><a href="http://img.support.uaprom.net/img/87beaa5a79744c3e86c8b045d57b657c1fff.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/87beaa5a79744c3e86c8b045d57b657c1fff.png?PIMAGE_ID=undefined" alt=""></a></p>
+<h3>Довідник «НалаштуванняОбмінуЗСайтомКабінет»</h3>
+<p>У довіднику зберігаються налаштування обміну з Особистим Кабінетом. У формі списку довідника відображається інформація про останні виконані обміни по даному налаштуванні.</p>
+<p><a href="http://img.support.uaprom.net/img/a701cb5ae371438aba874faeb3ac1a322fff.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/a701cb5ae371438aba874faeb3ac1a322fff.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>Безпосередньо з форми списку довідника можна перейти на історію обміну:</p>
+<p><a href="http://img.support.uaprom.net/img/8d091d028fa945cfa22754b31e0e89923fff.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/8d091d028fa945cfa22754b31e0e89923fff.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>І запустити автоматичний обмін по налаштуванню:</p>
+<p><img src="http://img.support.uaprom.net/img/90dca06d7a194b7baeaa01ac87d662074ffff.png?PIMAGE_ID=undefined" alt=""></p>
+<h3>Регістр відомостей «ІсторіяОбмінуЗСайтомКабінет»</h3>
+<p>В даному регістрі відомостей записується інформація про спроби виконання обміну по збереженим налаштуванням (ручного або автоматичного). Структура регістра відомостей аналогічна структурі регістра відомостей «ІсторіяОбменаДаннимі», з відмінністю в тому, що «ВузолІнформаційноїБази» повинен посилатися на довідник «НалаштуванняОбмінуЗСайтомКабінет». У формі списку історії можна переглянути історію обмінів та повідомлення, які при цьому видавалися:</p>
+<p><a href="http://img.support.uaprom.net/img/e67a5b4eb28a4412a6b9aa8f1647d8af6ffff.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/e67a5b4eb28a4412a6b9aa8f1647d8af6ffff.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p><a href="http://img.support.uaprom.net/img/bb2dac126a7742cdaefdd300026e37b37ffff.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/bb2dac126a7742cdaefdd300026e37b37ffff.png?PIMAGE_ID=undefined" alt=""></a></p>
+<h3>Обробка «ОбмінЗСайтомКабінет»</h3>
+<p>Обробка для зв'язку з сайтом. Включає в себе два макети типу Двійкові дані, з варіантами обробки для виконання на Сервері та на Клієнті. Дані обробки закриті для модифікації та використовуються для організації процесу вивантаження/завантаження даних.&nbsp;</p>
+<h3>Обробка «ОбмінЗСайтом_УТ»</h3>
+<p>Обробка використовується для введення налаштувань та відображення результатів обмінів. Може викликатися як форма довідника Налаштувань, або як самостійна обробка, по пункту меню Ручний обмін (тоді її робота аналогічна виклику зовнішньої обробки обміну, без вбудовування підсистеми в конфігурацію).&nbsp;</p>
+</div>
+</div>
+ </div>
+
+            <div class="article-attachments">
+              <ul class="attachments">
+                
+              </ul>
+            </div>
+          </div>
+        </section>
+        <footer class="article-footer">
+          
+            <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=1%D0%A1+-+%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F+%D0%BF%D0%BE+%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83+%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8+%D1%82%D0%B0+%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8&u=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004963698-1%25D0%25A1-%25D0%2586%25D0%25BD%25D1%2581%25D1%2582%25D1%2580%25D1%2583%25D0%25BA%25D1%2586%25D1%2596%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%25BE%25D0%25B1%25D0%25BC%25D1%2596%25D0%25BD%25D1%2583-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25B7%25D0%25B0%25D0%25BC%25D0%25BE%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F%25D0%25BC%25D0%25B8" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=uk&text=1%D0%A1+-+%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F+%D0%BF%D0%BE+%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83+%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8+%D1%82%D0%B0+%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004963698-1%25D0%25A1-%25D0%2586%25D0%25BD%25D1%2581%25D1%2582%25D1%2580%25D1%2583%25D0%25BA%25D1%2586%25D1%2596%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%25BE%25D0%25B1%25D0%25BC%25D1%2596%25D0%25BD%25D1%2583-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25B7%25D0%25B0%25D0%25BC%25D0%25BE%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F%25D0%25BC%25D0%25B8" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=prom.ua&title=1%D0%A1+-+%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F+%D0%BF%D0%BE+%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83+%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8+%D1%82%D0%B0+%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004963698-1%25D0%25A1-%25D0%2586%25D0%25BD%25D1%2581%25D1%2582%25D1%2580%25D1%2583%25D0%25BA%25D1%2586%25D1%2596%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%25BE%25D0%25B1%25D0%25BC%25D1%2596%25D0%25BD%25D1%2583-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25B7%25D0%25B0%25D0%25BC%25D0%25BE%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F%25D0%25BC%25D0%25B8" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+          
+        </footer>
+      </div>
+
+      <div class="article-bottom uaprom-article-block">
+        
+          <div class="article-subscribe-container">
+            <p>Бажаєте підписатися на оновлення цієї статті?</p>
+            <a class="article-subscribe" title="Відкриває вікно для входу" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/uk/articles/360004963698-1%D0%A1-%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F-%D0%BF%D0%BE-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8/subscription.html">Підписатися</a>
+          </div>
+        
+        
+          <div class="article-votes">
+            <div class="article-votes-question-wrapper">
+              <span class="article-votes-question">Чи була ця стаття корисною?</span>
+              <div class="article-votes-count">
+                <span class="article-vote-label">0 з 0 вважають статтю корисною</span>
+              </div>
+            </div>
+            
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Так" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004963698-1%25D0%25A1-%25D0%2586%25D0%25BD%25D1%2581%25D1%2582%25D1%2580%25D1%2583%25D0%25BA%25D1%2586%25D1%2596%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%25BE%25D0%25B1%25D0%25BC%25D1%2596%25D0%25BD%25D1%2583-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25B7%25D0%25B0%25D0%25BC%25D0%25BE%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F%25D0%25BC%25D0%25B8"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Ні" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360004963698-1%25D0%25A1-%25D0%2586%25D0%25BD%25D1%2581%25D1%2582%25D1%2580%25D1%2583%25D0%25BA%25D1%2586%25D1%2596%25D1%258F-%25D0%25BF%25D0%25BE-%25D0%25BE%25D0%25B1%25D0%25BC%25D1%2596%25D0%25BD%25D1%2583-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25B7%25D0%25B0%25D0%25BC%25D0%25BE%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258F%25D0%25BC%25D0%25B8"></a>
+            </div>
+          </div>
+        
+      </div>
+
+      
+    </article>
+    
+  </div>
+</div>
+  </main>
+
+  <footer class="footer uaprom-footer">
+  
+  <div class="footer-inner container uk-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупцям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/uk">Довідка для покупців</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Як купувати з Пром-оплата</a></li>
+          <li><a href="https://my.prom.ua/ua/company_domain_check/check_is_site_on_portal">Перевірка на приналежність сайту до Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцям</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/uk">Довідка для продавців</a></li>
+          <li><a href="https://prom.ua/ua/join-now?source_id=new.footer">Створити сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/ua/how_to_order">Тарифи</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ і Просування в Каталозі ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/ua/terms-of-use">Угода користувача</a></li>
+          <li><a href="https://prom.ua/ua/privacy-policy">Політика конфіденційності</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/sections/360001419538">Правила маркетплейсу</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Інструкція Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусна програма електронний маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Про нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">Про Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Робота в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Адміністрація</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнери</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Офіційні дилери Prom.ua</a></li>-->
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <div class="footer-buttons">
+        <div class="socials">
+          <a class="social youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2217" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="5" width="20" height="15">
+<path d="M22 5H2V19.0007H22V5Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2217)">
+<path class="colorize" d="M21.5835 7.18611C21.4692 6.76243 21.2458 6.37615 20.9355 6.06586C20.6252 5.75558 20.239 5.53216 19.8153 5.41792C18.2545 4.99316 12 4.99316 12 4.99316C12 4.99316 5.74383 4.99316 4.18637 5.41133C3.76175 5.52584 3.37477 5.75015 3.06437 6.0617C2.75397 6.37326 2.5311 6.76107 2.41817 7.18611C2 8.74522 2 12.0001 2 12.0001C2 12.0001 2 15.2549 2.41817 16.8141C2.53211 17.2379 2.75543 17.6243 3.06576 17.9347C3.37609 18.245 3.76254 18.4683 4.18637 18.5822C5.74547 19.0004 12 19.0004 12 19.0004C12 19.0004 18.2562 19.0004 19.8153 18.5822C20.239 18.468 20.6252 18.2446 20.9355 17.9343C21.2458 17.624 21.4692 17.2377 21.5835 16.8141C22 15.2549 22 12.0001 22 12.0001C22 12.0001 21.9951 8.74522 21.5835 7.18611Z" fill="#01011B"/>
+<path d="M10 14.9998L15.1975 12.0001L10 9.00049V14.9998Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2224" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20">
+<path d="M22 2H2V22H22V2Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2224)">
+<path class="colorize" d="M22 12C22 6.47715 17.5229 2 12 2C6.47715 2 2 6.47715 2 12C2 16.9912 5.65684 21.1283 10.4375 21.8785V14.8906H7.89844V12H10.4375V9.79688C10.4375 7.29063 11.9305 5.90625 14.2146 5.90625C15.3084 5.90625 16.4531 6.10156 16.4531 6.10156V8.5625H15.1922C13.95 8.5625 13.5625 9.3334 13.5625 10.125V12H16.3359L15.8926 14.8906H13.5625V21.8785C18.3432 21.1283 22 16.9912 22 12Z" fill="#01011B"/>
+<path d="M15.8926 14.8906L16.3359 12H13.5625V10.125C13.5625 9.33418 13.95 8.5625 15.1922 8.5625H16.4531V6.10156C16.4531 6.10156 15.3088 5.90625 14.2146 5.90625C11.9305 5.90625 10.4375 7.29063 10.4375 9.79688V12H7.89844V14.8906H10.4375V21.8785C11.4729 22.0405 12.5271 22.0405 13.5625 21.8785V14.8906H15.8926Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social instagram" href="https://www.instagram.com/prom.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" fill-rule="evenodd" clip-rule="evenodd" d="M3.67886 3.67886C4.23577 3.12195 4.79268 2.78049 5.45122 2.52439C6.08537 2.27642 6.81301 2.10569 7.88211 2.06098C8.94715 2.0122 9.28862 2 12.0041 2C14.7195 2 15.061 2.0122 16.126 2.06098C17.1911 2.10976 17.9187 2.27642 18.5528 2.52439C19.2114 2.78049 19.7683 3.12195 20.3252 3.67886C20.878 4.23171 21.2195 4.79268 21.4756 5.44715C21.7195 6.0813 21.8902 6.80894 21.939 7.87398C21.9878 8.93902 22 9.28049 22 11.9959C22 14.7114 21.9878 15.0528 21.939 16.1179C21.8902 17.1829 21.7236 17.9106 21.4756 18.5447C21.2195 19.2033 20.878 19.7602 20.3211 20.3171C19.7642 20.874 19.2073 21.2154 18.5488 21.4715C17.9146 21.7154 17.187 21.8862 16.122 21.935C15.0569 21.9837 14.7154 21.9959 12 21.9959C9.28455 21.9959 8.94309 21.9837 7.87805 21.935C6.81301 21.8862 6.08537 21.7195 5.45122 21.4715C4.79268 21.2154 4.23577 20.874 3.67886 20.3171C3.12195 19.7602 2.78049 19.2033 2.52439 18.5447C2.28049 17.9106 2.10976 17.1829 2.06098 16.1179C2.0122 15.0528 2 14.7114 2 11.9959C2 9.28049 2.0122 8.93902 2.06098 7.87398C2.10976 6.80894 2.27642 6.0813 2.52439 5.44715C2.78049 4.79268 3.12195 4.23171 3.67886 3.67886ZM11.8862 17.0854C14.7599 17.0854 17.0894 14.7558 17.0894 11.8821C17.0894 9.00844 14.7599 6.67886 11.8862 6.67886C9.0125 6.67886 6.68293 9.00844 6.68293 11.8821C6.68293 14.7558 9.0125 17.0854 11.8862 17.0854ZM11.8862 15.0041C13.6104 15.0041 15.0081 13.6063 15.0081 11.8821C15.0081 10.1579 13.6104 8.76016 11.8862 8.76016C10.162 8.76016 8.76423 10.1579 8.76423 11.8821C8.76423 13.6063 10.162 15.0041 11.8862 15.0041ZM17.0894 7.71951C17.6642 7.71951 18.1301 7.2536 18.1301 6.67886C18.1301 6.10413 17.6642 5.63821 17.0894 5.63821C16.5147 5.63821 16.0488 6.10413 16.0488 6.67886C16.0488 7.2536 16.5147 7.71951 17.0894 7.71951Z" fill="#01011b"/>
+</svg>
+          </a>
+          <a class="social evobusiness" href="https://evo.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" d="M11.031 11.5268L15.1849 4.95602C12.0355 3.65978 8.39418 4.79454 6.54698 7.7162C4.46876 11.0054 5.45265 15.3723 8.74093 17.451C12.0297 19.5287 16.3963 18.5446 18.4748 15.257C18.8269 14.7014 19.6162 14.524 20.1707 14.8749C20.4479 15.05 20.6406 15.3231 20.7126 15.6433C20.7847 15.9632 20.7279 16.2927 20.5523 16.5703C19.1972 18.7144 17.0841 20.2038 14.602 20.7631C12.1202 21.3223 9.57213 20.8839 7.42784 19.5285C2.99349 16.7254 1.66653 10.8377 4.46945 6.40287C5.82598 4.25858 7.93908 2.76922 10.4207 2.20993C12.9025 1.65018 15.4501 2.08888 17.5942 3.44494C17.8718 3.62051 18.0645 3.89357 18.1366 4.2133C18.2087 4.53372 18.1518 4.86292 17.9763 5.1406L13.109 12.8401C12.7588 13.395 11.9685 13.5731 11.4131 13.2222C10.8411 12.8605 10.6697 12.0995 11.031 11.5268Z" fill="#01011B"/>
+</svg>
+          </a>
+          <!--<a class="social telegram" href="https://t.me/PromBuyerBot?start=WEB" target="_blank"></a>-->
+        </div>
+        <div class="news">
+          <a class="news-btn youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/1d5182860f14ed01108250520472f4920bede6b7.png" alt="youtube">
+            <span>Новини Прому</span>
+          </a>
+          <a class="news-btn facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/e3f308d3542871bdaad40b93fd8c400ccc6be41e.png" alt="facebook">
+            <span>Спільнота продавців</span>
+          </a>
+        </div>
+      </div>
+      <a class="footer-logo" href="https://prom.ua/">
+        <img src="//theme.zdassets.com/theme_assets/9422419/c5f16a937df5454d0c46267e61e1751b7526e144.png" alt="prom.ua">
+      </a>
+    </div>
+    
+  </div>
+  
+  <div class="footer-inner container ru-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупателям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/ru">Справка для покупателей</a></li>
+          <li><a href="https://prom.ua/landing/certification_by_prom">О надежных продавцах</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Как покупать с Prom оплата</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004971837?utm_source=link2support_safe_shopping&amp;utm_medium=Portal&amp;utm_campaign=footer">Рекомендации по безопасным покупкам</a></li>
+          <li><a href="https://my.prom.ua/company_domain_check/check_is_site_on_portal">Проверка на принадлежность сайта к платформе Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцам</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/ru">Справка для продавцов</a></li>
+          <li><a href="https://prom.ua/join-now?source_id=new.footer">Создать сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/how_to_order">Тарифы</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ и Продвижение в Каталоге ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/terms-of-use">Пользовательское соглашение</a></li>
+          <li><a href="https://prom.ua/privacy-policy">Политика конфиденциальности</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/categories/360000787417">Правила пользования порталом</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Руководство Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусная программа электронный маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">О нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">О Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Работа в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/easy_to_sell">Объявления на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Администрация</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнеры</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Официальные дилеры Prom.ua</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column footer-logo">
+        <a href="https://prom.ua/">
+          <img src="//theme.zdassets.com/theme_assets/9422419/23b2936718abda06644b9d4bac2b3b84fee5af02.png" alt="">
+        </a>
+      </div>
+    </div>
+    
+  </div>
+  
+</footer>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/uk.4e5ec0c35b3b52e67901.js"></script>
+  <script src="https://evoservice.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="360000361438" data-return-to="https://support.prom.ua/hc/uk/articles/360004963698" data-theme="hc" data-locale="uk" data-auth-origin="360000361438,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"evoservice","environment":"production","name":"Prom.ua"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"uk","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHdWsGOgZFVDoPYXJ0aWNsZV9pZGwrCHLN99FTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDU8aPOhNoZWxwX2NlbnRlcl9pZGwrCBU4rdFTADoNYnJhbmRfaWRsKwjek7HRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiB3VrBjsGVA==--807c46e3d4c1aee818d3a3295a5a59b0cd7099f1","url":"https://support.prom.ua/hc/activity"},"current_record_id":"360004963698","current_record_url":"/hc/uk/articles/360004963698-1%D0%A1-%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F-%D0%BF%D0%BE-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8","current_record_title":"1С - Інструкція по обміну товарами та замовленнями","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":360000361438,"account_id":9422419,"name":"prom.ua","active":true,"deleted_at":null,"created_at":"2019-08-22T12:04:01Z","updated_at":"2023-09-19T12:42:48Z","route_id":2940186,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://promua.zendesk.com","current_host_mapping":"support.prom.ua","current_path":"/hc/uk/articles/360004963698-1%D0%A1-%D0%86%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F-%D0%BF%D0%BE-%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%B7%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8","authentication_domain":"https://evoservice.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.prom.ua/hc/uk","arrange_content_url":"https://support.prom.ua/hc/admin/arrange_contents?locale=uk","general_settings_url":"https://support.prom.ua/hc/admin/general_settings?locale=uk","user_segments_url":"https://evoservice.zendesk.com/knowledge/user_segments?brand_id=360000361438","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":true,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fevoservice.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://evoservice.zendesk.com/knowledge/arrange?brand_id=360000361438","article_verification_url":"https://evoservice.zendesk.com/knowledge/verification?brand_id=360000361438","has_article_verification":true,"guide_language_settings_url":"https://support.prom.ua/hc/admin/language_settings?locale=uk","docs_importer_url":"https://evoservice.zendesk.com/knowledge/import_articles?brand_id=360000361438","content_tags_url":"https://evoservice.zendesk.com/knowledge/content_tags?brand_id=360000361438","community_badges_url":"https://evoservice.zendesk.com/knowledge/community_badges?brand_id=360000361438","community_settings_url":"https://evoservice.zendesk.com/knowledge/community_settings?brand_id=360000361438","gather_plan_state":"subscribed","search_settings_url":"https://evoservice.zendesk.com/knowledge/search_settings?brand_id=360000361438","has_multibrand_search_in_plan":true,"has_search_settings_in_plan":true,"theming_api_version":1,"theming_settings":{"brand_color":"rgba(81, 73, 157, 1)","brand_text_color":"#FFFFFF","text_color":"rgba(3, 3, 3, 1)","link_color":"rgba(6, 112, 235, 1)","background_color":"rgba(255, 255, 255, 1)","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"//theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg","favicon":"//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png","homepage_background_image":"//theme.zdassets.com/theme_assets/9422419/4d82ff3e0c399da29f490bad665d20d5783bc614.svg","community_background_image":"//theme.zdassets.com/theme_assets/9422419/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/9422419/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":false,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true},"has_pci_credit_card_custom_field":true,"current_brand_id":360000361438,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":true,"has_docs_importer":false,"user_preferred_locale":"ru","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_google_analytics_4":true,"has_end_user_2fa":false,"version":"v23802"};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-4ef0d82f9fc65c8a28f659aa3430955f.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-cd240096d8f4c02aeb9762ce9a7a1c1c.js"></script>
+  
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'82803c9449aa34b6',t:'MTcwMDMxMDc1MS43NjAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

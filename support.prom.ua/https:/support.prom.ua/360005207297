@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <!-- v23802 -->
+
+
+  <title>Управління товарами та послугами &ndash; Пiдтримка</title>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="">
+
+  <meta name="description" content="Для переходу до роботи з товарами та послугами необхідно в меню Кабінету компанії перейти на «Товари та послуги - Позиції». З'явиться..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Пiдтримка" />
+<meta property="og:title" content="Управління товарами та послугами" />
+<meta property="og:description" content="Для переходу до роботи з товарами та послугами необхідно в меню Кабінету компанії перейти на «Товари та послуги - Позиції». З'явиться таблиця зі списком всіх товарів.
+
+У верхній частині сторінки зн..." />
+<meta property="og:url" content="https://support.prom.ua/hc/uk/articles/360005207297" />
+<link rel="canonical" href="https://support.prom.ua/hc/uk/articles/360005207297-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8">
+<link rel="alternate" hreflang="uk" href="https://support.prom.ua/hc/uk/articles/360005207297-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8">
+<link rel="alternate" hreflang="x-default" href="https://support.prom.ua/hc/uk/articles/360005207297-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-5dedcabe00a896eb2c214ed2973f0975.css" media="all" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" href="//static.zdassets.com/hc/assets/theming_v1_support-e05586b61178dcde2a13a3d323525a18.css" media="all" />
+  <link rel="stylesheet" type="text/css" href="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/style.css?digest=14557196134685">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-09d07e20ce042ef10e301661ad1f316c.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-153977985-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <script type="text/javascript" src="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/script.js?digest=14557196134685"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header uaprom-header">
+  <div class="container">
+    <div class="logo">
+      <a title="Головна" href="/hc/uk">
+      		<img src="//theme.zdassets.com/theme_assets/9422419/3a4f554dc0e52a68af6dfb1933ec9e01bfdcd16c.svg" alt="prom.продавцям">
+      </a>
+      
+      
+    </div>
+    <div class="nav-wrapper">
+      <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Переключити навігаційне меню">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+          <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
+        </svg>
+      </button>
+      <nav class="user-nav" id="user-nav">
+        <a href="https://prom.ua/" target="_blank">Prom.ua</a>
+        <a class="submit-a-request" href="/hc/uk/requests/new">Надіслати запит</a>
+      </nav>
+        <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="Відкриває діалог" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005207297&amp;locale=uk">Увійти</a>
+
+    </div>
+  </div>
+</header>
+
+  <main role="main">
+    <section class="section hero">
+  <div class="hero-inner">
+    <div class="hero-info">
+      <h1 class="hero-title">Чим ми можемо допомогти?</h1>
+    </div>
+    <div class="hero-search-wrapper">
+      <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/uk/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Пошук" autocomplete="off" aria-label="Пошук" /></form>
+      <div class="line"></div>
+    </div>
+  </div>
+</section>
+
+<div class="container uaprom-article-container">
+  <div class="breadcrumbs-container">
+    <ol class="breadcrumbs">
+  
+    <li title="Пiдтримка">
+      
+        <a href="/hc/uk">Пiдтримка</a>
+      
+    </li>
+  
+    <li title="Робота з кабінетом компанії">
+      
+        <a href="/hc/uk/categories/360000787357-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-%D0%B7-%D0%BA%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97">Робота з кабінетом компанії</a>
+      
+    </li>
+  
+    <li title="Кабінет та сайт компанії">
+      
+        <a href="/hc/uk/sections/360001406978-%D0%9A%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82-%D1%82%D0%B0-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97">Кабінет та сайт компанії</a>
+      
+    </li>
+  
+    <li title="Робота з товарами та послугами">
+      
+        <a href="/hc/uk/sections/360001407957-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-%D0%B7-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8">Робота з товарами та послугами</a>
+      
+    </li>
+  
+</ol>
+
+  </div>
+
+  <div class="article-container" id="article-container">
+    
+    <aside class="sidebar">
+   
+      <div class="navigation-sidebar mobile-expandable">
+        <div class="sidebar-header">
+          <h3>Категорії</h3>
+        </div>
+        <ul class="nav-list preview" data-locale="uk">
+          <li class="item category-item preview-item"><nav></nav><a>Початок бізнесу в інтернеті</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Як працює маркетплейс</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Правила роботи на Prom.ua</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Оплата та доставка</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Каталог ProSale </a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Робота з кабінетом компанії</a></li>
+        </ul>
+      </div>
+      
+      
+      	
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Пов'язані статті</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBpzuNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCAGF%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB4S9oYy91ay9hcnRpY2xlcy8zNjAwMTc1ODkwMTgtJUQwJTlGJUQxJTgwJUQwJUIwJUQwJUIyJUQwJUI4JUQwJUJCJUQwJUIwLSVEMCVCRSVEMSU4NCVEMCVCRSVEMSU4MCVEMCVCQyVEMCVCQiVEMCVCNSVEMCVCRCVEMCVCRCVEMSU4Ri0lRDElODIlRDAlQkUlRDAlQjIlRDAlQjAlRDElODAlRDElOTYlRDAlQjItJUQxJTgyJUQwJUIwLSVEMCVCRiVEMCVCRSVEMSU4MSVEMCVCQiVEMSU4MyVEMCVCMwY7CFQ6CXJhbmtpBg%3D%3D--330cda805ec6234d93be6a3b1d884aecedb2e3fe" rel="nofollow">Правила оформлення товарів та послуг</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCHD99FTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCAGF%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIBwy9oYy91ay9hcnRpY2xlcy8zNjAwMDQ5NjEwNTctJUQwJTk1JUQwJUJBJUQxJTgxJUQwJUJGJUQwJUJFJUQxJTgwJUQxJTgyLSVEMSU4MiVEMCVCRSVEMCVCMiVEMCVCMCVEMSU4MCVEMSU5NiVEMCVCMi0lRDElODIlRDAlQjAtJUQwJUIzJUQxJTgwJUQxJTgzJUQwJUJGLSVEMSU4MiVEMCVCRSVEMCVCMiVEMCVCMCVEMSU4MCVEMSU5NiVEMCVCMgY7CFQ6CXJhbmtpBw%3D%3D--8ac26795e31d6c97f25e87bc798c0efe0b6d884f" rel="nofollow">Експорт товарів та груп товарів</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCN4JvdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCAGF%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICFwEvaGMvdWsvYXJ0aWNsZXMvMzYwMDE3ODg5NzU4LSVEMCVBMCVEMCVCNSVEMCVCQSVEMCVCRSVEMCVCQyVEMCVCNSVEMCVCRCVEMCVCNCVEMCVCMCVEMSU4NiVEMSU5NiVEMSU5Ny0lRDElODklRDAlQkUlRDAlQjQlRDAlQkUtJUQwJUJGJUQwJUJFJUQwJUJBJUQxJTgwJUQwJUIwJUQxJTg5JUQwJUI1JUQwJUJEJUQwJUJEJUQxJThGLSVEMSU4MCVEMCVCNSVEMCVCOSVEMSU4MiVEMCVCOCVEMCVCRCVEMCVCMyVEMSU4My0lRDElODIlRDAlQkUlRDAlQjIlRDAlQjAlRDElODAlRDElOTYlRDAlQjIGOwhUOglyYW5raQg%3D--67ac716d2616893fe5dc271243888852b752138b" rel="nofollow">Рекомендації щодо покращення рейтингу товарів</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCAKvHNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCAGF%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB1S9oYy91ay9hcnRpY2xlcy8zNjAwMDczODA3MzgtJUQwJTk0JUQwJUJFJUQwJUI0JUQwJUIwJUQwJUIyJUQwJUIwJUQwJUJEJUQwJUJEJUQxJThGLSVEMSU4MiVEMCVCRSVEMCVCMiVEMCVCMCVEMSU4MCVEMSU5NiVEMCVCMi0lRDElODIlRDAlQjAtJUQwJUJGJUQwJUJFJUQxJTgxJUQwJUJCJUQxJTgzJUQwJUIzLSVEMCVCMiVEMSU4MCVEMSU4MyVEMSU4NyVEMCVCRCVEMSU4MwY7CFQ6CXJhbmtpCQ%3D%3D--5d032d22e0fd39dd90cdb37b06535cffb688fc8e" rel="nofollow">Додавання товарів та послуг вручну</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCFqIE9JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCAGF%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIBwy9oYy91ay9hcnRpY2xlcy8zNjAwMDY3ODEwMTgtJUQwJTlGJUQwJUJFJUQxJTg4JUQwJUI4JUQxJTgwJUQwJUI1JUQwJUJEJUQxJTk2LSVEMCVCRiVEMCVCOCVEMSU4MiVEMCVCMCVEMCVCRCVEMCVCRCVEMSU4Ri0lRDAlQkYlRDAlQkUtJUQwJTlGJUQxJTgwJUQwJUJFJUQwJUJDLSVEMCVCRSVEMCVCRiVEMCVCQiVEMCVCMCVEMSU4MiVEMSU5NgY7CFQ6CXJhbmtpCg%3D%3D--23c4617ea5d805f9695707b804312854fa706729" rel="nofollow">Поширені питання по Пром-оплаті</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      
+      
+      
+      	<div data-recent-articles></div>
+      
+      
+    </aside>
+
+    <article class="article">
+      <div class="article-wrapper uaprom-article-block">
+        <header class="article-header page-header">
+          <h1 title="Управління товарами та послугами" class="article-title">
+            Управління товарами та послугами
+            
+          </h1>
+        </header>
+
+        <section class="article-info">
+          <div class="article-content">
+            <div class="article-body"><p>Для переходу до роботи з товарами та послугами необхідно в меню Кабінету компанії перейти на «Товари та послуги - Позиції». З'явиться таблиця зі списком всіх товарів.</p>
+<p><a href="http://img.support.uaprom.net/img/c09c65a0f4fc4fefb87d124593158e591_p.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/c09c65a0f4fc4fefb87d124593158e591_p.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p>У верхній частині сторінки знаходяться:</p>
+<ul>
+<li>Кнопка&nbsp;<strong>Експорт</strong>&nbsp;—&nbsp;процедура експорту товарів та груп. Детальніше читайте <a href="http://support.prom.ua/documents/811">тут</a>.</li>
+<li>Кнопка <strong>Додати позицію</strong>&nbsp;— додавання нової позиції в магазин.</li>
+<li><strong>Лічильник ліміту товарних позицій</strong> —&nbsp;показує відсоток доданих позицій. Детальніше читайте <a href="http://support.prom.ua/documents/914">тут</a>.</li>
+</ul>
+<h2>Работа з вкладками</h2>
+<p>У таблиці можна налаштовувати вкладки, додаючи свої або редагуючи існуючі.</p>
+<p><span class="wysiwyg-underline">Для додавання вкладки</span> спочатку необхідно вибрати та застосувати фільтри.</p>
+<p><a href="http://img.support.uaprom.net/img/21a508bfcf5f406da696fc754df9e08c9_p1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/21a508bfcf5f406da696fc754df9e08c9_p1.png?PIMAGE_ID=undefined" alt="" width="605" height="184"></a></p>
+<p>Потім натиснути посилання <strong>Зберегти</strong>, і у поле, що&nbsp;відобразиться, можна відредагувати назву та натиснути кнопку <strong>Зберегти</strong> - вкладка буде додана на панель.</p>
+<p>При застосуванні декількох фільтрів одночасно, на панель додасться вкладка, що містить вибрані критерії.</p>
+<p><a href="http://img.support.uaprom.net/img/0406899d7cfd4a26bd789e89c821090b10_p1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/0406899d7cfd4a26bd789e89c821090b10_p1.png?PIMAGE_ID=undefined" alt="" width="601" height="182"></a></p>
+<p>Якщо зберегти сгенерированную вкладку, натиснувши кнопку <strong>Зберегти</strong>, а потім видалити який-небудь параметр фільтра, буде створена нова вкладка з цієї нової фільтрацією.</p>
+<p><span class="wysiwyg-underline">Для видалення або редагування назви</span> вкладки необхідно підвести покажчик миші до назви та натиснути на стрілку. Розкриється список з командами <strong>Видалити</strong> та <strong>Редагувати</strong>.</p>
+<p><a href="http://img.support.uaprom.net/img/e3992fb1d226411bbc965a5bbcb9830711_d.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/e3992fb1d226411bbc965a5bbcb9830711_d.png?PIMAGE_ID=undefined" alt="" width="607" height="130"></a></p>
+<p>При редагуванні можна змінити ім'я вкладки. Після введення нового імені необхідно натиснути клавішу <strong>Enter</strong>.</p>
+<p>При видаленні вкладка буде видалена з панелі вкладок. З'явиться спливаюче повідомлення про видалення, при необхідності його можна <strong>Відновити</strong> за посиланням у повідомленні.</p>
+<p><a href="http://img.support.uaprom.net/img/e0ad6f0e909b4adfbd97ac2f0907362a12_d.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/e0ad6f0e909b4adfbd97ac2f0907362a12_d.png?PIMAGE_ID=undefined" alt="" width="602" height="80"></a></p>
+<h2>Перехід до товарів групи</h2>
+<p>У списку товарів є стрілка, яка відкриває список груп. Стрілка ставиться і у списку товарів, і на сторінці редагування товару.</p>
+<p><a href="http://img.support.uaprom.net/img/966c8c9a4bea488cbeb53cf0411cd3ff35_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/966c8c9a4bea488cbeb53cf0411cd3ff35_1.png?PIMAGE_ID=undefined" alt="" width="594" height="281"></a></p>
+<p>При натисканні на назву групи відображається вкладка зі списком товарів цієї групи. Працюючи на цій вкладці, ви будете бачити тільки товари обраної групи.</p>
+<p><a href="http://img.support.uaprom.net/img/ece402505c504089889119afaafae52b003_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/ece402505c504089889119afaafae52b003_1.png?PIMAGE_ID=undefined" alt="" width="591" height="276"></a></p>
+<h2>Фільтри та пошук товарів</h2>
+<p><iframe src="//www.youtube-nocookie.com/embed/a8PInm5QG6E" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+<p>У верхній частині списку товарів та послуг відображається список фільтрів, що розкривається, і рядок пошуку товарів та послуг.</p>
+<p><img src="http://img.support.uaprom.net/img/1006a24e4de14710a022c3fad8d6d8b514.png?PIMAGE_ID=undefined" alt="" width="603" height="51"></p>
+<p><span class="wysiwyg-underline">Для фільтрації списку товарів</span> необхідно розкрити список фільтрів та вибрати необхідний. Існують такі типи фільтрів:</p>
+<ol>
+<li><strong>Група</strong>: у фільтрі відображаються всі групи товарів. Так як груп може бути безліч, присутнє поле для пошуку групи. Поле для пошуку починає пропонувати значення для вибору вже після введення першої літери.</li>
+<li><strong>Тип</strong>: можна відфільтрувати товари, що продаються в роздріб та/або оптом, а також послуги.</li>
+<li><strong>Ціна</strong>: товари з ціною або товари, у яких поле ціни не заповнено.</li>
+<li><strong>Різновиди</strong>: можна вибрати позиції з різновидами та позиції без різновидів. Фільтр відображається, якщо включено додаток «Різновиди».</li>
+<li><strong>Нотатки</strong>: можна вибрати товари з доданими до них нотаток. Цей фільтр відображається, якщо додана хоча б одна замітка.</li>
+<li><strong>Видимість</strong>. Існує кілька типів видимості товарів.</li>
+<li><strong>Наявність</strong>: статуси наявності товарів.</li>
+<li><strong>Знижка</strong>: можна вибрати позиції зі знижкою, без знижки, зі&nbsp;знижкою, що&nbsp; закінчилася, та зі знижкою, що запланована.</li>
+<li><strong>Відображення товарів</strong>.</li>
+<li><strong>Просування товарів</strong>: можна фільтрувати товари за наявністю або відсутністю супутніх, подарунків, ярликів.</li>
+<li><strong>Дистанційні позиції</strong>.</li>
+<li><strong>Виробник</strong>.</li>
+</ol>
+<p><a href="http://img.support.uaprom.net/img/b82e8599686c4b028ee8730e82a440ad7_3.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/b82e8599686c4b028ee8730e82a440ad7_3.png?PIMAGE_ID=undefined" alt="" width="430" height="472"></a></p>
+<p>Можна вибрати кілька видів фільтрів - список товарів буде відфільтрований за всіма заданими параметрам, а в рядку вкладок відобразиться нова вкладка, відповідна накладеним фільтрам. У разі, якщо цей фільтр буде використовуватися в подальшій роботі, вкладку можна Зберегти, присвоївши їй ім'я.</p>
+<p><span class="wysiwyg-underline">Для пошуку товару</span> необхідно в рядку пошуку почати введення слова або цифри. Після того, як перші три символи будуть введені, відобразиться список відповідних товарів.</p>
+<p>Пошук товарів виконується за такими критеріями:</p>
+<ul>
+<li>назва;</li>
+<li>артикул;</li>
+<li>пошуковий запит.</li>
+</ul>
+<p><strong>Зверніть увагу!</strong> Шукати товари за назвою і ключовими словами можна як російською, так і українською мовою.</p>
+<h2>Список товарів та послуг</h2>
+<p>Товари відображаються списком. У рядку товару відображається:</p>
+<p><a href="http://img.support.uaprom.net/img/4e5692a29ab44bddb67e45dd5057ca7813_p.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/4e5692a29ab44bddb67e45dd5057ca7813_p.png?PIMAGE_ID=undefined" alt="" width="593" height="72"></a></p>
+<ol>
+<li><strong>Прапорець вибору товару</strong>: дозволяє вибрати всі товари поточної сторінки (20 записів) або вибрати певні товари та застосувати до них одну дію.​</li>
+<li><strong>Якість заповнення</strong>: індикатор, що відображає у відсотках якість заповнення товарної позиції та залежить від наявності пошукових запитів, повноти опису та заповнених характеристик.<br>Наведіть вказівник миші на індикатор, і відобразиться підказка зі списком дій, які потрібно виконати для досягнення 100% заповнення товарної позиції.
+<p><a href="http://img.support.uaprom.net/img/38051947db5b44de8fdbe0641c281c41indikator03.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/38051947db5b44de8fdbe0641c281c41indikator03.png?PIMAGE_ID=undefined" alt="" width="348" height="157"></a></p>
+</li>
+<li><strong>Зображення товару</strong>: кожен товар відображається з картинкою (при її наявності).</li>
+<li><strong>Назва товару та групи товару</strong>: назва товару та назва групи товару, а також, при наявності, знижки, подарунки та супутні товари. При натисканні на назву товару відбувається перехід на сторінку редагування товару. При натисканні на назву групи товару відбувається перехід в групу товарів. Також в цій колонці відображаються мітки, якщо:</li>
+</ol>
+<ul>
+<li>товар бере участь в акціях - відобразиться позначка з умовами знижки;</li>
+<li>до товару йде подарунок - відобразиться позначка з кількістю подарунків;</li>
+<li>товар продається з супутніми товарами - відобразиться позначка з кількістю таких товарів.</li>
+</ul>
+<p>При натисканні на таку мітку відобразиться спливаюче вікно для редагування умов/кількості товару. Для видалення мітки достатньо натиснути значок хрестика в правій частині мітки. Також тут відображаються користувацькі замітки.</p>
+<ol start="5">
+<li><strong>Дата оновлення</strong>.</li>
+<li><strong>Код товару</strong>: при наявності, ідентифікатор у вигляді коду товару.</li>
+<li><strong>Наявність</strong>: статус наявності товару і кількість. Статуси наявності відображаються різними кольорами: «У наявності» зеленим, «Ні в наявності» червоним, «Очікується» та «Під замовлення» чорним.</li>
+<li><strong>Ціна</strong>: вартість товару в національній та/або іноземній валюті, оптова ціна за певну кількість одиниць товару (упаковок, комплектів тощо). Також відображається нова та стара ціна, якщо така є, та стара - закресленим шрифтом.<br><strong>Зверніть увагу:</strong> код товару, статус наявності, кількість, ціну та валюту можна міняти прямо в списку товарів.</li>
+<li><strong>Тип товару</strong>: в колонці "Ціна", автоматично з'являється тип товару: «Роздріб», «Роздріб і опт», «Тільки опт».</li>
+<li><strong>Замовлення</strong>: скільки раз товар був заборонений.</li>
+<li><strong>Дії</strong>: перелік можливих дій з товаром або послугою в списку.</li>
+</ol>
+<p><strong>Зверніть увагу</strong>, що при наведенні покажчика миші на товарну позицію в списку видно все редаговані поля (відмічені олівцем).</p>
+<p><img src="http://img.support.uaprom.net/img/a1303581713949ca80e489785cc91008edit01_1.png?PIMAGE_ID=undefined" alt="" width="599" height="83"></p>
+<h3>Групові дії з товарами</h3>
+<p>Встановіть прапорець вибору товару або групі товарів, відобразиться список, що розкривається «Дії для позицій», в якому можна вибирати необхідні дії та застосовувати їх.</p>
+<p><a href="http://img.support.uaprom.net/img/cba5409b663248f699c92871e063d4ab6.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/cba5409b663248f699c92871e063d4ab6.png?PIMAGE_ID=undefined" alt="" width="600" height="527"></a></p>
+<ol>
+<li><strong>Підняти в початок групи</strong>: товари будуть переміщені на початок групи та відображатися першими в списку даної групи.</li>
+<li><strong>Перенести в кінець групи</strong>: товари будуть переміщені у кінець группи та відображатися останніми в списку даної групи.</li>
+<li><strong>Перенести в групу</strong>: товари будуть переміщені до обраної групи.</li>
+<li><strong>Редагувати вітрину</strong>: можливість додати/видалити товари на/з вітрини.</li>
+<li><strong>Редагувати знижки</strong>: можливість додати/відредагувати знижку або продовжити час дії існуючої знижки.</li>
+<li><strong>Редагувати подарунки</strong>: можливість додати/відредагувати подарунок до обраних товарів.</li>
+<li><strong>Редагувати супутні</strong>: можливість додати/відредагувати супутні до обраних товарів.</li>
+<li><strong>Редагувати ярлики</strong>: можливість додати/відредагувати ярлики до обраних товарів.</li>
+<li><strong>Додати пошуковий запит</strong>: до товарів додається пошуковий запит (в поле «Пошукові запити» у картці товару).</li>
+<li><strong>Видалити пошуковий запит</strong>: у товарів видаляється пошуковий запит (в поле «Пошукові запити» в картці товару).</li>
+<li><strong>Додати замітку</strong>: до обраних товарів будуть додані замітки.</li>
+<li><strong>Видалити замітку</strong>: у вибраних товарів будуть видалені нотатки.</li>
+<li><strong>Змінити тип</strong>: буде змінено тип продажу для даних товарів - оптом та/або у роздріб або призначений тип послуги.</li>
+<li><strong>Змінити наявність</strong>: буде застосований один статус наявності для всіх обраних товарів.</li>
+<li><strong>Змінити видимість</strong>: можна буде приховати цю групу товарів, опублікувати або позначити як чернетки.</li>
+<li><strong>Перетворити різновиди в товари</strong>: якщо підключено додаток «Різновиди», то буде доступна цядія. Товар з різновидами буде перетворений в кілька окремих товарів.</li>
+<li><strong>Вказати, де знаходяться товари</strong>: для обраних товарів буде вказано місцезнаходження.<br>У блоці різновидів натисніть на значок кошика в рядку заголовків стовпців.</li>
+</ol>
+<p><a href="http://img.support.uaprom.net/img/cc2fa84334d74523baf61638b9b334d9raznovid03.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/cc2fa84334d74523baf61638b9b334d9raznovid03.png?PIMAGE_ID=undefined" alt="" width="601" height="115"></a><br>Для перетворення деяких різновидів в окремі товари у спливаючому вікні «Видалення стовпців» виберіть ті характеристики, які хочете перетворити в окремі товари. Залиште мінімум одну необхідну поточному товару характеристику, тому що цей товар не може залишитися без різновиду (перетворити абсолютно всі різновиди в товари не можна).<br><a href="http://img.support.uaprom.net/img/015ef7e37d4c42c69d73b6e0b93ecf71raznovid01.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/015ef7e37d4c42c69d73b6e0b93ecf71raznovid01.png?PIMAGE_ID=undefined" alt="" width="423" height="237"></a><br>Є можливість тільки масового видалення різновидів.<br><a href="http://img.support.uaprom.net/img/4417be7188c94598a9d60daa35aad38araznovid04.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/4417be7188c94598a9d60daa35aad38araznovid04.png?PIMAGE_ID=undefined" alt="" width="436" height="215"></a><br><strong>Наприклад, є 3 характеристики</strong>:&nbsp;товар «Футболка» з різновидами за розміром (s, m), кольором (синій, білий), типу тканини (бавовна, шовк). В даному випадку ви можете перетворити тільки 2 характеристики (одну обов'язково залишаємо основного товару). А розмір і колір буде перетворений в окремі товари: «Футболка» (синій, s), «Футболка» (синій, m), «Футболка» (білий, s), «Футболка» (білий, m).</p>
+<ol>
+<li><strong>Додати до замовлення</strong>: відобразиться вікно створення нового замовлення, в якому вже будуть додані вибрані товари.</li>
+<li><strong>Експорт груп та позицій</strong>: відобразиться вікно для настройки експорту. Детальніше можна прочитати <a href="http://support.prom.ua/documents/811" target="_blank" rel="noopener noreferrer">тут</a>.</li>
+<li><strong>Видалити</strong>: видалення обраних позицій. Дистанційні позиції переносяться в розділ «Дистанційні позиції» та залишаються там до 30 днів. Через 30 днів після того, як товар був вилучений, він видалиться з Кабінету компанії.</li>
+</ol>
+<h3>Дії з товаром</h3>
+<p>У рядку товару відображається список можливих дій з товаром .</p>
+<p><img src="/hc/article_attachments/6069352827549" alt="____________.png"></p>
+<ol>
+<li><strong>Підняти в початок групи</strong>: позиція товару буде змінена. Товар буде відображатися на початку групи.</li>
+<li><strong>Копіювати</strong>: відобразиться сторінка товару, на якій будуть скопійовані всі дані з вибраного товару. Також можна скопіювати різновиди.</li>
+<li><strong>Редагувати</strong>: відобразиться сторінка товару, в якій можна відредагувати необхідні дані.</li>
+<li><strong>Знижка</strong>: відобразиться вікно для додавання умов знижки товару.</li>
+<li><strong>Подарунок</strong>: відобразиться вікно для додавання подарунка до товару.</li>
+<li><strong>Супутні</strong>: відобразиться вікно для додавання супутніх товарів.</li>
+<li><strong>Ярлик</strong>: привласнення товару ярлика для залучення уваги відвідувачів.</li>
+<li><strong>Додати на вітрину</strong>: додавання товару на вітрину.</li>
+<li><strong>Видалити</strong>: видалення обраної позиції. Дистанційна позиція переноситься до розділу «Дистанційні позиції» і залишається там до 30 днів. За 30 днів після того, як товар був видалений, він видалиться і з Кабінету компанії.</li>
+</ol>
+<h3>Сортування стовпців списку</h3>
+<p>Функцію сортування товарів/послуг в таблиці виконують заголовки стовпців зі стрілками.</p>
+<p><a href="http://img.support.uaprom.net/img/4ad50a6c888d4112bbfccb7f88a3fba8Clip2net_161226160913.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/4ad50a6c888d4112bbfccb7f88a3fba8Clip2net_161226160913.png?PIMAGE_ID=undefined" alt="" width="596" height="23"></a></p>
+<p>Сортування в таблиці можливе за всіма стовпцями. Щоб відсортувати список позицій в прямому або зворотному порядку, необхідно натиснути на заголовок зі стрілками. За замовчуванням кожен заголовок відображається з 2 різноспрямованими стрілками. При такому положенні товари відображаються в порядку додавання. Для сортування товарів за зростанням необхідно один раз натиснути на стрілки - відобразиться стрілка вгору і станеться сортування за зростанням. Повторне натискання на стрілку відобразить сортування у порядку зменшення і стрілка буде змінена на стрілку вниз. Третє натискання на стрілку поверне відображення за замовчуванням, коли позиції розташовані в порядку додавання.</p>
+<p><a id="product_page" name="product_page"></a></p>
+<h2>Сторінка товару</h2>
+<p>Для відображення докладної інформації про товар натисніть на назву товару - відобразиться сторінка з даними товару.</p>
+<p>У верхній частині сторінки відображаються кнопки <strong>Переглядом позиції</strong>, <strong>Дублювання</strong> і кнопка <strong>Зберегти</strong>.</p>
+<p>У центральній частині відображається <strong>Основна інформація</strong> про товар: назва товару, код, опис, та блок типу продажу оптом чи вроздріб з встановленням ціни. У правій частині сторінки розташовані блоки: <strong>Видимість</strong> та&nbsp;<strong>Зображення</strong>. Нижче основного блоку розташовуються блоки <strong>Різновиди</strong>, <strong>Розміщення</strong> та&nbsp;<strong>Характеристики</strong>. У нижній частині також відображаються блоки <strong>SEO</strong>, <strong>Просування</strong> <strong>в каталозі</strong> та&nbsp;<strong>Додаткова інформація</strong>.</p>
+<p>Також справа знаходиться індикатор заповнювання товару та кнопки допомоги і зворотного зв'язку. При прокручуванні сторінки ці елементи завжди відображаються праворуч.</p>
+<p><a href="http://img.support.uaprom.net/img/017c485084b0481993bd4045a6bd487b20_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/017c485084b0481993bd4045a6bd487b20_1.png?PIMAGE_ID=undefined" alt="" width="595" height="453"></a></p>
+<p>Натисніть на індикатор, щоб розкрити панель індикатора. На ній відображається повний список дій, які потрібно виконати для досягнення 100% заповнення товарної позиції.</p>
+<p><a href="http://img.support.uaprom.net/img/deb45cfe3f9e4567b80244d94d31b210indikator02.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/deb45cfe3f9e4567b80244d94d31b210indikator02.png?PIMAGE_ID=undefined" alt="" width="601" height="238"></a></p>
+<h3>Основна інформація</h3>
+<p>У блоці відображаються поля з основною інформацією про товар:</p>
+<ul>
+<li><strong>Назва позиції</strong> - назва товару чи послуги.</li>
+<li><strong>Код/Артикул</strong> - необхідний для швидкого та зручного пошуку потрібної позиції на сайті компанії та в особистому кабінеті при телефонному зверненні клієнта.</li>
+<li><strong>Опис</strong> - докладний опис, який допоможе дізнатися більше про товар.</li>
+</ul>
+<h4><a href="http://img.support.uaprom.net/img/dd10ad1919734c3f93e89ac194d9b40921_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/dd10ad1919734c3f93e89ac194d9b40921_1.png?PIMAGE_ID=undefined" alt="" width="599" height="481"></a></h4>
+<h3>Замітки товару</h3>
+<p>Ви можете додавати свої замітки товарами відповідно до їх тематики. Наприклад, якщо ваш товар користується попитом у покупців, додайте замітку «Популярний». До товарів одного виробника можна додати замітку з назвою виробника. Додані замітки будуть відображені під товаром в списку. За доданим нотаток можна відфільтрувати товари в списку.</p>
+<p><strong>Зверніть увагу</strong>, що ваша особиста замітка до товару відображається тільки вам та не виводиться на сайті або маркетплейсі.</p>
+<p><a href="http://img.support.uaprom.net/img/4adb355f929c434cbda8aeb7646cf3f2mark01.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/4adb355f929c434cbda8aeb7646cf3f2mark01.png?PIMAGE_ID=undefined" alt="" width="597" height="198"></a></p>
+<p>Щоб додати нотатку натисніть значок «плюс» нижче назви товару в списку або в блоці «Особисті нотатки». З'явиться список міток з полем для введення нової замітки та кнопкою <strong>Додати замітку</strong>.</p>
+<p><a href="http://img.support.uaprom.net/img/f85e1b7a98f14293a1c47b54fe71016dmark02.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/f85e1b7a98f14293a1c47b54fe71016dmark02.png?PIMAGE_ID=undefined" alt="" width="161" height="253"></a></p>
+<p>Щоб видалити замітку, підведіть покажчик миші до неї та натисніть на хрестик у назві замітки. Замітка буде видалена.</p>
+<h3>Блок видів цін</h3>
+<p>У блоці можна встановити вид ціни та відображення наявності товару. <strong>Перемикачі&nbsp;</strong>—&nbsp;Роздріб, Тільки опт, Оптом та в роздріб та Послуга - щоб вибрати з подальшою установкою ціни товару.</p>
+<p><strong>Роздріб</strong>. При виборі даного типу, товари компанії будуть розміщуватися в категоріях Споживчих товарів, орієнтованих на продаж фізичним особам.</p>
+<p><strong>Тільки опт</strong>. Товари компанії будуть розміщені в Промислових та оптових категоріях маркетплейса, призначених для підприємств, організацій та компаній.</p>
+<p><strong>Гуртом та в роздріб</strong>. Даний тип товарів можна назвати Універсальним, так як товари розміщуються у Споживчих та у Промислових категоріях маркетплейса.</p>
+<p><strong>Послуга</strong>. Пропозиції про надання послуг компанією.</p>
+<ul>
+<li><strong>Роздрібна ціна</strong> — мінімальна вартість товарної позиції.</li>
+<li><strong>Одиниця</strong>&nbsp;— вказівка ​​в яких одиницях продається товар.</li>
+<li>Прапор <strong>Встановити «ціна від»</strong>&nbsp;— для уточнення, що зазначена ціна є мінімальною.</li>
+<li><strong>Наявність&nbsp;</strong>— вказати, чи є товар в наявності, очікується або його необхідно купувати під замовлення.<br><strong>Зверніть увагу</strong>: при вказанні залишку "0" при збереженні товару буде автоматично проставлятися статус наявності, зазначений у налаштуванні «Якщо товар відсутній на складі, встановити» в розділі&nbsp;«<a href="https://my.prom.ua/cms/settings/stock" target="_blank" rel="noopener noreferrer">Налаштування/Залишки товарів</a>».</li>
+<li><strong>Залишки</strong> — можна вказати кількість товару, яке є «В наявності», або вказати нульове значення для статусів «Ні в наявності», «Під замовлення».<br><strong>Зверніть увагу</strong>: якщо включений «Облік залишків товарних позицій», то статус наявності товару може залежати від зазначеної кількості залишків товарів. Налаштування можна змінити в розділі «<a href="https://my.prom.ua/cms/settings/stock" target="_blank" rel="noopener noreferrer">Налаштування/Залишки товарів</a>».</li>
+<li><strong>Оптова ціна</strong> — оптова ціна товару.</li>
+<li><strong>При замовленні (від)</strong>&nbsp;— зазначення кількості товару, при якому починає застосовуватися оптова ціна.</li>
+<li><strong>Додати оптову ціну</strong> — можна додати до п'яти оптових цін. Всі оптові ціни будуть показані під основною ціною в описі товару.</li>
+</ul>
+<h3>Видимість</h3>
+<p>Всі товари, що додаються в магазин, можуть мати різну видимість, тобто відображатися або не відображатися на сайті та у каталозі маркетплейса.</p>
+<p><strong>Опублікований</strong> - це значить, що товар або послуга опубліковані, тобто їх можна побачити на сайті та у каталозі маркетплейса.</p>
+<p><strong>Чернетка</strong> - позиція, яка знаходиться на редагуванні та не внесена вся необхідна інформація для її публікації.</p>
+<p><strong>Прихований</strong> - позиція прихована та не буде доступна на сайті та у каталозі маркетплейса. Надалі, можна <strong>Опублікувати позицію</strong>.</p>
+<p><img src="http://img.support.uaprom.net/img/95648ef3ee92446f8b58492ffbf72f4522.png?PIMAGE_ID=undefined" alt=""></p>
+<h3>Зображення</h3>
+<p>Можна додати 10 зображень до товарної позиції.</p>
+<p><a href="http://img.support.uaprom.net/img/f5af7c4e0ea54cbab55fad34fa45686dfoto04.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/f5af7c4e0ea54cbab55fad34fa45686dfoto04.png?PIMAGE_ID=undefined" alt="" width="189" height="363"></a></p>
+<p>Щоб залучити більше покупців, необхідно завантажувати якісні знімки товарів.</p>
+<ul>
+<li>Можна завантажувати фотографії <strong>зі свого пристрою або додати посилання</strong>. При додаванні фотографій <span class="wysiwyg-underline">за посиланням</span> обмежень формату немає, а максимальний розмір – 15 МБ.</li>
+<li>Формати (розширення) для зображень - JPG, GIF, PNG.</li>
+<li>Максимальний розмір файлу зображення - 10 МБ.</li>
+<li>Максимальна ширина/висота зображень 1280 пікселів - фотографії з високою роздільною здатністю будуть автоматично стиснуті.</li>
+<li>Рекомендуємо вам завантажувати зображення з однаковою висотою та шириною (квадратні).</li>
+<li>При пошуку в каталозі, у товару без зображення виводиться напис «Зображення відсутнє».</li>
+</ul>
+<p>Для перегляду/повороту/видалення зображення необхідно підвести покажчик миші до зображення. На зображенні з'являться значки перегляду, повороту та видалення.</p>
+<p><a href="http://img.support.uaprom.net/img/630437d505e44bccaa42bf9197e0a57bfoto01_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/630437d505e44bccaa42bf9197e0a57bfoto01_1.png?PIMAGE_ID=undefined" alt="" width="199" height="213"></a>&nbsp; &nbsp;&nbsp;<a href="http://img.support.uaprom.net/img/a71b4442c74a428b8ba9e0f76e59312ffoto02_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/a71b4442c74a428b8ba9e0f76e59312ffoto02_1.png?PIMAGE_ID=undefined" alt="" width="199" height="187"></a></p>
+<p>При натисканні на піктограму видалення в заголовку («кошик») все зображення будуть видалені.</p>
+<p>При натисканні на піктограму повороту зображення буде повернуто на 90 градусів проти годинникової стрілки.</p>
+<p>При натисканні на піктограму видалення на зображенні («кошик») це зображення буде видалено.</p>
+<p>При натисканні на піктограму посилання (ланцюгової значок) посилання на зображення буде скопійовано до буферу обміну.</p>
+<p><strong>Зверніть увагу</strong>: для різновидів доступні всі функції по роботі з зображеннями: поворот зображення, видалення всіх фото, копіювання посилання.</p>
+<p>При натисканні на піктограму перегляду («око») відобразиться вікно перегляду зображень, в якому можна перейти до перегляду будь-якого з доданих до товару зображень за допомогою кнопок «← Попереднє» та «Наступне →» або просто натискаючи на потрібне зображення. У вікні перегляду можна видаляти зображення по одному (кнопка «Видалити зображення») або видалити всі зображення відразу (кнопка «Видалити все зображення»).</p>
+<p><a href="http://img.support.uaprom.net/img/cda474c6b19e4497a819395f6d527f66foto03.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/cda474c6b19e4497a819395f6d527f66foto03.png?PIMAGE_ID=undefined" alt="" width="400" height="511"></a></p>
+<h3>Розміщення</h3>
+<p><a href="http://img.support.uaprom.net/img/cf9563d95ca7449f841ec385d7fbd73425_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/cf9563d95ca7449f841ec385d7fbd73425_1.png?PIMAGE_ID=undefined" alt="" width="560" height="240"></a></p>
+<p><strong>Група на сайті</strong> - назва групи, до якої відноситься позиція.</p>
+<p><strong>Пошукові запити</strong> - використовуються для пошуку в каталозі. Введіть пошукові запити через кому, наприклад: вентиль, плаття, пакувальне обладнання, юридичні послуги. Додаткові слова (купити, замовити, регіон) додаються автоматично.</p>
+<p><strong>Зверніть увагу</strong>: порядок пошукових запитів може бути будь-яким. Позиція пошукового запиту в описі товару не впливає на ранжування товару в каталозі. Важливо сама їх наявність та відповідність товару. Поле не може бути довжиною більше 1024 символів.</p>
+<p><strong>Категорія на маркетплейсі</strong>&nbsp;- поточна та рекомендовані категорії товару. За назвою та обраної вами групи товарів система автоматично підбере відповідні категорії для публікації позиції. Якщо запропонована категорія не підходить для розміщення в ній товару, то вибрати категорію можна вручну. <strong>Зверніть увагу</strong>: щоб уникнути випадків інтернет-шахрайства товарні пропозиції від безкоштовних та тестових компаній приховані на маркетплейсі у <a href="/hc/uk/articles/360004963118" target="_blank" rel="noopener noreferrer">наступних категоріях</a>.</p>
+<h3>Характеристики</h3>
+<p><strong>Характеристики товарів</strong> - це певні властивості товарів такі, як «Розмір», «Колір», «Напруга живлення», «Потужність» та ін., які виводяться на сторінці товару в каталозі Prom.ua та на сайті компанії (у вкладках «Характеристики» та «Користувацькі характеристики») та допомагають покупцям швидше оцінити товар, визначитися з покупкою і зробити замовлення.</p>
+<p><strong>Характеристики діляться на:</strong></p>
+<p><strong>Характеристики</strong>&nbsp;- основні характеристики товару на маркетплейсі, значення яких встановлені для кожної категорії, без можливості додавання «своїх» характеристик, значень або одиниць вимірювання. Набір&nbsp; характеристик залежить від категорії, в якій розміщений товар. При зміні категорії товару, всі додані характеристики переносяться у користувацькі. Тільки товар із заповненою характеристикою потрапляє в фільтри каталогу Prom.</p>
+<p><strong>Користувацькі характеристики</strong> - додаткові характеристики товару, значення яких відрізняються від звичайних. У цьому блоці ви можете вказати ті характеристики, яких немає серед звичайних. Вони відображаються на картці товару в блоці «Характеристики» та не впливають на видачу в фільтрах в каталозі Prom.ua.</p>
+<p><img src="/hc/article_attachments/360010580817" alt="______________2_.png" width="598" height="309"></p>
+<p>Більш докладно про характеристики дивіться документ «<a href="https://support.prom.ua/hc/uk/articles/360005258278" target="_blank" rel="noopener noreferrer">Характеристики</a>».</p>
+<h3>Просування в каталозі</h3>
+<p>Для просування в каталозі існують додаткові функції.</p>
+<p><a href="http://img.support.uaprom.net/img/4e3c81f185bd4b61bbf9a6a11d7d375628.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/4e3c81f185bd4b61bbf9a6a11d7d375628.png?PIMAGE_ID=undefined" alt=""></a></p>
+<p><strong>Додати знижку</strong> - функціонал швидкого додавання знижки для товару або послуги.</p>
+<p><strong>Додати подарунок</strong> - це додатковий інструмент мерчандайзингу, завдання якого - допомогти продавцеві збільшити кількість продажів, розширивши функціональність супутніх товарів. Додавання подарунка - це товар компанії (або кілька товарів), який можна додати в якості подарунка при здійсненні замовлення до будь-якого іншого з товарів.</p>
+<p><strong>Додати ярлик</strong> - завдяки ярликів можна зробити свої товари більш інформативними та привабливими для клієнтів.</p>
+<p><strong>Додати супутні</strong> - функціонал додавання товарів, які можуть продаватися в комплекті з основним товаром.</p>
+<p>Детальніше про просування в каталозі читайте у&nbsp;<a href="https://support.prom.ua/hc/uk/articles/360004966437" target="_blank" rel="noopener noreferrer">цій довідці</a>.</p>
+<h3>Різновиди</h3>
+<p><strong>Зверніть увагу</strong>: блок відображається, якщо включено додаток «Різновиди».</p>
+<p><strong>Різновиди</strong> - це товари однієї моделі, але з різними характеристиками (інші колір, розмір, фасон, візерунок).</p>
+<p><a href="http://img.support.uaprom.net/img/a5c2e2c64d7c45eb8e7942717437caea24.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/a5c2e2c64d7c45eb8e7942717437caea24.png?PIMAGE_ID=undefined" alt="" width="645" height="47"></a></p>
+<p>Детальніше про різновиди можна прочитати в документі «<a href="https://support.prom.ua/hc/uk/articles/360005207397" target="_blank" rel="noopener noreferrer">Різновиди товарів</a>».</p>
+<h3>Додаткова інформація</h3>
+<p>Можна додати додаткову інформацію до товарної позиції, наприклад, комплектацію, спосіб упаковки, файли інструкцій, специфікації. Для цього необхідно натиснути перемикач <strong>Включено</strong>. <strong>Зверніть увагу</strong>, що специфікації не відображаються на мобільній версії сайту.</p>
+<p><a href="http://img.support.uaprom.net/img/f6d973d6e1634851b303f8cfdaae1d8a30.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/f6d973d6e1634851b303f8cfdaae1d8a30.png?PIMAGE_ID=undefined" alt="" width="601" height="157"></a></p>
+<h3><span>Габаритні разміри</span></h3>
+<p><span>Для зазначення габаритних розмірів товару, використовуйте блок «Габаритні розміри» в картці товару </span></p>
+<p><span><img src="/hc/article_attachments/360010671618" alt="______________3_.png" width="597" height="116"></span></p>
+<p><span>Зазначені в товарі розміри спростять покупцям попередній розрахунок вартості доставки посилки.</span></p>
+<h3>&nbsp;</h3>
+<h3>Налаштування SEO</h3>
+<p>Блок «SEO» відображається, якщо включено додаток «<a href="https://my.prom.ua/market/application/seo_tools" target="_blank" rel="noopener noreferrer">SEO-налаштування</a>». Детальніше дивіться документ «<a href="https://support.prom.ua/hc/uk/articles/360005103417-SEO-%D0%BD%D0%B0%D0%BB%D0%B0%D1%88%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" target="_blank" rel="noopener noreferrer">Додаток SEO-нал</a>аштування».</p>
+<p><a name="111"></a></p>
+<h2>Створення нової позиції</h2>
+<p>Для цього на сторінці списку позицій необхідно натиснути кнопку <strong>Додати позицію</strong> в верхньому лівому кутку:</p>
+<p><a href="http://img.support.uaprom.net/img/e0abf6bba20542f783f965ff78407e9d33_d1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/e0abf6bba20542f783f965ff78407e9d33_d1.png?PIMAGE_ID=undefined" alt="" width="576" height="42"></a></p>
+<p>У вікні <strong>Нова позиція</strong> заповніть потрібні поля та натисніть кнопку <strong>Зберегти позицію</strong>.</p>
+<p><strong>Зверніть увагу</strong>: При створенні нової позиції можна скопіювати до неї дані існуючої. Це зручно, якщо у вас є однотипний товар з невеликими відмінностями. Це можна зробити з вікна створення нової позиції (кнопка <strong>Скопіювати існуючу позицію</strong>), з вікна редагування позиції (кнопка <strong>Копіювати</strong>) або зі списку позицій (дію <strong>Копіювати</strong>).</p>
+<h3>Копіювання позиції</h3>
+<p>Для копіювання у вікні створення нової позиції натисніть кнопку <strong>Скопіювати існуючу позицію</strong>.</p>
+<p><a href="http://img.support.uaprom.net/img/24ef544367314491ba4bfbc2fde497decopy_02.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/24ef544367314491ba4bfbc2fde497decopy_02.png?PIMAGE_ID=undefined" alt="" width="581" height="112"></a></p>
+<p>У вікні «Скопіювати існуючу позицію», що&nbsp;відобразиться, знайдіть за допомогою пошуку або виберіть в дереві груп потрібну позицію та натисніть кнопку <strong>Скопіювати позицію</strong>. Поля нової позиції будуть заповнені даними з вибраної існуючої позиції. У новому товарі потрібно відредагувати поля, за необхідності, та натиснути кнопку <strong>Зберегти зміни</strong>.</p>
+<p><a href="http://img.support.uaprom.net/img/178b6c3fc5ab44deb2c8001f8afcfea2copy_03.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/178b6c3fc5ab44deb2c8001f8afcfea2copy_03.png?PIMAGE_ID=undefined" alt="" width="436" height="306"></a></p>
+<p>Для копіювання позиції у вікні редагування відкрийте її та натисніть кнопку <strong>Копіювати</strong> у верхньому правому куті.</p>
+<p>Для копіювання позиції зі списку позицій виберіть зі списку <strong>Дії</strong> команду <strong>Копіювати</strong>.</p>
+<p>З'явиться нова сторінка з продубльованих товаром. У новому товарі потрібно відредагувати поля, за необхідності, та натиснути кнопку <strong>Зберегти зміни</strong>.</p>
+<p><strong>Зверніть увагу</strong>: при копіюванні товару з різновидами ви можете скопіювати і їх. Для цього у спливаючому вікні оберіть "Копіювати різновиди".</p>
+<p><strong>Зверніть увагу</strong>: до скопійованої позиції додається замітка «Копія».</p>
+<p><a href="http://img.support.uaprom.net/img/be58d7ae28c545fdade559bccfffa0c3copy_04_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/be58d7ae28c545fdade559bccfffa0c3copy_04_1.png?PIMAGE_ID=undefined" alt="" width="328" height="399"></a>&nbsp; &nbsp; &nbsp;<a href="http://img.support.uaprom.net/img/15badb9ad620408187f8f65e3901d4f4copy_05_1.png?PIMAGE_ID=undefined" target="_blank" rel="noopener noreferrer"><img src="http://img.support.uaprom.net/img/15badb9ad620408187f8f65e3901d4f4copy_05_1.png?PIMAGE_ID=undefined" alt="" width="368" height="107"></a></p></div>
+
+            <div class="article-attachments">
+              <ul class="attachments">
+                
+              </ul>
+            </div>
+          </div>
+        </section>
+        <footer class="article-footer">
+          
+            <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F+%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8+%D1%82%D0%B0+%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8&u=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005207297-%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25BF%25D0%25BE%25D1%2581%25D0%25BB%25D1%2583%25D0%25B3%25D0%25B0%25D0%25BC%25D0%25B8" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=uk&text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F+%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8+%D1%82%D0%B0+%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005207297-%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25BF%25D0%25BE%25D1%2581%25D0%25BB%25D1%2583%25D0%25B3%25D0%25B0%25D0%25BC%25D0%25B8" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=prom.ua&title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F+%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8+%D1%82%D0%B0+%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005207297-%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25BF%25D0%25BE%25D1%2581%25D0%25BB%25D1%2583%25D0%25B3%25D0%25B0%25D0%25BC%25D0%25B8" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+          
+        </footer>
+      </div>
+
+      <div class="article-bottom uaprom-article-block">
+        
+          <div class="article-subscribe-container">
+            <p>Бажаєте підписатися на оновлення цієї статті?</p>
+            <a class="article-subscribe" title="Відкриває вікно для входу" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/uk/articles/360005207297-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8/subscription.html">Підписатися</a>
+          </div>
+        
+        
+          <div class="article-votes">
+            <div class="article-votes-question-wrapper">
+              <span class="article-votes-question">Чи була ця стаття корисною?</span>
+              <div class="article-votes-count">
+                <span class="article-vote-label">1 з 1 вважають статтю корисною</span>
+              </div>
+            </div>
+            
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Так" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005207297-%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25BF%25D0%25BE%25D1%2581%25D0%25BB%25D1%2583%25D0%25B3%25D0%25B0%25D0%25BC%25D0%25B8"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Ні" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005207297-%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BC%25D0%25B8-%25D1%2582%25D0%25B0-%25D0%25BF%25D0%25BE%25D1%2581%25D0%25BB%25D1%2583%25D0%25B3%25D0%25B0%25D0%25BC%25D0%25B8"></a>
+            </div>
+          </div>
+        
+      </div>
+
+      
+    </article>
+    
+  </div>
+</div>
+  </main>
+
+  <footer class="footer uaprom-footer">
+  
+  <div class="footer-inner container uk-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупцям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/uk">Довідка для покупців</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Як купувати з Пром-оплата</a></li>
+          <li><a href="https://my.prom.ua/ua/company_domain_check/check_is_site_on_portal">Перевірка на приналежність сайту до Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцям</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/uk">Довідка для продавців</a></li>
+          <li><a href="https://prom.ua/ua/join-now?source_id=new.footer">Створити сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/ua/how_to_order">Тарифи</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ і Просування в Каталозі ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/ua/terms-of-use">Угода користувача</a></li>
+          <li><a href="https://prom.ua/ua/privacy-policy">Політика конфіденційності</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/sections/360001419538">Правила маркетплейсу</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Інструкція Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусна програма електронний маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Про нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">Про Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Робота в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Адміністрація</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнери</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Офіційні дилери Prom.ua</a></li>-->
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <div class="footer-buttons">
+        <div class="socials">
+          <a class="social youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2217" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="5" width="20" height="15">
+<path d="M22 5H2V19.0007H22V5Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2217)">
+<path class="colorize" d="M21.5835 7.18611C21.4692 6.76243 21.2458 6.37615 20.9355 6.06586C20.6252 5.75558 20.239 5.53216 19.8153 5.41792C18.2545 4.99316 12 4.99316 12 4.99316C12 4.99316 5.74383 4.99316 4.18637 5.41133C3.76175 5.52584 3.37477 5.75015 3.06437 6.0617C2.75397 6.37326 2.5311 6.76107 2.41817 7.18611C2 8.74522 2 12.0001 2 12.0001C2 12.0001 2 15.2549 2.41817 16.8141C2.53211 17.2379 2.75543 17.6243 3.06576 17.9347C3.37609 18.245 3.76254 18.4683 4.18637 18.5822C5.74547 19.0004 12 19.0004 12 19.0004C12 19.0004 18.2562 19.0004 19.8153 18.5822C20.239 18.468 20.6252 18.2446 20.9355 17.9343C21.2458 17.624 21.4692 17.2377 21.5835 16.8141C22 15.2549 22 12.0001 22 12.0001C22 12.0001 21.9951 8.74522 21.5835 7.18611Z" fill="#01011B"/>
+<path d="M10 14.9998L15.1975 12.0001L10 9.00049V14.9998Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2224" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20">
+<path d="M22 2H2V22H22V2Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2224)">
+<path class="colorize" d="M22 12C22 6.47715 17.5229 2 12 2C6.47715 2 2 6.47715 2 12C2 16.9912 5.65684 21.1283 10.4375 21.8785V14.8906H7.89844V12H10.4375V9.79688C10.4375 7.29063 11.9305 5.90625 14.2146 5.90625C15.3084 5.90625 16.4531 6.10156 16.4531 6.10156V8.5625H15.1922C13.95 8.5625 13.5625 9.3334 13.5625 10.125V12H16.3359L15.8926 14.8906H13.5625V21.8785C18.3432 21.1283 22 16.9912 22 12Z" fill="#01011B"/>
+<path d="M15.8926 14.8906L16.3359 12H13.5625V10.125C13.5625 9.33418 13.95 8.5625 15.1922 8.5625H16.4531V6.10156C16.4531 6.10156 15.3088 5.90625 14.2146 5.90625C11.9305 5.90625 10.4375 7.29063 10.4375 9.79688V12H7.89844V14.8906H10.4375V21.8785C11.4729 22.0405 12.5271 22.0405 13.5625 21.8785V14.8906H15.8926Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social instagram" href="https://www.instagram.com/prom.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" fill-rule="evenodd" clip-rule="evenodd" d="M3.67886 3.67886C4.23577 3.12195 4.79268 2.78049 5.45122 2.52439C6.08537 2.27642 6.81301 2.10569 7.88211 2.06098C8.94715 2.0122 9.28862 2 12.0041 2C14.7195 2 15.061 2.0122 16.126 2.06098C17.1911 2.10976 17.9187 2.27642 18.5528 2.52439C19.2114 2.78049 19.7683 3.12195 20.3252 3.67886C20.878 4.23171 21.2195 4.79268 21.4756 5.44715C21.7195 6.0813 21.8902 6.80894 21.939 7.87398C21.9878 8.93902 22 9.28049 22 11.9959C22 14.7114 21.9878 15.0528 21.939 16.1179C21.8902 17.1829 21.7236 17.9106 21.4756 18.5447C21.2195 19.2033 20.878 19.7602 20.3211 20.3171C19.7642 20.874 19.2073 21.2154 18.5488 21.4715C17.9146 21.7154 17.187 21.8862 16.122 21.935C15.0569 21.9837 14.7154 21.9959 12 21.9959C9.28455 21.9959 8.94309 21.9837 7.87805 21.935C6.81301 21.8862 6.08537 21.7195 5.45122 21.4715C4.79268 21.2154 4.23577 20.874 3.67886 20.3171C3.12195 19.7602 2.78049 19.2033 2.52439 18.5447C2.28049 17.9106 2.10976 17.1829 2.06098 16.1179C2.0122 15.0528 2 14.7114 2 11.9959C2 9.28049 2.0122 8.93902 2.06098 7.87398C2.10976 6.80894 2.27642 6.0813 2.52439 5.44715C2.78049 4.79268 3.12195 4.23171 3.67886 3.67886ZM11.8862 17.0854C14.7599 17.0854 17.0894 14.7558 17.0894 11.8821C17.0894 9.00844 14.7599 6.67886 11.8862 6.67886C9.0125 6.67886 6.68293 9.00844 6.68293 11.8821C6.68293 14.7558 9.0125 17.0854 11.8862 17.0854ZM11.8862 15.0041C13.6104 15.0041 15.0081 13.6063 15.0081 11.8821C15.0081 10.1579 13.6104 8.76016 11.8862 8.76016C10.162 8.76016 8.76423 10.1579 8.76423 11.8821C8.76423 13.6063 10.162 15.0041 11.8862 15.0041ZM17.0894 7.71951C17.6642 7.71951 18.1301 7.2536 18.1301 6.67886C18.1301 6.10413 17.6642 5.63821 17.0894 5.63821C16.5147 5.63821 16.0488 6.10413 16.0488 6.67886C16.0488 7.2536 16.5147 7.71951 17.0894 7.71951Z" fill="#01011b"/>
+</svg>
+          </a>
+          <a class="social evobusiness" href="https://evo.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" d="M11.031 11.5268L15.1849 4.95602C12.0355 3.65978 8.39418 4.79454 6.54698 7.7162C4.46876 11.0054 5.45265 15.3723 8.74093 17.451C12.0297 19.5287 16.3963 18.5446 18.4748 15.257C18.8269 14.7014 19.6162 14.524 20.1707 14.8749C20.4479 15.05 20.6406 15.3231 20.7126 15.6433C20.7847 15.9632 20.7279 16.2927 20.5523 16.5703C19.1972 18.7144 17.0841 20.2038 14.602 20.7631C12.1202 21.3223 9.57213 20.8839 7.42784 19.5285C2.99349 16.7254 1.66653 10.8377 4.46945 6.40287C5.82598 4.25858 7.93908 2.76922 10.4207 2.20993C12.9025 1.65018 15.4501 2.08888 17.5942 3.44494C17.8718 3.62051 18.0645 3.89357 18.1366 4.2133C18.2087 4.53372 18.1518 4.86292 17.9763 5.1406L13.109 12.8401C12.7588 13.395 11.9685 13.5731 11.4131 13.2222C10.8411 12.8605 10.6697 12.0995 11.031 11.5268Z" fill="#01011B"/>
+</svg>
+          </a>
+          <!--<a class="social telegram" href="https://t.me/PromBuyerBot?start=WEB" target="_blank"></a>-->
+        </div>
+        <div class="news">
+          <a class="news-btn youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/1d5182860f14ed01108250520472f4920bede6b7.png" alt="youtube">
+            <span>Новини Прому</span>
+          </a>
+          <a class="news-btn facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/e3f308d3542871bdaad40b93fd8c400ccc6be41e.png" alt="facebook">
+            <span>Спільнота продавців</span>
+          </a>
+        </div>
+      </div>
+      <a class="footer-logo" href="https://prom.ua/">
+        <img src="//theme.zdassets.com/theme_assets/9422419/c5f16a937df5454d0c46267e61e1751b7526e144.png" alt="prom.ua">
+      </a>
+    </div>
+    
+  </div>
+  
+  <div class="footer-inner container ru-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупателям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/ru">Справка для покупателей</a></li>
+          <li><a href="https://prom.ua/landing/certification_by_prom">О надежных продавцах</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Как покупать с Prom оплата</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004971837?utm_source=link2support_safe_shopping&amp;utm_medium=Portal&amp;utm_campaign=footer">Рекомендации по безопасным покупкам</a></li>
+          <li><a href="https://my.prom.ua/company_domain_check/check_is_site_on_portal">Проверка на принадлежность сайта к платформе Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцам</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/ru">Справка для продавцов</a></li>
+          <li><a href="https://prom.ua/join-now?source_id=new.footer">Создать сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/how_to_order">Тарифы</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ и Продвижение в Каталоге ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/terms-of-use">Пользовательское соглашение</a></li>
+          <li><a href="https://prom.ua/privacy-policy">Политика конфиденциальности</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/categories/360000787417">Правила пользования порталом</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Руководство Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусная программа электронный маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">О нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">О Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Работа в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/easy_to_sell">Объявления на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Администрация</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнеры</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Официальные дилеры Prom.ua</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column footer-logo">
+        <a href="https://prom.ua/">
+          <img src="//theme.zdassets.com/theme_assets/9422419/23b2936718abda06644b9d4bac2b3b84fee5af02.png" alt="">
+        </a>
+      </div>
+    </div>
+    
+  </div>
+  
+</footer>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/uk.4e5ec0c35b3b52e67901.js"></script>
+  <script src="https://evoservice.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="360000361438" data-return-to="https://support.prom.ua/hc/uk/articles/360005207297" data-theme="hc" data-locale="uk" data-auth-origin="360000361438,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"evoservice","environment":"production","name":"Prom.ua"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"uk","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHdWsGOgZFVDoPYXJ0aWNsZV9pZGwrCAGF+9FTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDU8aPOhNoZWxwX2NlbnRlcl9pZGwrCBU4rdFTADoNYnJhbmRfaWRsKwjek7HRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiB3VrBjsGVA==--a63f5a4e251daee5b6f272163e23945aeb1cd150","url":"https://support.prom.ua/hc/activity"},"current_record_id":"360005207297","current_record_url":"/hc/uk/articles/360005207297-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8","current_record_title":"Управління товарами та послугами","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":360000361438,"account_id":9422419,"name":"prom.ua","active":true,"deleted_at":null,"created_at":"2019-08-22T12:04:01Z","updated_at":"2023-09-19T12:42:48Z","route_id":2940186,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://promua.zendesk.com","current_host_mapping":"support.prom.ua","current_path":"/hc/uk/articles/360005207297-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8-%D1%82%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B0%D0%BC%D0%B8","authentication_domain":"https://evoservice.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.prom.ua/hc/uk","arrange_content_url":"https://support.prom.ua/hc/admin/arrange_contents?locale=uk","general_settings_url":"https://support.prom.ua/hc/admin/general_settings?locale=uk","user_segments_url":"https://evoservice.zendesk.com/knowledge/user_segments?brand_id=360000361438","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":true,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fevoservice.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://evoservice.zendesk.com/knowledge/arrange?brand_id=360000361438","article_verification_url":"https://evoservice.zendesk.com/knowledge/verification?brand_id=360000361438","has_article_verification":true,"guide_language_settings_url":"https://support.prom.ua/hc/admin/language_settings?locale=uk","docs_importer_url":"https://evoservice.zendesk.com/knowledge/import_articles?brand_id=360000361438","content_tags_url":"https://evoservice.zendesk.com/knowledge/content_tags?brand_id=360000361438","community_badges_url":"https://evoservice.zendesk.com/knowledge/community_badges?brand_id=360000361438","community_settings_url":"https://evoservice.zendesk.com/knowledge/community_settings?brand_id=360000361438","gather_plan_state":"subscribed","search_settings_url":"https://evoservice.zendesk.com/knowledge/search_settings?brand_id=360000361438","has_multibrand_search_in_plan":true,"has_search_settings_in_plan":true,"theming_api_version":1,"theming_settings":{"brand_color":"rgba(81, 73, 157, 1)","brand_text_color":"#FFFFFF","text_color":"rgba(3, 3, 3, 1)","link_color":"rgba(6, 112, 235, 1)","background_color":"rgba(255, 255, 255, 1)","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"//theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg","favicon":"//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png","homepage_background_image":"//theme.zdassets.com/theme_assets/9422419/4d82ff3e0c399da29f490bad665d20d5783bc614.svg","community_background_image":"//theme.zdassets.com/theme_assets/9422419/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/9422419/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":false,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true},"has_pci_credit_card_custom_field":true,"current_brand_id":360000361438,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":true,"has_docs_importer":false,"user_preferred_locale":"ru","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_google_analytics_4":true,"has_end_user_2fa":false,"version":"v23802"};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-4ef0d82f9fc65c8a28f659aa3430955f.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-cd240096d8f4c02aeb9762ce9a7a1c1c.js"></script>
+  
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'82803c83fde234b6',t:'MTcwMDMxMDc0OC45NTMwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

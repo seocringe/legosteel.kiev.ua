@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <!-- v23802 -->
+
+
+  <title>Українізація: часті питання та відповіді &ndash; Пiдтримка</title>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="">
+
+  <meta name="description" content="Навіщо перекладати українською контент інтернет-магазину?  Відповідно до закону «Про забезпечення Функціонування української мови як..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Пiдтримка" />
+<meta property="og:title" content="Українізація: часті питання та відповіді" />
+<meta property="og:description" content="Навіщо перекладати українською контент інтернет-магазину? 
+Відповідно до закону «Про забезпечення Функціонування української мови як державної» весь контент в інтернеті повинен мати українську верс..." />
+<meta property="og:url" content="https://support.prom.ua/hc/uk/articles/360014444077" />
+<link rel="canonical" href="https://support.prom.ua/hc/uk/articles/360014444077-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96">
+<link rel="alternate" hreflang="uk" href="https://support.prom.ua/hc/uk/articles/360014444077-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96">
+<link rel="alternate" hreflang="x-default" href="https://support.prom.ua/hc/uk/articles/360014444077-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-5dedcabe00a896eb2c214ed2973f0975.css" media="all" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" href="//static.zdassets.com/hc/assets/theming_v1_support-e05586b61178dcde2a13a3d323525a18.css" media="all" />
+  <link rel="stylesheet" type="text/css" href="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/style.css?digest=14557196134685">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-09d07e20ce042ef10e301661ad1f316c.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-153977985-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <script type="text/javascript" src="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/script.js?digest=14557196134685"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header uaprom-header">
+  <div class="container">
+    <div class="logo">
+      <a title="Головна" href="/hc/uk">
+      		<img src="//theme.zdassets.com/theme_assets/9422419/3a4f554dc0e52a68af6dfb1933ec9e01bfdcd16c.svg" alt="prom.продавцям">
+      </a>
+      
+      
+    </div>
+    <div class="nav-wrapper">
+      <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Переключити навігаційне меню">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+          <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
+        </svg>
+      </button>
+      <nav class="user-nav" id="user-nav">
+        <a href="https://prom.ua/" target="_blank">Prom.ua</a>
+        <a class="submit-a-request" href="/hc/uk/requests/new">Надіслати запит</a>
+      </nav>
+        <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="Відкриває діалог" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360014444077-%25D0%25A3%25D0%25BA%25D1%2580%25D0%25B0%25D1%2597%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-%25D1%2587%25D0%25B0%25D1%2581%25D1%2582%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25B0-%25D0%25B2%25D1%2596%25D0%25B4%25D0%25BF%25D0%25BE%25D0%25B2%25D1%2596%25D0%25B4%25D1%2596&amp;locale=uk">Увійти</a>
+
+    </div>
+  </div>
+</header>
+
+  <main role="main">
+    <section class="section hero">
+  <div class="hero-inner">
+    <div class="hero-info">
+      <h1 class="hero-title">Чим ми можемо допомогти?</h1>
+    </div>
+    <div class="hero-search-wrapper">
+      <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/uk/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Пошук" autocomplete="off" aria-label="Пошук" /></form>
+      <div class="line"></div>
+    </div>
+  </div>
+</section>
+
+<div class="container uaprom-article-container">
+  <div class="breadcrumbs-container">
+    <ol class="breadcrumbs">
+  
+    <li title="Пiдтримка">
+      
+        <a href="/hc/uk">Пiдтримка</a>
+      
+    </li>
+  
+    <li title="Робота з кабінетом компанії">
+      
+        <a href="/hc/uk/categories/360000787357-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-%D0%B7-%D0%BA%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97">Робота з кабінетом компанії</a>
+      
+    </li>
+  
+    <li title="Кабінет та сайт компанії">
+      
+        <a href="/hc/uk/sections/360001406978-%D0%9A%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82-%D1%82%D0%B0-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97">Кабінет та сайт компанії</a>
+      
+    </li>
+  
+</ol>
+
+  </div>
+
+  <div class="article-container" id="article-container">
+    
+    <aside class="sidebar">
+   
+      <div class="navigation-sidebar mobile-expandable">
+        <div class="sidebar-header">
+          <h3>Категорії</h3>
+        </div>
+        <ul class="nav-list preview" data-locale="uk">
+          <li class="item category-item preview-item"><nav></nav><a>Початок бізнесу в інтернеті</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Як працює маркетплейс</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Правила роботи на Prom.ua</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Оплата та доставка</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Каталог ProSale </a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Робота з кабінетом компанії</a></li>
+        </ul>
+      </div>
+      
+      
+      	
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Пов'язані статті</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCAbeidJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC12iNJTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB%2Fy9oYy91ay9hcnRpY2xlcy8zNjAwMTQ1MzYxOTgtJUQwJUEzJUQwJUJBJUQxJTgwJUQwJUIwJUQxJTk3JUQwJUJEJUQxJTk2JUQwJUI3JUQwJUIwJUQxJTg2JUQxJTk2JUQxJThGLSVEMSU4MCVEMCVCRSVEMCVCMSVEMCVCRSVEMSU4MiVEMCVCMC0lRDAlQjctJUQwJUI0JUQwJUIyJUQwJUJFJUQwJUJDJUQwJUJFJUQwJUIyJUQwJUJEJUQwJUI4JUQwJUJDLSVEMCVCQSVEMCVCRSVEMCVCRCVEMSU4MiVEMCVCNSVEMCVCRCVEMSU4MiVEMCVCRSVEMCVCQwY7CFQ6CXJhbmtpBg%3D%3D--2ce89a64417a2d0c9164df2af1cf353e78c50f9c" rel="nofollow">Українізація: робота з двомовним контентом</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCL6H69JTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC12iNJTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICPQEvaGMvdWsvYXJ0aWNsZXMvMzYwMDIwOTM2NjM4LTgtJUQwJUJFJUQwJUIxJUQwJUJFJUQwJUIyLSVEMSU4RiVEMCVCNyVEMCVCQSVEMCVCRSVEMCVCMiVEMCVCOCVEMSU4NS0lRDAlQkQlRDAlQjAlRDAlQkIlRDAlQjAlRDElODglRDElODIlRDElODMlRDAlQjIlRDAlQjAlRDAlQkQlRDElOEMtJUQwJUJGJUQxJTgwJUQwJUJFJUQwJUI0JUQwJUIwJUQxJThFJUQxJTg3JUQwJUJFJUQwJUIzJUQwJUJFLSVEMSU4MSVEMCVCMCVEMCVCOSVEMSU4MiVEMSU4My0lRDAlOTIlRDAlQjglRDAlQkMlRDAlQkUlRDAlQjMlRDAlQjgtR29vZ2xlLU1lcmNoYW50LUNlbnRlcgY7CFQ6CXJhbmtpBw%3D%3D--c0cf6737f76a4e4c11c2023e14ed7507561dcefd" rel="nofollow">8 обов&#39;язкових налаштувань продаючого сайту. Вимоги Google Merchant Center</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCN4JvdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC12iNJTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICFwEvaGMvdWsvYXJ0aWNsZXMvMzYwMDE3ODg5NzU4LSVEMCVBMCVEMCVCNSVEMCVCQSVEMCVCRSVEMCVCQyVEMCVCNSVEMCVCRCVEMCVCNCVEMCVCMCVEMSU4NiVEMSU5NiVEMSU5Ny0lRDElODklRDAlQkUlRDAlQjQlRDAlQkUtJUQwJUJGJUQwJUJFJUQwJUJBJUQxJTgwJUQwJUIwJUQxJTg5JUQwJUI1JUQwJUJEJUQwJUJEJUQxJThGLSVEMSU4MCVEMCVCNSVEMCVCOSVEMSU4MiVEMCVCOCVEMCVCRCVEMCVCMyVEMSU4My0lRDElODIlRDAlQkUlRDAlQjIlRDAlQjAlRDElODAlRDElOTYlRDAlQjIGOwhUOglyYW5raQg%3D--378a5fd17973ba78f537eff86a812f33ada0417e" rel="nofollow">Рекомендації щодо покращення рейтингу товарів</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJEaaA8BBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC12iNJTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB4C9oYy91ay9hcnRpY2xlcy80NDAyNTk5OTU5MTg1LSVEMCVBMyVEMCVCQSVEMSU4MCVEMCVCMCVEMSU5NyVEMCVCRCVEMSU5NiVEMCVCNyVEMCVCMCVEMSU4NiVEMSU5NiVEMSU4Ri0lRDElODUlRDAlQjAlRDElODAlRDAlQjAlRDAlQkElRDElODIlRDAlQjUlRDElODAlRDAlQjglRDElODElRDElODIlRDAlQjglRDAlQkEtJUQxJTgyJUQwJUJFJUQwJUIyJUQwJUIwJUQxJTgwJUQxJTk2JUQwJUIyBjsIVDoJcmFua2kJ--0e4bbfb940a454d207c6475238adba42182b0209" rel="nofollow">Українізація характеристик товарів</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCrDvNJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCC12iNJTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICBwEvaGMvdWsvYXJ0aWNsZXMvMzYwMDE3ODcxNjU4LSVEMCU5MiVEMCVCOCVEMCVCQyVEMCVCRSVEMCVCMyVEMCVCOC0lRDAlQjQlRDAlQkUtJUQxJTgyJUQwJUJFJUQwJUIyJUQwJUIwJUQxJTgwJUQxJTk2JUQwJUIyLSVEMSU4OSVEMCVCRSVEMCVCMS0lRDAlQkYlRDAlQkUlRDElODIlRDElODAlRDAlQjAlRDAlQkYlRDAlQjglRDElODIlRDAlQjgtJUQxJTgzLSVEMSU4NCVEMSU5NiVEMCVCNC0lRDAlQjQlRDAlQkIlRDElOEYtR29vZ2xlLU1lcmNoYW50LUNlbnRlcgY7CFQ6CXJhbmtpCg%3D%3D--1ef365e4feca89c640bbd9e16adbb7eb03f3c34a" rel="nofollow">Вимоги до товарів, щоб потрапити у фід для Google Merchant Center</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      
+      
+      
+      	<div data-recent-articles></div>
+      
+      
+    </aside>
+
+    <article class="article">
+      <div class="article-wrapper uaprom-article-block">
+        <header class="article-header page-header">
+          <h1 title="Українізація: часті питання та відповіді" class="article-title">
+            Українізація: часті питання та відповіді
+            
+          </h1>
+        </header>
+
+        <section class="article-info">
+          <div class="article-content">
+            <div class="article-body"><h3 id="h_01HCVXRDK8B5XK4QHTZX2VWKBE">
+<img src="/hc/article_attachments/360017223798" alt="Z.png"> Навіщо перекладати українською контент інтернет-магазину?&nbsp;</h3>
+<p><span>Відповідно до закону </span><a href="https://zakon.rada.gov.ua/laws/show/2704-19#Text"><span>«Про забезпечення Функціонування української мови як державної»</span></a><span> весь контент в інтернеті повинен мати українську версію.</span></p>
+<h3 id="h_01HCVXRDK8G9Q018ASKVP6XNPA">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Що робити, якщо деякі товари чи розділи без перекладів?</h3>
+<p><span>Якщо деякі товари або розділи інтернет-магазину не перекладені, ви можете додати переклад українською мовою у відповідному розділі кабінету продавця. Переклад товарів також можна виконати за допомогою імпорту/експорту XLSX</span>.</p>
+<h3 id="h_01HCVXRDK8E8WNX8NDKT5Y1ASP">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Що робити, якщо сайт вже заповнений українською мовою?</h3>
+<p><span>На жаль, автопереклад працює тільки для російського контенту.&nbsp;</span></p>
+<p><span>Якщо ваш сайт за замовчуванням заповнений українською, то після автоперекладу в обох версіях (UA/RU) вашого магазину буде український контент.</span></p>
+<p><a href="http://prntscr.com/uvb1ry"><strong>Поля російською мовою</strong></a><strong> рекомендуємо заповнити російським перекладом тексту, а українською — залишити українськими.</strong><span> Так, при пошуку товарів на Prom.ua та вашому сайті, покупець бачитиме текст відповідною мовою.&nbsp;</span></p>
+<p><span>Якщо ж якогось з перекладів не буде, покупцеві буде важче знайти ваші товари пошуком на Prom та на вашому сайті компанії.</span></p>
+<h3 id="h_01HCVXRDK8KBDVYFXPGNFHZTNX">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Нові товари будуть перекладатись &nbsp;українською автоматично?&nbsp;</h3>
+<p><span>Найближчим часом ми ще будемо автоматично перекладати товари з російської на українську, щоб вам було легше адаптуватись під нові умови. Але з часом автопереклад перестане працювати і вам потрібно буде самостійно працювати з двомовним контентом вашого інтернет-магазину.&nbsp;</span></p>
+<h3 id="h_01HCVXRDK8G2VXV73Z0MZNZQRT">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Чи перекладається автоматично копія товару?</h3>
+<p><span>Так. Проте зверніть увагу,</span><strong> копія товару перекладається автоматично тільки, якщо ви самостійно не редагували україномовний переклад</strong><span>. Якщо ви внесли хоча б мінімальні зміни в україномовну версію контенту — товар автоматично не </span><span>перекладається</span><span>.&nbsp;</span></p>
+<h3 id="h_01HCVXRDK8EM4B5VSK31VM3RJY">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Переклад товару переноситься у різновиди також?</h3>
+<p><span>Так, весь контент картки товару переноситься у різновиди (опис, основні характеристики, пошукові запити, SEO-налаштування). А назва різновиду перекладається автоматично.&nbsp;</span></p>
+<h3 id="h_01HCVXRDK93FRQ2RJRDYVQYH63">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Як товар потрапить до UA/RU видачі Prom.ua?</h3>
+<p><span>Товар потраплятиме до видачі відповідно до обраної мови каталогу Prom.ua чи мобільного додатку Prom.покупки:</span></p>
+<ul>
+<li><span>у RU версії Prom будуть відображатись товари російською мовою, з заповненим російськомовним контентом;</span></li>
+<li><span>в UA версії Prom — в пріоритеті відображаються товари з заповненим україномовним контентом. Товари без україномовного контенту будуть в кінці видачі каталогу.&nbsp;</span></li>
+</ul>
+<p><span>Якщо товар має українську та російську версію перекладів, то він потрапить і до російської, і до української видачі на маркетплейсі Prom.ua.</span></p>
+<p><strong>Якщо один із перекладів не заповнений — товар буде відображатися в кінці списку відповідної видачі на Prom.ua.&nbsp;</strong></p>
+<h3 id="h_01HCVXRDK9H9S5M6T1GMA15S5E">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Як буде відбуватися пошук товарів на Prom?</h3>
+<p><span>Товар відображається користувачеві обраною мовою каталогу Prom.ua. А пошук відбувається </span><strong>російською та українською мовами відповідно.</strong></p>
+<ul>
+<li>
+<span>При роботі з </span><strong>UA версією маркетплейсу, пошук відбувається двома мовами одночасно — по російсько- та україномовних полях</strong><span>, які заповнені в товарах. Тобто покупець може вводити запит і українською, і російською мовою — він знайде шуканий товар у видачі. А контент буде відображатися обраною українською мовою. <br></span>До україномовної видачі в пріоритеті потрапляють товари, у яких заповнені україномовні поля в товарах. Наприклад, при пошуку слова «дневник» в UA версії Пром — ми будемо шукати серед товарів російською мовою в тому числі, але покажемо україномовну версію товару. При цьому, якщо у товару немає україномовного перекладу — він буде в кінці видачі.</li>
+</ul>
+<ul>
+<li>
+<span>При пошуку товарів </span><strong>на RU версії маркетплейсу, пошук відбувається тільки по російськомовних дефолтних полях</strong><span> (нічого не змінюється). Контент відображається російською мовою.</span>
+</li>
+<ul>
+<li><span>Якщо покупець буде шукати товар російською мовою в RU версії каталогу — він отримає товар, який шукає, у видачі. Контент відображатиметься відповідно російською мовою.</span></li>
+<li><span>Якщо покупець буде шукати товар українською мовою в RU версії каталогу — він отримає тільки той товар, у якого дефолтною була україномовна версія контенту, або в пошукових запитах зустрічаються україномовні ключові слова.</span></li>
+</ul>
+</ul>
+<p><span>Заповнюйте переклади своїх товарів українською та російською мовою, адже в категоріях з великим асортиментом покупцям буде важко знайти товари без перекладів.</span></p>
+<p><strong>Важливо! </strong><span>Щоб товар коректно потрапляв і до україномовної, і до російськомовної видачі каталогу — необхідно, щоб контент був заповнений на обох мовах. Перевірте наявність перекладів своїх товарів. А також при створенні нових позицій заповняйте обидві версії перекладу.&nbsp;</span></p>
+<h3 id="h_01HCVXRDK9W38SY3J7VF36T8R0">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Як працює пошук товарів на сайті компанії?&nbsp;</h3>
+<p><span>Видача товарів на сайті компанії працює в залежності від обраної покупцем мови сайту.&nbsp;</span></p>
+<ul>
+<li><span>Якщо мова сайту вибрана українська (UA) — у видачі користувач побачить картки товарів українською мовою. Пошук товару працюватиме незалежно від того, якою мовою покупець вводить пошуковий запит: українською чи російською.&nbsp;</span></li>
+</ul>
+<p><em><span>Наприклад, вводимо </span></em><strong><em>пошуковий запит російською мовою на UA версії сайту</em></strong><em><span>. У видачі буде українська картка товару, яка повністю відповідатиме введеному пошуковому запиту.</span></em></p>
+<ul>
+<li><span>Якщо мова сайту вибрана російська (RU) — у видачі користувач побачить картку товару російською мовою. Пошук працюватиме незалежно від того, якою мовою покупець вводить пошуковий запит: українською чи російською.&nbsp;</span></li>
+</ul>
+<p><em><span>Наприклад, вводимо </span></em><strong><em>пошуковий запит українською мовою</em></strong> <strong><em>на RU версії сайту. </em></strong><em><span>У видачі буде російська картка товару, яка повністю відповідатиме введеному пошуковому запиту.</span></em></p>
+<p><strong>Якщо одна з версій перекладу не заповнена:</strong></p>
+<ul>
+<li>
+<span>Якщо в кабінеті продавця </span><strong>не заповнена</strong><span> назва товару українською — то при пошуку товару будь-якою мовою на UA версії сайту, користувачу буде показано товар російською мовою.&nbsp;</span>
+</li>
+<li>
+<span>Відповідно і для російського контенту.&nbsp; Якщо в кабінеті продавця </span><strong>не заповнена</strong><span> назва товару російською мовою — то при пошуку товару будь-якою мовою на RU версії сайту, користувачу буде показано товар українською мовою.&nbsp;</span>
+</li>
+</ul>
+<p><strong>Важливо! </strong><span>Щоб товар коректно потрапляв і до української, і до російської видачі на сайті компанії — необхідно, щоб контент був заповнений на обох мовах. Перевірте наявність перекладів своїх товарів. А також при створенні нових позицій заповняйте обидві версії перекладу.&nbsp;</span></p>
+<p><span>Якщо один із перекладів не заповнений — товар буде некоректно видаватись на вашому сайті.&nbsp;</span></p>
+<h3 id="h_01HCVXRDK9FQ4S5KRDAF20RP8C">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Чи можу я редагувати автопереклад?</h3>
+<p><span>Так, ви можете вносити зміни у свій контент.</span></p>
+<h3 id="h_01HCVXRDKAA61HP0EAH4S3268R">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Що буде з SEO мого сайту?</h3>
+<p><span>Для розмітки двомовності на сайті ми використовуємо параметр hreflang тега link.</span></p>
+<p><span>Завдяки цьому бот пошукової системи знайде посилання на українську сторінку в html російськомовного url та без проблем проіндексує її.</span></p>
+<p><span>У sitemap.xml ми не будемо додавати українську версію сайту.</span></p>
+<h3 id="h_01HCVXRDKAKC12FBQ78K8ZY56M">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Чи індексується українська версія сайту пошуковою системою?</h3>
+<p>Так. В індекс пошукової системи потраплять всі сторінки вашого сайту: російська та українська. Сторінки українською мовою з'являться у видачі пошукової системи тільки після індексації.</p>
+<h3 id="h_01HCVXRDKA3M26GKNM9M8E6TJ3">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Яка мова сайту або каталогу буде відображатися покупцеві за замовчуванням?</h3>
+<p>Ми не надаємо користувачу будь-якої мови сайту або каталогу за замовчуванням. Користувач буде бачити контент виходячи з його налаштувань.</p>
+<ul>
+<li>Якщо користувач заходив на Prom.ua або на ваш сайт раніше та переглядав його на якійсь мові, то наступного разу, він побачить сайт цією ж мовою. Ця інформація зберігається в cookie.</li>
+<li>Якщо інформації в cookie немає — контент сайту або каталогу буде такою самою мовою, як і мова браузера. Якщо мова браузера українська — показуємо укр.версію. Якщо російська — російську.</li>
+<li>Якщо інформації в cookie немає або система не може визначити мову браузера — показуємо ту версію, на яку користувач перейшов за посиланням. Тобто якщо користувач знайшов посилання з / ua / — то він побачить сайт або каталог українською. Якщо посилання з російським контентом — то російською.</li>
+</ul>
+<p><strong>Важливо! </strong><span>Для всіх товарів, які рекламуються в Google Merchant Center, редирект по мові браузера та cookie не працює. Покупець бачитиме сторінку товару тією мовою, якою ви завантажили її в GMC. Згідно з правилами роботи Google, користувач повинен переглядати сайт саме тією мовою, яка була показана йому в рекламі.&nbsp;</span></p>
+<h3 id="h_01HCVXRDKA6XQFFANCAS454Q25">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Як зрозуміти, які товари мого сайту мають двомовний контент?</h3>
+<p><span>Щоб перевірити, в яких товари контент заповнений на двох мовах, а в яких ні, ви можете скористатися фільтром товарів у кабінеті продавця.</span></p>
+<p><span>Відфільтрувати товари — Переклад на українську — Товари з/без перекладу.</span></p>
+<p><span>Якщо товар потрапив до фільтру «Товар без перекладу», це означає, що поле з україномовним контентом не заповнено.</span></p>
+<p><img src="/hc/article_attachments/360012338278" alt="______________2_.png"></p>
+<h3 id="h_01HCVXRDKASA1E16SAVCXM345S">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Чи зможу я відмовитися від українського перекладу?</h3>
+<p><span>Ні. Відповідно до закону </span><a href="https://zakon.rada.gov.ua/laws/show/2704-19#Text"><span>«Про забезпечення Функціонування української мови як державної»</span></a><span> весь контент в інтернеті повинен мати українську версію.</span></p>
+<h3 id="h_01HCVXRDKA66C2ZX715FRB1GPA">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Коли працює автопереклад?</h3>
+<p><span>Автоматичний переклад буде спрацьовувати лише у разі, якщо немає українського перекладу. Якщо ви займаєтеся перекладом контенту самостійно, автоматично перекладати його ми не будемо:<br></span></p>
+<ul>
+<li><span>якщо при створенні опису ви заповнили український та російський варіант перекладу - автопереклад ми не робимо;</span></li>
+<li><span>якщо ви вже відредагували контент, автоматичний переклад на цю сторінку поширюватися не буде.</span></li>
+</ul>
+<h3 id="h_01HCVXRDKA0SBW55V1JQXJ4V7F">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Чи зможу я зберегти товар без перекладу?</h3>
+<p><span>Так, товар зберігатись буде. Проте якщо користувач не заповнив одну з версій перекладу, він отримає попередження перед збереженням товару.&nbsp;</span></p>
+<h3 id="h_01HCVXRDKAS2P3BDKW02VEX4ZS">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Як буде відображатися меню сайту якщо його не перекладуть?</h3>
+<p><span>Меню сайту в такому випадку буде відображатись російською мовою на двох версія сайту. Рекомендуємо вам заповнити всі переклади українською мовою, щоб не потрапити під штрафні санкції через недотримання</span><a href="https://zakon.rada.gov.ua/laws/show/2704-19#Text"><span> закону про українізацію</span></a><span>.&nbsp;</span></p>
+<h3 id="h_01HCVXRDKB3N6ZEZ8Z4J556GWW">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Якщо у товару немає українського перекладу, а покупець шукає товар українською, то товари російською не потраплять до видачі?</h3>
+<p><span>Якщо покупець шукає на українській версії каталогу українською мовою товари, а у продавця не заповнена укр. версія — товари відображатимуться в кінці видачі з російським контентом. В категоріях з великим асортиментом такі товари буде важко знайти.&nbsp;</span></p>
+<h3 id="h_01HCVXRDKBP7YNDVEEY2MHAVFN">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Чи буде перевірка контенту? Чи можу я заповнити однаковим текстом і українську, і російську версії?</h3>
+<p><span>Ні, перевірки контенту не буде. </span><strong>Але важливо розуміти, що дублювати контент немає сенсу,</strong><span> тому що покупцям буде важко знайти ваші пропозиції у видачі, якщо товар буде без перекладів.&nbsp;&nbsp;</span></p>
+<h3 id="h_01HCVXRDKBT1WEPEKC55JRFBJ3">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Prom несе відповідальність за відсутність українського перекладу на сайтах компанії?</h3>
+<p><span>Ні, ми залишаємо наповнення сайту на розсуд продавця.&nbsp;</span></p>
+<h3 id="h_01HCVXRDKBNHG02NESRCHJTT03">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Як система зрозуміє, якою мовою покупець написав запит у пошуковому рядку?</h3>
+<p><span>Ніяк. Пошук буде за релевантністю запиту та його перекладу (співпадіння назви та пошукового запиту).&nbsp;</span></p>
+<h3 id="h_01HCVXRDKBYGQ083PHZSAS7PC6">
+<img src="/hc/article_attachments/360017223798" alt="Z.png">&nbsp;Що з експортом на Розетку, чи будемо ми експортувати файл з українськими полями?&nbsp;</h3>
+<p>Так, для формату "Прайс-лист для Розетки" вже доступний двомовний імпорт / експорт.</p>
+<h3 id="h_01HCVXRDKBV19E9MXZATFBNDEW">
+<img src="/hc/article_attachments/360017223798" alt="Z.png"> Чи можна відключити російську версію сайту?</h3>
+<p><span>Так, ви можете відключити двомовність вашого сайту і заповнювати його тільки українською. Однак, зверніть увагу на можливі ризики. Відключення російської версії може призвести до значного падіння трафіку, оскільки в індекс пошукової системи потрапляють ваші сторінки і українською, і російською мовою. А отже, сторінок вашого сайту в пошуковій системі стає вдвічі більше, і вас зможе знайти більше покупців. Проте це залишається на ваш вибір.</span></p>
+<p><span>Якщо ви бажаєте відключити російськомовну версію вашого сайту — напишіть нам на&nbsp;<a class="c-link" href="mailto:s@prom.ua" target="_blank" rel="noopener noreferrer">s@prom.ua</a></span><span>.&nbsp;</span></p>
+<p><strong>Зверніть увагу!</strong><span> Щоб відключити двомовність, весь контент на сайті має бути українською (в тому числі на RU версії). Ви можете перекласти його самостійно, або ми скопіюємо наявні переклади товарів з UA в RU версію. Будь ласка, перед подачею заявки переконайтесь, що контент перекладений. Або ж вкажіть у зверненні, що даєте згоду на копіювання перекладів.</span></p>
+<p><span><strong>Важливо!</strong> Якщо ви користуєтесь імпортом, вам треба переконатись, що у файлі імпорту RU поля заповнені українською. Інакше, після відключення двомовності, всі товари на сайті будуть відображатись лише російською, що суперечить закон<a class="waffle-rich-text-link" href="https://zakon.rada.gov.ua/laws/show/2704-19#Text">у </a><a class="waffle-rich-text-link" href="https://zakon.rada.gov.ua/laws/show/2704-19#Text">«Про забезпечення Функціонування української мови як державно</a>ї».</span></p></div>
+
+            <div class="article-attachments">
+              <ul class="attachments">
+                
+              </ul>
+            </div>
+          </div>
+        </section>
+        <footer class="article-footer">
+          
+            <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%3A+%D1%87%D0%B0%D1%81%D1%82%D1%96+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F+%D1%82%D0%B0+%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96&u=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360014444077-%25D0%25A3%25D0%25BA%25D1%2580%25D0%25B0%25D1%2597%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-%25D1%2587%25D0%25B0%25D1%2581%25D1%2582%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25B0-%25D0%25B2%25D1%2596%25D0%25B4%25D0%25BF%25D0%25BE%25D0%25B2%25D1%2596%25D0%25B4%25D1%2596" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=uk&text=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%3A+%D1%87%D0%B0%D1%81%D1%82%D1%96+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F+%D1%82%D0%B0+%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360014444077-%25D0%25A3%25D0%25BA%25D1%2580%25D0%25B0%25D1%2597%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-%25D1%2587%25D0%25B0%25D1%2581%25D1%2582%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25B0-%25D0%25B2%25D1%2596%25D0%25B4%25D0%25BF%25D0%25BE%25D0%25B2%25D1%2596%25D0%25B4%25D1%2596" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=prom.ua&title=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F%3A+%D1%87%D0%B0%D1%81%D1%82%D1%96+%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F+%D1%82%D0%B0+%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360014444077-%25D0%25A3%25D0%25BA%25D1%2580%25D0%25B0%25D1%2597%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-%25D1%2587%25D0%25B0%25D1%2581%25D1%2582%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25B0-%25D0%25B2%25D1%2596%25D0%25B4%25D0%25BF%25D0%25BE%25D0%25B2%25D1%2596%25D0%25B4%25D1%2596" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+          
+        </footer>
+      </div>
+
+      <div class="article-bottom uaprom-article-block">
+        
+          <div class="article-subscribe-container">
+            <p>Бажаєте підписатися на оновлення цієї статті?</p>
+            <a class="article-subscribe" title="Відкриває вікно для входу" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/uk/articles/360014444077-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96/subscription.html">Підписатися</a>
+          </div>
+        
+        
+          <div class="article-votes">
+            <div class="article-votes-question-wrapper">
+              <span class="article-votes-question">Чи була ця стаття корисною?</span>
+              <div class="article-votes-count">
+                <span class="article-vote-label">1 з 1 вважають статтю корисною</span>
+              </div>
+            </div>
+            
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Так" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360014444077-%25D0%25A3%25D0%25BA%25D1%2580%25D0%25B0%25D1%2597%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-%25D1%2587%25D0%25B0%25D1%2581%25D1%2582%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25B0-%25D0%25B2%25D1%2596%25D0%25B4%25D0%25BF%25D0%25BE%25D0%25B2%25D1%2596%25D0%25B4%25D1%2596"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Ні" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360014444077-%25D0%25A3%25D0%25BA%25D1%2580%25D0%25B0%25D1%2597%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%258F-%25D1%2587%25D0%25B0%25D1%2581%25D1%2582%25D1%2596-%25D0%25BF%25D0%25B8%25D1%2582%25D0%25B0%25D0%25BD%25D0%25BD%25D1%258F-%25D1%2582%25D0%25B0-%25D0%25B2%25D1%2596%25D0%25B4%25D0%25BF%25D0%25BE%25D0%25B2%25D1%2596%25D0%25B4%25D1%2596"></a>
+            </div>
+          </div>
+        
+      </div>
+
+      
+    </article>
+    
+  </div>
+</div>
+  </main>
+
+  <footer class="footer uaprom-footer">
+  
+  <div class="footer-inner container uk-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупцям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/uk">Довідка для покупців</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Як купувати з Пром-оплата</a></li>
+          <li><a href="https://my.prom.ua/ua/company_domain_check/check_is_site_on_portal">Перевірка на приналежність сайту до Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцям</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/uk">Довідка для продавців</a></li>
+          <li><a href="https://prom.ua/ua/join-now?source_id=new.footer">Створити сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/ua/how_to_order">Тарифи</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ і Просування в Каталозі ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/ua/terms-of-use">Угода користувача</a></li>
+          <li><a href="https://prom.ua/ua/privacy-policy">Політика конфіденційності</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/sections/360001419538">Правила маркетплейсу</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Інструкція Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусна програма електронний маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Про нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">Про Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Робота в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Адміністрація</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнери</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Офіційні дилери Prom.ua</a></li>-->
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <div class="footer-buttons">
+        <div class="socials">
+          <a class="social youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2217" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="5" width="20" height="15">
+<path d="M22 5H2V19.0007H22V5Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2217)">
+<path class="colorize" d="M21.5835 7.18611C21.4692 6.76243 21.2458 6.37615 20.9355 6.06586C20.6252 5.75558 20.239 5.53216 19.8153 5.41792C18.2545 4.99316 12 4.99316 12 4.99316C12 4.99316 5.74383 4.99316 4.18637 5.41133C3.76175 5.52584 3.37477 5.75015 3.06437 6.0617C2.75397 6.37326 2.5311 6.76107 2.41817 7.18611C2 8.74522 2 12.0001 2 12.0001C2 12.0001 2 15.2549 2.41817 16.8141C2.53211 17.2379 2.75543 17.6243 3.06576 17.9347C3.37609 18.245 3.76254 18.4683 4.18637 18.5822C5.74547 19.0004 12 19.0004 12 19.0004C12 19.0004 18.2562 19.0004 19.8153 18.5822C20.239 18.468 20.6252 18.2446 20.9355 17.9343C21.2458 17.624 21.4692 17.2377 21.5835 16.8141C22 15.2549 22 12.0001 22 12.0001C22 12.0001 21.9951 8.74522 21.5835 7.18611Z" fill="#01011B"/>
+<path d="M10 14.9998L15.1975 12.0001L10 9.00049V14.9998Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2224" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20">
+<path d="M22 2H2V22H22V2Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2224)">
+<path class="colorize" d="M22 12C22 6.47715 17.5229 2 12 2C6.47715 2 2 6.47715 2 12C2 16.9912 5.65684 21.1283 10.4375 21.8785V14.8906H7.89844V12H10.4375V9.79688C10.4375 7.29063 11.9305 5.90625 14.2146 5.90625C15.3084 5.90625 16.4531 6.10156 16.4531 6.10156V8.5625H15.1922C13.95 8.5625 13.5625 9.3334 13.5625 10.125V12H16.3359L15.8926 14.8906H13.5625V21.8785C18.3432 21.1283 22 16.9912 22 12Z" fill="#01011B"/>
+<path d="M15.8926 14.8906L16.3359 12H13.5625V10.125C13.5625 9.33418 13.95 8.5625 15.1922 8.5625H16.4531V6.10156C16.4531 6.10156 15.3088 5.90625 14.2146 5.90625C11.9305 5.90625 10.4375 7.29063 10.4375 9.79688V12H7.89844V14.8906H10.4375V21.8785C11.4729 22.0405 12.5271 22.0405 13.5625 21.8785V14.8906H15.8926Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social instagram" href="https://www.instagram.com/prom.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" fill-rule="evenodd" clip-rule="evenodd" d="M3.67886 3.67886C4.23577 3.12195 4.79268 2.78049 5.45122 2.52439C6.08537 2.27642 6.81301 2.10569 7.88211 2.06098C8.94715 2.0122 9.28862 2 12.0041 2C14.7195 2 15.061 2.0122 16.126 2.06098C17.1911 2.10976 17.9187 2.27642 18.5528 2.52439C19.2114 2.78049 19.7683 3.12195 20.3252 3.67886C20.878 4.23171 21.2195 4.79268 21.4756 5.44715C21.7195 6.0813 21.8902 6.80894 21.939 7.87398C21.9878 8.93902 22 9.28049 22 11.9959C22 14.7114 21.9878 15.0528 21.939 16.1179C21.8902 17.1829 21.7236 17.9106 21.4756 18.5447C21.2195 19.2033 20.878 19.7602 20.3211 20.3171C19.7642 20.874 19.2073 21.2154 18.5488 21.4715C17.9146 21.7154 17.187 21.8862 16.122 21.935C15.0569 21.9837 14.7154 21.9959 12 21.9959C9.28455 21.9959 8.94309 21.9837 7.87805 21.935C6.81301 21.8862 6.08537 21.7195 5.45122 21.4715C4.79268 21.2154 4.23577 20.874 3.67886 20.3171C3.12195 19.7602 2.78049 19.2033 2.52439 18.5447C2.28049 17.9106 2.10976 17.1829 2.06098 16.1179C2.0122 15.0528 2 14.7114 2 11.9959C2 9.28049 2.0122 8.93902 2.06098 7.87398C2.10976 6.80894 2.27642 6.0813 2.52439 5.44715C2.78049 4.79268 3.12195 4.23171 3.67886 3.67886ZM11.8862 17.0854C14.7599 17.0854 17.0894 14.7558 17.0894 11.8821C17.0894 9.00844 14.7599 6.67886 11.8862 6.67886C9.0125 6.67886 6.68293 9.00844 6.68293 11.8821C6.68293 14.7558 9.0125 17.0854 11.8862 17.0854ZM11.8862 15.0041C13.6104 15.0041 15.0081 13.6063 15.0081 11.8821C15.0081 10.1579 13.6104 8.76016 11.8862 8.76016C10.162 8.76016 8.76423 10.1579 8.76423 11.8821C8.76423 13.6063 10.162 15.0041 11.8862 15.0041ZM17.0894 7.71951C17.6642 7.71951 18.1301 7.2536 18.1301 6.67886C18.1301 6.10413 17.6642 5.63821 17.0894 5.63821C16.5147 5.63821 16.0488 6.10413 16.0488 6.67886C16.0488 7.2536 16.5147 7.71951 17.0894 7.71951Z" fill="#01011b"/>
+</svg>
+          </a>
+          <a class="social evobusiness" href="https://evo.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" d="M11.031 11.5268L15.1849 4.95602C12.0355 3.65978 8.39418 4.79454 6.54698 7.7162C4.46876 11.0054 5.45265 15.3723 8.74093 17.451C12.0297 19.5287 16.3963 18.5446 18.4748 15.257C18.8269 14.7014 19.6162 14.524 20.1707 14.8749C20.4479 15.05 20.6406 15.3231 20.7126 15.6433C20.7847 15.9632 20.7279 16.2927 20.5523 16.5703C19.1972 18.7144 17.0841 20.2038 14.602 20.7631C12.1202 21.3223 9.57213 20.8839 7.42784 19.5285C2.99349 16.7254 1.66653 10.8377 4.46945 6.40287C5.82598 4.25858 7.93908 2.76922 10.4207 2.20993C12.9025 1.65018 15.4501 2.08888 17.5942 3.44494C17.8718 3.62051 18.0645 3.89357 18.1366 4.2133C18.2087 4.53372 18.1518 4.86292 17.9763 5.1406L13.109 12.8401C12.7588 13.395 11.9685 13.5731 11.4131 13.2222C10.8411 12.8605 10.6697 12.0995 11.031 11.5268Z" fill="#01011B"/>
+</svg>
+          </a>
+          <!--<a class="social telegram" href="https://t.me/PromBuyerBot?start=WEB" target="_blank"></a>-->
+        </div>
+        <div class="news">
+          <a class="news-btn youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/1d5182860f14ed01108250520472f4920bede6b7.png" alt="youtube">
+            <span>Новини Прому</span>
+          </a>
+          <a class="news-btn facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/e3f308d3542871bdaad40b93fd8c400ccc6be41e.png" alt="facebook">
+            <span>Спільнота продавців</span>
+          </a>
+        </div>
+      </div>
+      <a class="footer-logo" href="https://prom.ua/">
+        <img src="//theme.zdassets.com/theme_assets/9422419/c5f16a937df5454d0c46267e61e1751b7526e144.png" alt="prom.ua">
+      </a>
+    </div>
+    
+  </div>
+  
+  <div class="footer-inner container ru-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупателям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/ru">Справка для покупателей</a></li>
+          <li><a href="https://prom.ua/landing/certification_by_prom">О надежных продавцах</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Как покупать с Prom оплата</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004971837?utm_source=link2support_safe_shopping&amp;utm_medium=Portal&amp;utm_campaign=footer">Рекомендации по безопасным покупкам</a></li>
+          <li><a href="https://my.prom.ua/company_domain_check/check_is_site_on_portal">Проверка на принадлежность сайта к платформе Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцам</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/ru">Справка для продавцов</a></li>
+          <li><a href="https://prom.ua/join-now?source_id=new.footer">Создать сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/how_to_order">Тарифы</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ и Продвижение в Каталоге ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/terms-of-use">Пользовательское соглашение</a></li>
+          <li><a href="https://prom.ua/privacy-policy">Политика конфиденциальности</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/categories/360000787417">Правила пользования порталом</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Руководство Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусная программа электронный маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">О нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">О Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Работа в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/easy_to_sell">Объявления на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Администрация</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнеры</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Официальные дилеры Prom.ua</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column footer-logo">
+        <a href="https://prom.ua/">
+          <img src="//theme.zdassets.com/theme_assets/9422419/23b2936718abda06644b9d4bac2b3b84fee5af02.png" alt="">
+        </a>
+      </div>
+    </div>
+    
+  </div>
+  
+</footer>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/uk.4e5ec0c35b3b52e67901.js"></script>
+  <script src="https://evoservice.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="360000361438" data-return-to="https://support.prom.ua/hc/uk/articles/360014444077-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96" data-theme="hc" data-locale="uk" data-auth-origin="360000361438,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"evoservice","environment":"production","name":"Prom.ua"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"uk","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHdWsGOgZFVDoPYXJ0aWNsZV9pZGwrCC12iNJTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDU8aPOhNoZWxwX2NlbnRlcl9pZGwrCBU4rdFTADoNYnJhbmRfaWRsKwjek7HRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiB3VrBjsGVA==--1aba788a9716025a4b38a4884e0a2452906e1b4c","url":"https://support.prom.ua/hc/activity"},"current_record_id":"360014444077","current_record_url":"/hc/uk/articles/360014444077-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96","current_record_title":"Українізація: часті питання та відповіді","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":360000361438,"account_id":9422419,"name":"prom.ua","active":true,"deleted_at":null,"created_at":"2019-08-22T12:04:01Z","updated_at":"2023-09-19T12:42:48Z","route_id":2940186,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://promua.zendesk.com","current_host_mapping":"support.prom.ua","current_path":"/hc/uk/articles/360014444077-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-%D1%82%D0%B0-%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%96","authentication_domain":"https://evoservice.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.prom.ua/hc/uk","arrange_content_url":"https://support.prom.ua/hc/admin/arrange_contents?locale=uk","general_settings_url":"https://support.prom.ua/hc/admin/general_settings?locale=uk","user_segments_url":"https://evoservice.zendesk.com/knowledge/user_segments?brand_id=360000361438","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":true,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fevoservice.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://evoservice.zendesk.com/knowledge/arrange?brand_id=360000361438","article_verification_url":"https://evoservice.zendesk.com/knowledge/verification?brand_id=360000361438","has_article_verification":true,"guide_language_settings_url":"https://support.prom.ua/hc/admin/language_settings?locale=uk","docs_importer_url":"https://evoservice.zendesk.com/knowledge/import_articles?brand_id=360000361438","content_tags_url":"https://evoservice.zendesk.com/knowledge/content_tags?brand_id=360000361438","community_badges_url":"https://evoservice.zendesk.com/knowledge/community_badges?brand_id=360000361438","community_settings_url":"https://evoservice.zendesk.com/knowledge/community_settings?brand_id=360000361438","gather_plan_state":"subscribed","search_settings_url":"https://evoservice.zendesk.com/knowledge/search_settings?brand_id=360000361438","has_multibrand_search_in_plan":true,"has_search_settings_in_plan":true,"theming_api_version":1,"theming_settings":{"brand_color":"rgba(81, 73, 157, 1)","brand_text_color":"#FFFFFF","text_color":"rgba(3, 3, 3, 1)","link_color":"rgba(6, 112, 235, 1)","background_color":"rgba(255, 255, 255, 1)","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"//theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg","favicon":"//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png","homepage_background_image":"//theme.zdassets.com/theme_assets/9422419/4d82ff3e0c399da29f490bad665d20d5783bc614.svg","community_background_image":"//theme.zdassets.com/theme_assets/9422419/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/9422419/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":false,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true},"has_pci_credit_card_custom_field":true,"current_brand_id":360000361438,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":true,"has_docs_importer":false,"user_preferred_locale":"ru","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_google_analytics_4":true,"has_end_user_2fa":false,"version":"v23802"};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-4ef0d82f9fc65c8a28f659aa3430955f.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-cd240096d8f4c02aeb9762ce9a7a1c1c.js"></script>
+  
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'8280416a7e3034b6',t:'MTcwMDMxMDk0OS43NTEwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

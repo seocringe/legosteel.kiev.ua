@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <!-- v23787 -->
+
+
+  <title>Prom-чат &ndash; Пiдтримка</title>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="">
+
+  <meta name="description" content="Чат - це інструмент для повноцінного, швидкого та зручного спілкування покупців з продавцями у будь-який момент часу та з будь-якого..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Пiдтримка" />
+<meta property="og:title" content="Prom-чат" />
+<meta property="og:description" content="Чат - це інструмент для повноцінного, швидкого та зручного спілкування покупців з продавцями у будь-який момент часу та з будь-якого місця.
+Він призначений для того, щоб дати покупцям та продавцям ..." />
+<meta property="og:url" content="https://support.prom.ua/hc/uk/articles/360005179638" />
+<link rel="canonical" href="https://support.prom.ua/hc/uk/articles/360005179638-Prom-%D1%87%D0%B0%D1%82">
+<link rel="alternate" hreflang="uk" href="https://support.prom.ua/hc/uk/articles/360005179638-Prom-%D1%87%D0%B0%D1%82">
+<link rel="alternate" hreflang="x-default" href="https://support.prom.ua/hc/uk/articles/360005179638-Prom-%D1%87%D0%B0%D1%82">
+
+  <link rel="stylesheet" href="//static.zdassets.com/hc/assets/application-5dedcabe00a896eb2c214ed2973f0975.css" media="all" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" href="//static.zdassets.com/hc/assets/theming_v1_support-e05586b61178dcde2a13a3d323525a18.css" media="all" />
+  <link rel="stylesheet" type="text/css" href="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/style.css?digest=14557196134685">
+
+  <link rel="icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-09d07e20ce042ef10e301661ad1f316c.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-153977985-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+    
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <script type="text/javascript" src="//p29.zdassets.com/hc/theming_assets/9422419/360000361438/script.js?digest=14557196134685"></script>
+</head>
+<body class="">
+  
+  
+
+  <header class="header uaprom-header">
+  <div class="container">
+    <div class="logo">
+      <a title="Головна" href="/hc/uk">
+      		<img src="//theme.zdassets.com/theme_assets/9422419/3a4f554dc0e52a68af6dfb1933ec9e01bfdcd16c.svg" alt="prom.продавцям">
+      </a>
+      
+      
+    </div>
+    <div class="nav-wrapper">
+      <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Переключити навігаційне меню">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+          <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
+        </svg>
+      </button>
+      <nav class="user-nav" id="user-nav">
+        <a href="https://prom.ua/" target="_blank">Prom.ua</a>
+        <a class="submit-a-request" href="/hc/uk/requests/new">Надіслати запит</a>
+      </nav>
+        <a class="login" data-auth-action="signin" role="button" rel="nofollow" title="Відкриває діалог" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005179638-Prom-%25D1%2587%25D0%25B0%25D1%2582&amp;locale=uk">Увійти</a>
+
+    </div>
+  </div>
+</header>
+
+  <main role="main">
+    <section class="section hero">
+  <div class="hero-inner">
+    <div class="hero-info">
+      <h1 class="hero-title">Чим ми можемо допомогти?</h1>
+    </div>
+    <div class="hero-search-wrapper">
+      <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/uk/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="search" name="query" id="query" placeholder="Пошук" autocomplete="off" aria-label="Пошук" /></form>
+      <div class="line"></div>
+    </div>
+  </div>
+</section>
+
+<div class="container uaprom-article-container">
+  <div class="breadcrumbs-container">
+    <ol class="breadcrumbs">
+  
+    <li title="Пiдтримка">
+      
+        <a href="/hc/uk">Пiдтримка</a>
+      
+    </li>
+  
+    <li title="Робота з кабінетом компанії">
+      
+        <a href="/hc/uk/categories/360000787357-%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-%D0%B7-%D0%BA%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97">Робота з кабінетом компанії</a>
+      
+    </li>
+  
+    <li title="Кабінет та сайт компанії">
+      
+        <a href="/hc/uk/sections/360001406978-%D0%9A%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82-%D1%82%D0%B0-%D1%81%D0%B0%D0%B9%D1%82-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97">Кабінет та сайт компанії</a>
+      
+    </li>
+  
+    <li title="Замовлення та повідомлення">
+      
+        <a href="/hc/uk/sections/360001407098-%D0%97%D0%B0%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-%D1%82%D0%B0-%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F">Замовлення та повідомлення</a>
+      
+    </li>
+  
+</ol>
+
+  </div>
+
+  <div class="article-container" id="article-container">
+    
+    <aside class="sidebar">
+   
+      <div class="navigation-sidebar mobile-expandable">
+        <div class="sidebar-header">
+          <h3>Категорії</h3>
+        </div>
+        <ul class="nav-list preview" data-locale="uk">
+          <li class="item category-item preview-item"><nav></nav><a>Початок бізнесу в інтернеті</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Як працює маркетплейс</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Правила роботи на Prom.ua</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Оплата та доставка</a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Каталог ProSale </a></li>
+          <li class="item category-item preview-item"><nav></nav><a>Робота з кабінетом компанії</a></li>
+        </ul>
+      </div>
+      
+      
+      	
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Пов'язані статті</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCB2b%2B9FTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCPYY%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIBri9oYy91ay9hcnRpY2xlcy8zNjAwMDUyMTI5NTctJUQwJUEzJUQwJUJGJUQxJTgwJUQwJUIwJUQwJUIyJUQwJUJCJUQxJTk2JUQwJUJEJUQwJUJEJUQxJThGLSVEMCVCRiVEMCVCRSVEMCVCMiVEMSU5NiVEMCVCNCVEMCVCRSVEMCVCQyVEMCVCQiVEMCVCNSVEMCVCRCVEMCVCRCVEMSU4RiVEMCVCQyVEMCVCOAY7CFQ6CXJhbmtpBg%3D%3D--ab441fa9d72f93145a17333c1a98221c40613f03" rel="nofollow">Управління повідомленнями</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBWOGtJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCPYY%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSICUAEvaGMvdWsvYXJ0aWNsZXMvMzYwMDA3MjQxMjM3LSVEMCU5RSVEMSU4NCVEMSU5NiVEMSU4NiVEMSU5NiVEMCVCOSVEMCVCRCVEMSU5Ni0lRDAlQkYlRDElODAlRDAlQjAlRDAlQjIlRDAlQjglRDAlQkIlRDAlQjAtJUQwJTlGJUQxJTgwJUQwJUJFJUQwJUIzJUQxJTgwJUQwJUIwJUQwJUJDJUQwJUI4LSVEMCVCQiVEMCVCRSVEMSU4RiVEMCVCQiVEMSU4QyVEMCVCRCVEMCVCRSVEMSU4MSVEMSU4MiVEMSU5Ni0lRDAlQjItJUQxJTgwJUQwJUIwJUQwJUJDJUQwJUJBJUQwJUIwJUQxJTg1LSVEMCU5RiVEMSU4MCVEMCVCRSVEMCVCQy0lRDAlQkUlRDAlQkYlRDAlQkIlRDAlQjAlRDElODIlRDAlQjgGOwhUOglyYW5raQc%3D--cabd223a1e1049c3e4acee7cff132a1710076fbc" rel="nofollow">Офіційні правила Програми лояльності в рамках Пром-оплати</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJox%2BNFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCPYY%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB4S9oYy91ay9hcnRpY2xlcy8zNjAwMDQ5ODkzMzgtJUQwJUFGJUQwJUJBLSVEMSU4NCVEMCVCRSVEMSU4MCVEMCVCQyVEMSU4MyVEMSU5NCVEMSU4MiVEMSU4QyVEMSU4MSVEMSU4Ri0lRDAlQjIlRDAlQjglRDAlQjQlRDAlQjAlRDElODclRDAlQjAtJUQwJUJEJUQwJUIwLSVEMCVCQyVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCNSVEMSU4MiVEMCVCRiVEMCVCQiVEMCVCNSVEMCVCOSVEMSU4MSVEMSU5NgY7CFQ6CXJhbmtpCA%3D%3D--65fb0076c9d75542f9918fad094a7f96a7c79deb" rel="nofollow">Як формується видача на маркетплейсі</a>
+        </li>
+      
+        <li>
+          <a href="/hc/uk/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCB1tUcgBBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCPYY%2B9FTADoLbG9jYWxlSSIHdWsGOgZFVDoIdXJsSSIB%2BC9oYy91ay9hcnRpY2xlcy80NDA1NzAyMjU3OTQ5LS0lRDAlOTIlRDElODclRDAlQjAlRDElODElRDAlQkQlRDAlQkUtJUQwJTlBJUQwJUIwJUQxJTgxJUQwJUIwLSVEMCVCNCVEMCVCRSVEMCVCNCVEMCVCMCVEMSU4MiVEMCVCRSVEMCVCQS0lRDAlQjQlRDAlQkIlRDElOEYtJUQwJUIyJUQwJUI4JUQwJUI0JUQwJUIwJUQxJTg3JUQxJTk2LSVEMSU4NyVEMCVCNSVEMCVCQSVEMSU5NiVEMCVCMi0lRDAlQkYlRDAlQTAlRDAlQTAlRDAlOUUtBjsIVDoJcmFua2kJ--66276b2a408dc05e6b507ecf3899d36c287843e8" rel="nofollow">«Вчасно.Каса» - додаток для видачі чеків (пРРО)</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      
+      
+      
+      	<div data-recent-articles></div>
+      
+      
+    </aside>
+
+    <article class="article">
+      <div class="article-wrapper uaprom-article-block">
+        <header class="article-header page-header">
+          <h1 title="Prom-чат" class="article-title">
+            Prom-чат
+            
+          </h1>
+        </header>
+
+        <section class="article-info">
+          <div class="article-content">
+            <div class="article-body"><p><strong><span style="color: #01011b;">Чат</span></strong><span style="color: #01011b;"> - це інструмент для повноцінного, швидкого та зручного спілкування покупців з продавцями у будь-який момент часу та з будь-якого місця.</span></p>
+<p><span style="color: #01011b;">Він призначений для того, щоб дати покупцям та продавцям кращий досвід покупок або продажів, допомагаючи вирішити їх завдання ще швидше, зручніше та простіше.</span></p>
+<h3 id="h_01HD08X678AMTBF2YXQ0V1235P"><span style="color: #01011b;">Переваги для покупця:</span></h3>
+<ul>
+<li><span style="color: #01011b;">Не потрібно довго чекати відповідь продавця у email.</span></li>
+<li><span style="color: #01011b;">Можливість спілкуватися навіть тоді, коли немає можливості відповіді голосом на дзвінок продавця.</span></li>
+<li><span style="color: #01011b;">Не потрібно телефонувати щодо кожній дрібниці та платити за дзвінки.</span></li>
+<li><span style="color: #01011b;">Не потрібно кожного разу пояснювати заново про який товар йде мова.</span></li>
+</ul>
+<h3 id="h_01HD08X678N9AXJ6TZ9Q7NQ740"><span style="color: #01011b;">Переваги для продавця:</span></h3>
+<ul>
+<li><span style="color: #01011b;">Персональне вікно комунікації з клієнтом.</span></li>
+<li><span style="color: #01011b;">Можливість обговорити в реальному часі деталі замовлення, запропонувати покупцеві інший товар та оформити замовлення.</span></li>
+<li><span style="color: #01011b;">Можливість зв'язатися, якщо вже пізній час для телефонування або покупець не відповідає на дзвінок.</span></li>
+<li><span style="color: #01011b;">Можливість комфортно спілкуватися з клієнтом на тлі шуму.</span></li>
+<li><span style="color: #01011b;">Не потрібно кожного разу заново з'ясовувати про який товар йде мова в запиті клієнта.</span></li>
+<li><span style="color: #01011b;">Єдиний канал зв'язку ще до того, як користувач поділився даними або зробив перше замовлення.</span></li>
+</ul>
+<h3 id="h_01HD08X679DS9902ZW8ARE885B"><span style="color: #01011b;">Чат підтримується у:</span></h3>
+<ul>
+<li><span style="color: #01011b;">десктопній версії маркетплейсу;</span></li>
+<li><span style="color: #01011b;">десктопній версії Кабінету продавця;</span></li>
+<li>
+<span style="color: #01011b;">мобільних додатків «</span><a href="https://play.google.com/store/apps/details?id=com.uaprom.deal&amp;hl=ru"><span style="color: #0670eb;">Кабінет продавця Prom.ua</span></a><span style="color: #01011b;">» та «</span><a href="https://play.google.com/store/apps/details?id=by.deal.b2c&amp;hl=ru"><span style="color: #0670eb;">Prom Покупки</span></a><span style="color: #01011b;">».</span>
+</li>
+</ul>
+<h3 id="h_01HD08X679R934KXSX26W8QGNC"><span style="color: #01011b;">Можливості, доступні в чаті вже зараз:</span></h3>
+<ul>
+<li><span style="color: #01011b;">Повноцінно спілкуватися в реальному часі, створювати діалоги.</span></li>
+<li>
+<span style="color: #01011b;">Кросплатформенність - можливість вести переписку між десктопом та додатками («</span><a href="https://play.google.com/store/apps/details?id=com.uaprom.deal&amp;hl=ru"><span style="color: #0670eb;">Кабінет продавця Prom.ua</span></a><span style="color: #01011b;">» та «</span><a href="https://play.google.com/store/apps/details?id=by.deal.b2c&amp;hl=ru"><span style="color: #0670eb;">Prom Покупки</span></a><span style="color: #01011b;">»).</span>
+</li>
+<li><span style="color: #01011b;">Збереження та передача інформації про те, з якої сторінки пише клієнт.</span></li>
+<li><span style="color: #01011b;">Перехід на картку товару прямо із чату.</span></li>
+<li><span style="color: #01011b;">Можливість оформлення замовлення прямо із чату.</span></li>
+<li><span style="color: #01011b;">Можливість переходу з оформленого в чаті замовлення відразу в історію покупок.</span></li>
+<li><span style="color: #01011b;">Push-повідомлення про надходження відповіді та email-повідомлення про створення нового чату.</span></li>
+</ul>
+<h2 id="h_01HD08X67909C7VSDWMBEN65VE"><span style="color: #01011b;">Як це працює</span></h2>
+<p><strong><span style="color: #01011b;">1.</span></strong><span style="color: #01011b;"> Покупець пише в чат продавцеві з картки товару.</span></p>
+<p><span style="color: #01011b;"><img style="height: 279px; width: 602px;" src="https://lh7-us.googleusercontent.com/koa60DTO2yDV7TQ7zIUouz79DTGTYXU-jfv1StyKfr8t0xdcDaj68zLSt_JV7tXNQj-XmiSInWI9SllNCDiMa1sl2vAK97uqx66gMmvyCIQIc1O2xKVLCWalkWc90Ih4HueCCWr4-RUt1xZkqkkF514"></span><span style="color: #01011b;">&nbsp;&nbsp;&nbsp;</span></p>
+<p><em><span style="color: #01011b;">Кнопка чату на маркетплейсі</span></em></p>
+<p><em><span style="color: #01011b;"><img style="height: 827px; width: 414px;" src="https://lh7-us.googleusercontent.com/U7R-rk6tTVS0eyWtV-gQ5nPbRVkM4ADOeZNBmEeW_3MRkngwZXJVmv0WkJ-0yeboGTMR82aPIhIy-iPGG-Pf-FkZxMqAuSo3qg1FqqwclbYYhNhevDEQpZWqlK2b5e8Bq7jXSw04qCANQJWtM1_7-lk"></span></em></p>
+<p><em><span style="color: #01011b;">Кнопка чату у мобільному додатку покупця</span></em></p>
+<p><em><span style="color: #01011b;"><img style="height: 22px; width: 22px;" src="https://lh7-us.googleusercontent.com/o0L0ZzJIJBDQYp0Cmc-lPhaxHw-RzWkhVcnY2JzD2wr7B5K1-k75zkAR6eJzRn3Sf_lUNtUsIkBMP0lMYCNT1TPxpq_sB5DjkzZOmyvjydMzXcS5px7aLOddQb9W4Y4dqc03i4xkTfcZ2tzyk0BL9f8" alt="I.png"></span></em><strong><span style="color: #01011b;"> Зверніть увагу!</span></strong><span style="color: #01011b;"> Покупець повинен обов'язково авторизуватися, щоб мати можливість написати продавцю.</span></p>
+<p><span style="color: #01011b;"><img style="height: 276px; width: 602px;" src="https://lh7-us.googleusercontent.com/1CiYybRUssPFUH275el_c35WRt5DeJVvcIJ6A1x-MNjbSzYsb9qYYlMbApc0ew12Uk-sosLG0UYYmkpu2KAoKbOrqjbevurkzk_bb5iPjANieqck8lGOUfqiqyqE9-uUC5XMBjw7SXW8plyVfOEbxVE"></span></p>
+<p><em><span style="color: #01011b;">Авторизація на маркетплейсі</span></em></p>
+<p><em><span style="color: #01011b;"><img style="height: 834px; width: 419px;" src="https://lh7-us.googleusercontent.com/DQs-ufaZeHp0NEoKCoUg-a7dSwvFZRYmUNKfpjGHmYMfiDqSi7FE4LdcWi0tiO1gsrEJ7MEFdGaZ8dYwgNm37BikeYRQGqTMLgffDAfwqCz0_uUSDGjL9sX37-cGrtj7_EtCxo_1Hkx41Q3ctgGdWgs"></span></em></p>
+<p><em><span style="color: #01011b;">Авторизація у мобільному додатку покупця</span></em></p>
+<p><strong><span style="color: #01011b;">2.</span></strong><span style="color: #01011b;"> Продавець бачить повідомлення у чаті та може відповісти на нього, перейти на картку товару або оформити замовлення прямо із чату.</span></p>
+<p><span style="color: #01011b;"><img style="height: 453px; width: 274px;" src="https://lh7-us.googleusercontent.com/c6VBhw6mQgQ03i-plVAdEk_p9818A8w4UAYQPRjaoFHVVfGLk--cqNfbEbbBPlVkp6Ca0_hRz9p9nWjb5e_AYRIrFot_Ir0J2fqgAghw-7K4oZkGrq3b3vmYhc9d9nCLYCwT-pKBc1YMIgwaij-24vk"></span><span style="color: #01011b;">&nbsp; &nbsp; </span><span style="color: #01011b;"><img style="height: 459px; width: 228px;" src="https://lh7-us.googleusercontent.com/hERHc8INbXJu4MvFKq_oQoJaFfA2TcC_HtulTknNd1boVaE38MjtPV0Y7btsAGZY9ktw6Qh3ZuVpyxDPOuNVejBuuF67b4CY_x_nMWggkzj6-clJxnEmCkvlq2C65qqEk9u7IRiazniRcbKE-rED5pQ"></span></p>
+<p><em><span style="color: #01011b;">Вікно чату в Кабінеті продавця/Вікно чату в мобільному додатку «Кабінет продавця Prom.ua»</span></em></p>
+<p><span style="color: #01011b;">Далі чат буде доступний з усіх сторінок маркетплейсу, кабінету, а також у розділі «Чат» мобільного додатка. Покупець та продавець можуть у будь-який момент продовжити спілкування в чаті.</span></p>
+<p><span style="color: #01011b;">Нові повідомлення відображаються жовтою міткою на значку чату та на повідомленні.</span></p>
+<p><span style="color: #01011b;"><img style="height: 59px; width: 134px;" src="https://lh7-us.googleusercontent.com/UPrNYVxSlJF3Rw0IJuBCge-PKAN7QJiqqYS-XCqNY_6mwxPZFYbCLLtP9f8J1_qVYLEJ8zCFeFJtLbxe4Z5OJTDQTR2CJkSCDdc_7a90ahUGI41EKA7W2Oyeqjt9SiEsd31HXsT-57i8czaR4F8C7nw"></span><span style="color: #01011b;"> &nbsp; </span><span style="color: #01011b;"><img style="height: 187px; width: 370px;" src="https://lh7-us.googleusercontent.com/VUTwKnLmvR5eGXZc_OgbUHF1cZQXYkZSRp0NqDhd6JMmU3sGsHrAPV4OiM_v0E-DHN5N5cdDo1YlkPDAztcxEqDXGDJCsa0wywSBcJ0jNwfOlfhQbsKEN6La9JpMyJuhJBVyFrp3HfSZ8Cd5rI311_Y"></span><span style="color: #01011b;">&nbsp;</span></p>
+<p><span style="color: #01011b;">Якщо в чаті є нове повідомлення, то змінюється вигляд вкладки кабінету, та на ньому теж відображається жовта мітка.</span></p>
+<p><span style="color: #01011b;"><img style="height: 103px; width: 276px;" src="https://lh7-us.googleusercontent.com/ViWVmfbjxYTCXkNWtGmBTkoLBdkO_nyqFLTnongIUBl_9X0i7J0A1VXhJWVdv9k4nGwMv4ZuG4U-MhycMf-ZR1NKG_BhfU9llml92HKN_mp3Pah04r2z4OsrVVQ0yxqsIhd7eprEGTaaIStwgEjCUZo"></span></p>
+<h3 id="h_01HD08X679EAC5XZ8FDC2QC57R"><span style="color: #01011b;">Чи може продавець першим написати покупцю в чаті?</span></h3>
+<p><span style="color: #01011b;">Так, продавець може написати покупцю першим щодо замовлень </span><strong><span style="color: #01011b;">з</span></strong> <strong><span style="color: #01011b;">каталогу Prom </span></strong><span style="color: #01011b;">або </span><strong><span style="color: #01011b;">додатку Prom покупки</span></strong><span style="color: #01011b;">.&nbsp;</span></p>
+<p><span style="color: #01011b;">На сторінці таких замовлень у</span><strong><span style="color: #01011b;"> веб-версії кабінету</span></strong><span style="color: #01011b;"> відображається кнопка «Чат з покупцем».</span></p>
+<p><span style="color: #01011b;"><img style="height: 301px; width: 602px;" src="https://lh7-us.googleusercontent.com/7IPJ5eNsxjZMa1kGT94-YDAZkuz-FbPu5LqMEBqEL3DW5QFR504C4uUIzROUTSValP6PaTCs1IeOOYjUD_-qQdCx7Nxss4NjGrDvzfSPvC0uoT6xiplL59Jewv3CJB-Z0KYSzsZhT__UG8vYe30QnuA"></span></p>
+<p><span style="color: #01011b;"><img style="height: 23px; width: 23px;" src="https://lh7-us.googleusercontent.com/nI0sR62sTd6qb6rb1PkuiYopY3ddYfm9qa8UvAJyr8gt_V8_LokJzZITs-sdx8AP-pDpTjvFCzHYG3G9g0zDo1bSgCK5dHaeNqq7iSa1CysqjIGBLTNvYUWa8G-6VzTW1jozxJ9vxYnFutQyt_Wp3RE" alt="I.png"></span><span style="color: #01011b;"> В додатку «Кабінет продавця Prom» можливість розпочати діалог з покупцем в чаті з'явиться пізніше.</span></p>
+<p><span style="color: #01011b;">Кнопка чату недоступна, якщо чат вимкнено у налаштуваннях </span><a href="https://my.prom.ua/cms/settings/shop"><span class="wysiwyg-underline" style="color: #1155cc;">інтернет-магазину</span></a><span style="color: #01011b;">, а також для замовлень з сайту.&nbsp;</span></p>
+<p><span style="color: #01011b;">В чат автоматично передається ім'я покупця, склад та сума замовлення.&nbsp;</span></p>
+<p><span style="color: #01011b;">Також відображаються статуси замовлень — «Оформлено», «Прийнято», «Виконано» тощо. Власні статуси (наприклад, «Готується до відправлення») не передаються в чат.</span></p>
+<p><span style="color: #01011b;"><img style="height: 312px; width: 602px;" src="https://lh7-us.googleusercontent.com/dTH6EfvthJ-dvMdsnI9DEY4LfN3WM9vmrptW4duUs0hCRM1GwAmm4EQDtVixaCibYuUvv8MgxbZVVHV43fD7aOdTQLy5f0g7hpW2PRczLZVZOKyS8amF9tI8obJLJb5sz8i3AEk1SA8yr-XvLhqFZxs"></span></p>
+<p><span style="color: #01011b;">Покупець отримає від Prom сповіщення про повідомлення в чаті. Якщо він встановив додаток «Prom покупки», йому надійде сповіщення на мобільний та лист на електронну пошту. Якщо додатка немає — Viber або SMS та лист.</span></p>
+<p><span style="color: #01011b;">Для покупця це виглядає так:</span></p>
+<p><span style="color: #01011b;"><img style="height: 672px; width: 400px;" src="https://lh7-us.googleusercontent.com/CUZBb989TwfRYD8D7Hvh4PebbCNrW9iNJxvRLS1XTxlNcOBLUvb1CXiXx5nAzMrKeLnxZqzF632wEeaR-rslW5TiS240Txh2vga1BhDs2dWYzgmWxaavI83lQKr6ycC8N8RqFqTRay5Hk_bHSKe7Ngg"></span></p>
+<p><em><span style="color: #01011b;">Сповіщення у додатку покупця</span></em></p>
+<p><em><span style="color: #01011b;"><img style="height: 351px; width: 602px;" src="https://lh7-us.googleusercontent.com/K9P2W87D_BTc4gIP4eKHBm8Ket-Jx2rZ6_omwF5cIFWwB36xCcLY4bkBw24yLD2ozDBeBouFV1M_i_4nKGiZzQOgEwSEv-MW2H29yi4FYelOEsN_e3uB2KGTCDDEOOhGo3V8ArmNUaSqaef720Pc2_Y"></span></em></p>
+<p><em><span style="color: #01011b;">Повідомлення у viber</span></em></p>
+<p><em><span style="color: #01011b;"><img style="height: 375px; width: 602px;" src="https://lh7-us.googleusercontent.com/uwMwav84TBKuLklCcOyuSk8ad-1-a-yPNxllyhk1U3imn03EG3F8fEwp2XybjTMgFp29sksp5ur_F5fp1fXp9_JBOr4hgMK2vqSxkRK_cReOYU_OpdAOE4a-pkqUSfP1NDxou4cka2VTbBbfaIbGGAI"></span></em></p>
+<p><em><span style="color: #01011b;">Лист на електронну пошту</span></em></p>
+<p><span style="color: #01011b;">Якщо покупець авторизований на Prom, він отримає сповіщення навіть у випадку, коли вкаже неправильний номер телефону. Наприклад, помилиться цифрою при оформленні замовлення. Комунікація про повідомлення в чаті надійде на номер, що був вказаний при реєстрації на Prom.</span></p>
+<h3 id="h_01HD08X67AC62JBMSJ4K5WV1YK"><span style="color: #01011b;">Історія повідомлень</span></h3>
+<p><span style="color: #01011b;">Переглянути історію повідомлень в чаті можна:</span></p>
+<ul>
+<li>
+<span style="color: #01011b;">при натисканні на кнопку чату в кабінеті компанії;</span><span style="color: #01011b;"><br></span><span style="color: #01011b;"><img style="height: 281px; width: 303px;" src="https://lh7-us.googleusercontent.com/gc3qO3OYCKIyGJP9QrqivuCWX10V3M6MSjLZTHYdeSjVvEroYaeHfq0tscSZN-fmvWcZfffQLWt4m5D6b8dfJtj9sGQ0A6Bl4T-mou3hvGDjeXojchXPiXQlnl-BPPduv47uVzuEC5kqABXN1Z5P6T8"></span>
+</li>
+<li>
+<span style="color: #01011b;">в розділах чату в додатках «Кабінет продавця Prom.ua» та «Prom Покупки».</span><span style="color: #01011b;"><br></span><span style="color: #01011b;"><img style="height: 427px; width: 243px;" src="https://lh7-us.googleusercontent.com/zZZvqmBLR84VMeMmYHNlNMNUINGQKl3c8FR3VhCp0ON-5nFsAuUZBmWaZRHH0yRxpE2_2zhFNIZBg7Z_TCk3Gdu4-sleBIls3eOeQX_QntCoesfRr8dlV1-orLsTcD8dlmiQQ66R2aPaR92kV1RHd0w"></span><span style="color: #01011b;"> &nbsp; </span><span style="color: #01011b;"><img style="height: 389px; width: 219px;" src="https://lh7-us.googleusercontent.com/HsdnqzX6Yrovlpv6Ps0BxwZXvXXAwhDGT0UtpeZFQJ1HaILH5HwJdirGenL_02lEtWDPeeRNwPTiHI8YPctiOspb1kMe0n81-4LjoBUjUME9Fv5TMnb-rxS4WKkFrwHjM3YfJzlHW-XrpiYso-8oV00"></span><span style="color: #01011b;"><br></span><em><span style="color: #01011b;">Розділ чату в додатку «Кабінет продавця Prom.ua»</span></em><em><span style="color: #01011b;"><br></span></em><span style="color: #01011b;"> &nbsp; </span><span style="color: #01011b;"><img style="height: 472px; width: 241px;" src="https://lh7-us.googleusercontent.com/9Kw7kIHoRfdHzTxSPuZEau3e9VSmeCeBM5EDq3Dxpa33wrMn0MF1W_IXlMCnY0BolR8waklQ6K2xsTPgejTK62BRKUA_hq8K3S5gYAwnydzcGM69U6nJji_u1GPnQgSc8HalomU0WiXtromKAvgNbbY"></span><span style="color: #01011b;"><br></span><em><span style="color: #01011b;">Розділ чату в додатку «Prom Покупки»</span></em>
+</li>
+</ul>
+<p><span style="color: #01011b;">При відкритті вікна чату відображається вкладка «Активні чати». Повідомлення старше 7 днів архівуються та переносяться у розділ «Архів чатів» (в тому числі непрочитані повідомлення). Повідомлення від заблокованих співрозмовників переносяться у розділ «Заблоковані чати». Перейти з одного розділу до іншого можна за допомогою меню, що розкривається.</span></p>
+<p><span style="color: #01011b;"><img style="height: 22px; width: 22px;" src="https://lh7-us.googleusercontent.com/wQo_HpY2JSlTcRLI76HOMFio4vPIuT3uJd2GiE71iSx7A7O_cvVVMt9wnlyIwKh8_X8IxrjY5D49DmgKp8WVa9-Nfx-pEupu2MDefaOrncIuJlFhvrYrpV4Bam_syLiVcJOFYbY7dDsPcPSHs07fYIM" alt="I.png"></span><strong><span style="color: #01011b;"> Зверніть увагу!</span></strong><span style="color: #01011b;"> Архівні чати доступні тільки у веб-версії Кабінету.</span></p>
+<p><span style="color: #01011b;"><img style="height: 136px; width: 255px;" src="https://lh7-us.googleusercontent.com/1b60b_L4A3kEid490wCJta9aDLZjM7g_eDYH4Gjx8WVAsYBE70xNbkTMBl4T55OydC2cMT4i_wP7OULRmqeS0djLEpyWM1gKPiZtwBg3vKXhl4D4X4l4zIJvMCz05fQK4-2NDzvinSdLDQ8kQLuF6hg"></span></p>
+<p><span style="color: #01011b;">У чаті відображаються окремі вкладки для повідомлень від покупців та повідомлень від продавців, як для активних чатів, так і для архівних та заблокованих. Користувач може писати від імені компанії або покупця.</span></p>
+<p><span style="color: #01011b;"><img style="height: 212px; width: 285px;" src="https://lh7-us.googleusercontent.com/De6tu1kWiuI9OIVYZ1tsLP7SUgAExhj4A9GJfaHn_0SIwlq2xrAvcSqeGsPJE7DXMAGNPncuMnU_--_EZjPoAG5tcoLfxbaUPcJKAReDXGmeAEUEW7fCzZC5wPJXbJw25orl7AbLK16oJCLiilmaiGI"></span></p>
+<p><span style="color: #01011b;">Для власних повідомлень відображаються статуси відправки:</span></p>
+<ul>
+<li><span style="color: #01011b;">не відправлено;</span></li>
+<li><span style="color: #01011b;">✓ — доставлено;</span></li>
+<li><span style="color: #01011b;">✓✓ — прочитано;</span></li>
+<li><span style="color: #01011b;">помилка відправки.</span></li>
+</ul>
+<p><span style="color: #01011b;">При наведенні покажчика миші на значок відображається підказка з назвою статусу.</span></p>
+<p><span style="color: #01011b;"><img style="height: 230px; width: 351px;" src="https://lh7-us.googleusercontent.com/KTWdTbW-8wUlP08P8Iyjz7S2nyvQ-Z-ZN7gl54pAuJIQygVK4PGFsNPnLSqHMRTZ9GLnijyjHlYerkdVtdjNj0o5hdCDI525Y4kJJ3fflRwburD2Yafy7QZWENlljgx7hEjgYP8bZDaOQ3_gqrJbots"></span></p>
+<h3 id="h_01HD08X67AA2ESSRB196M1V3JJ"><span style="color: #01011b;">Перегляд профілю покупця/продавця</span></h3>
+<p><span style="color: #01011b;">Для перегляду профілю співрозмовника відкрийте чат і натисніть на ім'я покупця або продавця в заголовку вікна.</span></p>
+<p><span style="color: #01011b;"><img style="height: 141px; width: 305px;" src="https://lh7-us.googleusercontent.com/eAog9KogtV90Nlhq4cRhkX7d8wf508XA8Ue54iGkn3DOOmy4AnAafM9rfW3kms523abJG0JlxrRLwibu2La7g-GGxgi6cWzHMnOM6v177HThOL7KIPaTqmOqnu-SX9qfGgxoKgRYpzNnPiJX1R0k9CE"></span></p>
+<p><span style="color: #01011b;">З'явиться сторінка інформації про покупця або продавця.</span></p>
+<p><span style="color: #01011b;"><img style="height: 469px; width: 278px;" src="https://lh7-us.googleusercontent.com/DDzu4UPwdQXI4wghOTiZlpw2jPvNyuxERxTWa3v-nyx9VZA0jsay808C5wuXuzAFtDehh94u7_ne0zBibHu2uAkeNIGNag-5597tHbu3t3HVjXnpD7BHto6nUkvWodsPrplGOw0TIq4gtKkysr43ZDo"></span><span style="color: #01011b;">&nbsp; &nbsp; </span><span style="color: #01011b;"><img style="height: 467px; width: 282px;" src="https://lh7-us.googleusercontent.com/VOZjdemWCIBFroPuTGoToQKUHcEu3f6Roq8H_AO-tLs5B2r4v_pSEMZo0cQ6uhfcw492E12m4U0EAK4hyuW3mxIJs_RFPgsMF3Wa29rbhtjlIgb65URV8EZ6yDoWVD3LQwFnlCDO0KZ2wFpUgxBEhaU"></span></p>
+<h3 id="h_01HD08X67ASCHCKBMH63HX42FG"><span style="color: #01011b;">Блокування покупця/продавця</span></h3>
+<p><span style="color: #01011b;">Щоб заблокувати небажаного співрозмовника, відкрийте сторінку профілю покупця/продавця та натисніть кнопку </span><strong><span style="color: #01011b;">Заблокувати покупця</span></strong><span style="color: #01011b;"> або </span><strong><span style="color: #01011b;">Заблокувати продавця</span></strong><span style="color: #01011b;">.</span></p>
+<p><span style="color: #01011b;">З'явиться сторінка підтвердження блокування, на якій потрібно ще раз натиснути кнопку </span><strong><span style="color: #01011b;">Заблокувати покупця</span></strong><span style="color: #01011b;"> або </span><strong><span style="color: #01011b;">Заблокувати продавця</span></strong><span style="color: #01011b;">.</span></p>
+<p><span style="color: #01011b;"><img style="height: 378px; width: 255px;" src="https://lh7-us.googleusercontent.com/Fz8Zg8tk3w92RhlIfvht4_gsAu76rn2IkMA5t1bLfTnmDGRNsOG72IYSEVzlEk8OhWN3F8EFUFl9Jgc3uJYC8mvciY768Ea2dmGAIMTP6f_qYuNOOXMUkfvHebnm1sEF2FmmezaklkrXOxQm9-NeEJ8"></span><span style="color: #01011b;"> &nbsp; </span><span style="color: #01011b;"><img style="height: 378px; width: 236px;" src="https://lh7-us.googleusercontent.com/j6OX8ZoQ7BLoLS0dItxZX13F9I9SJ2Hj6YWI7LiC58RSpeQRhu5rGB9MyF18lC1e6ZiDNb6VK3RvEIRHFOcjDzqc_PiINnt6YYWm65H9d3LzAFTMdawb9CBAB6zoXR2DWviTz0kclzr2iwF05pTIUVI"></span></p>
+<p><span style="color: #01011b;">Після цього чати зі співрозмовником переносяться до розділу «Заблоковані чати».</span></p>
+<p><span style="color: #01011b;"><img style="height: 202px; width: 412px;" src="https://lh7-us.googleusercontent.com/CUvQ5PndqC6G7Tk6oVFpwyXnGj0XoUWynMjy86nVdxP3nltW3YYLrVm6myfT26noDby_ews63qkrLwdgELVgiXiSofyKr69HN5h0QEP_bx_Tn0kw6SIWnYMqSYMu19qCmIIza7mk4zWg3SB4_C_eF5o"></span><span style="color: #01011b;">&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p><span style="color: #01011b;">Для розблокування співрозмовника перейдіть до розділу «Заблоковані чати», відкрийте сторінку профілю покупця/продавця або натисніть на посилання «Розблокувати».</span></p>
+<p><span style="color: #01011b;"><img style="height: 549px; width: 329px;" src="https://lh7-us.googleusercontent.com/fsrQIRNNl4VQnkE63PpCMqw_LiTJZmgdZSL7Hw8T4q9-2yGXqDji2yQ1rknjlFoNs4pbPDyKyYjdG6JLI4_sf-R-IF4C6zaJ-1LUcR7bQVwG4ftOhcP3mftXPVICdDhnaZhswrTOocunSqz7PPXv3n0"></span></p>
+<p><span style="color: #01011b;">На сторінці профілю натисніть кнопку </span><strong><span style="color: #01011b;">Розблокувати покупця</span></strong><span style="color: #01011b;"> або </span><strong><span style="color: #01011b;">Розблокувати продавця</span></strong><span style="color: #01011b;">. На сторінці підтвердження ще раз натисніть кнопку </span><strong><span style="color: #01011b;">Розблокувати</span></strong><span style="color: #01011b;">. Після цього чати зі співрозмовником переносяться в розділ «Активні чати».</span></p>
+<h3 id="h_01HD08X67ADYYVN1WRFE454CNF"><span style="color: #01011b;">Включення чату в кабінеті компанії</span></h3>
+<p><span style="color: #01011b;">Спочатку чат включений у всіх компаній за замовчуванням, та буде активований, як тільки хтось із покупців почне перший діалог. Надалі, при бажанні, компанія може відключити чат у налаштуваннях свого кабінету:</span></p>
+<ul>
+<li>
+<span style="color: #01011b;">в кабінеті у розділі «Налаштування/Інтернет-магазин»;</span><span style="color: #01011b;"><br></span><span style="color: #01011b;"><img style="height: 155px; width: 602px;" src="https://lh7-us.googleusercontent.com/x2n6f0Qe20wPT6cwnHiSNTVkRgvmZoTvIRWhFs0G-JzgHIyWbNCcK5B1P1kRHtZaZY505HDjPA1KLnaT_LldBgPFMezgERCniFM9ZLcqDu_tp2lwlTuZ4ccocUZuHZZFUS-B9ut--vfxcKG9rdHES_0"></span>
+</li>
+<li>
+<span style="color: #01011b;">в мобільному додатку «Кабінет продавця Prom.ua» в розділі «Налаштування».</span><span style="color: #01011b;"><br></span><span style="color: #01011b;"><img style="height: 814px; width: 408px;" src="https://lh7-us.googleusercontent.com/FW6CH28Stmr6rPg8VogIN6tS-UFYTrksuT3NAGEpxACAREv1_BwRJY6gyqeFhLOhTeY--Xekvh13kL9Vfrr_XL6CxeqHZtX8lykllvE3m-LlqGs32AS3CcZzduEufWo_BjzdbBSnzMrjfOwCfXN2BxA"></span>
+</li>
+</ul>
+<h3 id="h_01HD08X67BV4145MHSN56CYTXR"><span style="color: #01011b;">Доступність чату менеджерам</span></h3>
+<p><span style="color: #01011b;">Чат та можливість відповідати в ньому доступна власнику магазину та менеджерам магазину з роллю «Менеджер з продажу», доданою у розділі «Налаштування - Менеджери».</span></p>
+<p><span style="color: #01011b;">Також їм доступні пуш-повідомлення у браузері та звуковий сигнал про нове повідомлення в чаті (якщо вони включені в розділі «Налаштування - Профіль»), мобільні пуш-повідомлення, відображення жовтої мітки на значку чату та на вкладці браузера.</span></p>
+<p><span style="color: #01011b;"><img style="height: 22px; width: 22px;" src="https://lh7-us.googleusercontent.com/3XqCTXgWSgmM46syUYsg7GMhkonCsCO1dQva-HDBPvRi91i2z1qlliBFSyIyZptogXR7SX3SqzxTJ0RsDzl6QHaMJtn-emoqwNso-dp1qTuCjRvRZgtLB_ks_La1y8yLPmd4YTSVVq__ixRROog9PAI" alt="I.png"></span><strong><span style="color: #01011b;"> Зверніть увагу!</span></strong><span style="color: #01011b;"> Сповіщення на пошту про нове повідомлення в чат надходять тільки власнику.</span></p></div>
+
+            <div class="article-attachments">
+              <ul class="attachments">
+                
+              </ul>
+            </div>
+          </div>
+        </section>
+        <footer class="article-footer">
+          
+            <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=Prom-%D1%87%D0%B0%D1%82&u=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005179638-Prom-%25D1%2587%25D0%25B0%25D1%2582" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=uk&text=Prom-%D1%87%D0%B0%D1%82&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005179638-Prom-%25D1%2587%25D0%25B0%25D1%2582" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=prom.ua&title=Prom-%D1%87%D0%B0%D1%82&url=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005179638-Prom-%25D1%2587%25D0%25B0%25D1%2582" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+          
+        </footer>
+      </div>
+
+      <div class="article-bottom uaprom-article-block">
+        
+          <div class="article-subscribe-container">
+            <p>Бажаєте підписатися на оновлення цієї статті?</p>
+            <a class="article-subscribe" title="Відкриває вікно для входу" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/uk/articles/360005179638-Prom-%D1%87%D0%B0%D1%82/subscription.html">Підписатися</a>
+          </div>
+        
+        
+          <div class="article-votes">
+            <div class="article-votes-question-wrapper">
+              <span class="article-votes-question">Чи була ця стаття корисною?</span>
+              <div class="article-votes-count">
+                <span class="article-vote-label">0 з 0 вважають статтю корисною</span>
+              </div>
+            </div>
+            
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Так" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005179638-Prom-%25D1%2587%25D0%25B0%25D1%2582"></a>
+              <a class="button article-vote article-vote-down" data-auth-action="signin" aria-selected="false" role="radio" rel="nofollow" title="Ні" href="/hc/uk/signin?return_to=https%3A%2F%2Fsupport.prom.ua%2Fhc%2Fuk%2Farticles%2F360005179638-Prom-%25D1%2587%25D0%25B0%25D1%2582"></a>
+            </div>
+          </div>
+        
+      </div>
+
+      
+    </article>
+    
+  </div>
+</div>
+  </main>
+
+  <footer class="footer uaprom-footer">
+  
+  <div class="footer-inner container uk-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупцям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/uk">Довідка для покупців</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Як купувати з Пром-оплата</a></li>
+          <li><a href="https://my.prom.ua/ua/company_domain_check/check_is_site_on_portal">Перевірка на приналежність сайту до Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцям</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/uk">Довідка для продавців</a></li>
+          <li><a href="https://prom.ua/ua/join-now?source_id=new.footer">Створити сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/ua/how_to_order">Тарифи</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ і Просування в Каталозі ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/ua/terms-of-use">Угода користувача</a></li>
+          <li><a href="https://prom.ua/ua/privacy-policy">Політика конфіденційності</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/sections/360001419538">Правила маркетплейсу</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Інструкція Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусна програма електронний маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Про нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">Про Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Робота в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Адміністрація</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнери</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Офіційні дилери Prom.ua</a></li>-->
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <div class="footer-buttons">
+        <div class="socials">
+          <a class="social youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2217" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="5" width="20" height="15">
+<path d="M22 5H2V19.0007H22V5Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2217)">
+<path class="colorize" d="M21.5835 7.18611C21.4692 6.76243 21.2458 6.37615 20.9355 6.06586C20.6252 5.75558 20.239 5.53216 19.8153 5.41792C18.2545 4.99316 12 4.99316 12 4.99316C12 4.99316 5.74383 4.99316 4.18637 5.41133C3.76175 5.52584 3.37477 5.75015 3.06437 6.0617C2.75397 6.37326 2.5311 6.76107 2.41817 7.18611C2 8.74522 2 12.0001 2 12.0001C2 12.0001 2 15.2549 2.41817 16.8141C2.53211 17.2379 2.75543 17.6243 3.06576 17.9347C3.37609 18.245 3.76254 18.4683 4.18637 18.5822C5.74547 19.0004 12 19.0004 12 19.0004C12 19.0004 18.2562 19.0004 19.8153 18.5822C20.239 18.468 20.6252 18.2446 20.9355 17.9343C21.2458 17.624 21.4692 17.2377 21.5835 16.8141C22 15.2549 22 12.0001 22 12.0001C22 12.0001 21.9951 8.74522 21.5835 7.18611Z" fill="#01011B"/>
+<path d="M10 14.9998L15.1975 12.0001L10 9.00049V14.9998Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_161_2224" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20">
+<path d="M22 2H2V22H22V2Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_161_2224)">
+<path class="colorize" d="M22 12C22 6.47715 17.5229 2 12 2C6.47715 2 2 6.47715 2 12C2 16.9912 5.65684 21.1283 10.4375 21.8785V14.8906H7.89844V12H10.4375V9.79688C10.4375 7.29063 11.9305 5.90625 14.2146 5.90625C15.3084 5.90625 16.4531 6.10156 16.4531 6.10156V8.5625H15.1922C13.95 8.5625 13.5625 9.3334 13.5625 10.125V12H16.3359L15.8926 14.8906H13.5625V21.8785C18.3432 21.1283 22 16.9912 22 12Z" fill="#01011B"/>
+<path d="M15.8926 14.8906L16.3359 12H13.5625V10.125C13.5625 9.33418 13.95 8.5625 15.1922 8.5625H16.4531V6.10156C16.4531 6.10156 15.3088 5.90625 14.2146 5.90625C11.9305 5.90625 10.4375 7.29063 10.4375 9.79688V12H7.89844V14.8906H10.4375V21.8785C11.4729 22.0405 12.5271 22.0405 13.5625 21.8785V14.8906H15.8926Z" fill="white"/>
+</g>
+</svg>
+          </a>
+          <a class="social instagram" href="https://www.instagram.com/prom.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" fill-rule="evenodd" clip-rule="evenodd" d="M3.67886 3.67886C4.23577 3.12195 4.79268 2.78049 5.45122 2.52439C6.08537 2.27642 6.81301 2.10569 7.88211 2.06098C8.94715 2.0122 9.28862 2 12.0041 2C14.7195 2 15.061 2.0122 16.126 2.06098C17.1911 2.10976 17.9187 2.27642 18.5528 2.52439C19.2114 2.78049 19.7683 3.12195 20.3252 3.67886C20.878 4.23171 21.2195 4.79268 21.4756 5.44715C21.7195 6.0813 21.8902 6.80894 21.939 7.87398C21.9878 8.93902 22 9.28049 22 11.9959C22 14.7114 21.9878 15.0528 21.939 16.1179C21.8902 17.1829 21.7236 17.9106 21.4756 18.5447C21.2195 19.2033 20.878 19.7602 20.3211 20.3171C19.7642 20.874 19.2073 21.2154 18.5488 21.4715C17.9146 21.7154 17.187 21.8862 16.122 21.935C15.0569 21.9837 14.7154 21.9959 12 21.9959C9.28455 21.9959 8.94309 21.9837 7.87805 21.935C6.81301 21.8862 6.08537 21.7195 5.45122 21.4715C4.79268 21.2154 4.23577 20.874 3.67886 20.3171C3.12195 19.7602 2.78049 19.2033 2.52439 18.5447C2.28049 17.9106 2.10976 17.1829 2.06098 16.1179C2.0122 15.0528 2 14.7114 2 11.9959C2 9.28049 2.0122 8.93902 2.06098 7.87398C2.10976 6.80894 2.27642 6.0813 2.52439 5.44715C2.78049 4.79268 3.12195 4.23171 3.67886 3.67886ZM11.8862 17.0854C14.7599 17.0854 17.0894 14.7558 17.0894 11.8821C17.0894 9.00844 14.7599 6.67886 11.8862 6.67886C9.0125 6.67886 6.68293 9.00844 6.68293 11.8821C6.68293 14.7558 9.0125 17.0854 11.8862 17.0854ZM11.8862 15.0041C13.6104 15.0041 15.0081 13.6063 15.0081 11.8821C15.0081 10.1579 13.6104 8.76016 11.8862 8.76016C10.162 8.76016 8.76423 10.1579 8.76423 11.8821C8.76423 13.6063 10.162 15.0041 11.8862 15.0041ZM17.0894 7.71951C17.6642 7.71951 18.1301 7.2536 18.1301 6.67886C18.1301 6.10413 17.6642 5.63821 17.0894 5.63821C16.5147 5.63821 16.0488 6.10413 16.0488 6.67886C16.0488 7.2536 16.5147 7.71951 17.0894 7.71951Z" fill="#01011b"/>
+</svg>
+          </a>
+          <a class="social evobusiness" href="https://evo.business" target="_blank">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="colorize" d="M11.031 11.5268L15.1849 4.95602C12.0355 3.65978 8.39418 4.79454 6.54698 7.7162C4.46876 11.0054 5.45265 15.3723 8.74093 17.451C12.0297 19.5287 16.3963 18.5446 18.4748 15.257C18.8269 14.7014 19.6162 14.524 20.1707 14.8749C20.4479 15.05 20.6406 15.3231 20.7126 15.6433C20.7847 15.9632 20.7279 16.2927 20.5523 16.5703C19.1972 18.7144 17.0841 20.2038 14.602 20.7631C12.1202 21.3223 9.57213 20.8839 7.42784 19.5285C2.99349 16.7254 1.66653 10.8377 4.46945 6.40287C5.82598 4.25858 7.93908 2.76922 10.4207 2.20993C12.9025 1.65018 15.4501 2.08888 17.5942 3.44494C17.8718 3.62051 18.0645 3.89357 18.1366 4.2133C18.2087 4.53372 18.1518 4.86292 17.9763 5.1406L13.109 12.8401C12.7588 13.395 11.9685 13.5731 11.4131 13.2222C10.8411 12.8605 10.6697 12.0995 11.031 11.5268Z" fill="#01011B"/>
+</svg>
+          </a>
+          <!--<a class="social telegram" href="https://t.me/PromBuyerBot?start=WEB" target="_blank"></a>-->
+        </div>
+        <div class="news">
+          <a class="news-btn youtube" href="https://www.youtube.com/user/prom4ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/1d5182860f14ed01108250520472f4920bede6b7.png" alt="youtube">
+            <span>Новини Прому</span>
+          </a>
+          <a class="news-btn facebook" href="https://www.facebook.com/groups/institute.prom.ua" target="_blank">
+            <img src="//theme.zdassets.com/theme_assets/9422419/e3f308d3542871bdaad40b93fd8c400ccc6be41e.png" alt="facebook">
+            <span>Спільнота продавців</span>
+          </a>
+        </div>
+      </div>
+      <a class="footer-logo" href="https://prom.ua/">
+        <img src="//theme.zdassets.com/theme_assets/9422419/c5f16a937df5454d0c46267e61e1751b7526e144.png" alt="prom.ua">
+      </a>
+    </div>
+    
+  </div>
+  
+  <div class="footer-inner container ru-lang">
+    
+    <div class="footer-menu">
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Покупателям</div>
+        <ul>
+          <li><a href="https://help.prom.ua/hc/ru">Справка для покупателей</a></li>
+          <li><a href="https://prom.ua/landing/certification_by_prom">О надежных продавцах</a></li>
+          <li><a href="https://prom.ua/ua/sc/prom-oplata">Как покупать с Prom оплата</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004971837?utm_source=link2support_safe_shopping&amp;utm_medium=Portal&amp;utm_campaign=footer">Рекомендации по безопасным покупкам</a></li>
+          <li><a href="https://my.prom.ua/company_domain_check/check_is_site_on_portal">Проверка на принадлежность сайта к платформе Prom.ua</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Продавцам</div>
+        <ul>
+          <li><a href="https://support.prom.ua/hc/ru">Справка для продавцов</a></li>
+          <li><a href="https://prom.ua/join-now?source_id=new.footer">Создать сайт на Prom.ua</a></li>
+          <li><a href="https://prom.ua/how_to_order">Тарифы</a></li>
+          <li><a href="https://support.prom.ua/hc/ru/articles/360004966437">Доступ и Продвижение в Каталоге ProSale</a></li>
+          <li><a href="https://sprava.prom.ua/">Sprava.prom</a></li>
+          <li><a href="https://prom.ua/terms-of-use">Пользовательское соглашение</a></li>
+          <li><a href="https://prom.ua/privacy-policy">Политика конфиденциальности</a></li>
+          <li><a href="https://support.prom.ua/hc/uk/categories/360000787417">Правила пользования порталом</a></li>
+          <li><a href="http://www.google.com.ua/adwords/thirdpartypartners/">Руководство Google Ads</a></li>
+          <!--<li><a href="https://support.prom.ua/hc/ru/articles/360008714738">Бонусная программа электронный маркетплейс PROM</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">О нас</div>
+        <ul>
+          <li><a href="https://prom.ua/about_us">О Prom.ua</a></li>
+          <li><a href="https://evo.company/category/vacancies">Работа в Prom.ua</a></li>
+          <li><a href="https://my.prom.ua/cabinet/store/service/product_adv/dashboard">Реклама на Prom.ua</a></li>
+          <li><a href="https://prom.ua/easy_to_sell">Объявления на Prom.ua</a></li>
+          <li><a href="https://prom.ua/contact_us">Администрация</a></li>
+        </ul>
+      </div>
+      <div class="footer-menu-column">
+        <div class="footer-menu-title">Партнеры</div>
+        <ul>
+          <li><a href="https://kabanchik.ua">Kabanchik.ua</a></li>
+          <li><a href="https://vchasno.com.ua/?utm_source=prom&utm_medium=footer">Вчасно</a></li>
+          <li><a href="https://crafta.ua">Crafta.ua</a></li>
+          <li><a href="https://zakupki.prom.ua/?source_id=prom_footer&utm_source=prom.ua&utm_medium=link&utm_content=footer&utm_campaign=all">Zakupki.prom.ua</a></li>
+          <li><a href="https://shafa.ua">Shafa</a></li>
+          <li><a href="https://bigl.ua">Bigl.ua</a></li>
+          <!--<li><a href="https://prom.ua/site_partners">Официальные дилеры Prom.ua</a></li>-->
+        </ul>
+      </div>
+      <div class="footer-menu-column footer-logo">
+        <a href="https://prom.ua/">
+          <img src="//theme.zdassets.com/theme_assets/9422419/23b2936718abda06644b9d4bac2b3b84fee5af02.png" alt="">
+        </a>
+      </div>
+    </div>
+    
+  </div>
+  
+</footer>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/uk.4e5ec0c35b3b52e67901.js"></script>
+  <script src="https://evoservice.zendesk.com/auth/v2/host/without_iframe.js" data-brand-id="360000361438" data-return-to="https://support.prom.ua/hc/uk/articles/360005179638-Prom-%D1%87%D0%B0%D1%82" data-theme="hc" data-locale="uk" data-auth-origin="360000361438,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"evoservice","environment":"production","name":"Prom.ua"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"uk","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHdWsGOgZFVDoPYXJ0aWNsZV9pZGwrCPYY+9FTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDU8aPOhNoZWxwX2NlbnRlcl9pZGwrCBU4rdFTADoNYnJhbmRfaWRsKwjek7HRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiB3VrBjsGVA==--63ca499ae728a621658a3e2aea962e8e7d95d5a3","url":"https://support.prom.ua/hc/activity"},"current_record_id":"360005179638","current_record_url":"/hc/uk/articles/360005179638-Prom-%D1%87%D0%B0%D1%82","current_record_title":"Prom-чат","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":360000361438,"account_id":9422419,"name":"prom.ua","active":true,"deleted_at":null,"created_at":"2019-08-22T12:04:01Z","updated_at":"2023-09-19T12:42:48Z","route_id":2940186,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://promua.zendesk.com","current_host_mapping":"support.prom.ua","current_path":"/hc/uk/articles/360005179638-Prom-%D1%87%D0%B0%D1%82","authentication_domain":"https://evoservice.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.prom.ua/hc/uk","arrange_content_url":"https://support.prom.ua/hc/admin/arrange_contents?locale=uk","general_settings_url":"https://support.prom.ua/hc/admin/general_settings?locale=uk","user_segments_url":"https://evoservice.zendesk.com/knowledge/user_segments?brand_id=360000361438","has_gather":true,"has_ckeditor":false,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"has_suppress_request_email_modal":true,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fevoservice.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://evoservice.zendesk.com/knowledge/arrange?brand_id=360000361438","article_verification_url":"https://evoservice.zendesk.com/knowledge/verification?brand_id=360000361438","has_article_verification":true,"guide_language_settings_url":"https://support.prom.ua/hc/admin/language_settings?locale=uk","docs_importer_url":"https://evoservice.zendesk.com/knowledge/import_articles?brand_id=360000361438","content_tags_url":"https://evoservice.zendesk.com/knowledge/content_tags?brand_id=360000361438","community_badges_url":"https://evoservice.zendesk.com/knowledge/community_badges?brand_id=360000361438","community_settings_url":"https://evoservice.zendesk.com/knowledge/community_settings?brand_id=360000361438","gather_plan_state":"subscribed","search_settings_url":"https://evoservice.zendesk.com/knowledge/search_settings?brand_id=360000361438","has_multibrand_search_in_plan":true,"has_search_settings_in_plan":true,"theming_api_version":1,"theming_settings":{"brand_color":"rgba(81, 73, 157, 1)","brand_text_color":"#FFFFFF","text_color":"rgba(3, 3, 3, 1)","link_color":"rgba(6, 112, 235, 1)","background_color":"rgba(255, 255, 255, 1)","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"//theme.zdassets.com/theme_assets/9422419/c11fe128205fe027e1c5633534f9a203ad77936f.svg","favicon":"//theme.zdassets.com/theme_assets/9422419/7c5b5be44599ffeb4710be0c5428c5e9c254285b.png","homepage_background_image":"//theme.zdassets.com/theme_assets/9422419/4d82ff3e0c399da29f490bad665d20d5783bc614.svg","community_background_image":"//theme.zdassets.com/theme_assets/9422419/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/9422419/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":false,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true},"has_pci_credit_card_custom_field":true,"current_brand_id":360000361438,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":true,"has_docs_importer":false,"user_preferred_locale":"ru","has_end_user_session_renewal":true,"has_reload_page_after_changing_password":true,"has_user_session_cookie_enabled":false,"has_google_analytics_4":true,"has_end_user_2fa":false,"version":"v23787"};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-4ef0d82f9fc65c8a28f659aa3430955f.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-cd240096d8f4c02aeb9762ce9a7a1c1c.js"></script>
+  
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'828040effecb34b6',t:'MTcwMDMxMDkzMC4yNDIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

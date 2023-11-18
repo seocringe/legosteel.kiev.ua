@@ -1,0 +1,18 @@
+WhatWeb report for [1m[34mhttp://moresex.com.ua[0m
+Status    : 404 Not Found
+Title     : [1m[33m404 Not Found[0m
+IP        : 51.68.107.5
+Country   : [1m[31mUNITED KINGDOM, GB[0m
+
+Summary   : 
+
+Detected Plugins:
+HTTP Headers:
+	HTTP/1.1 404 Not Found
+	Date: Sat, 18 Nov 2023 13:09:44 GMT
+	Content-Type: text/html
+	Transfer-Encoding: chunked
+	Connection: close
+	Vary: Accept-Encoding
+	Content-Encoding: gzip
+	
